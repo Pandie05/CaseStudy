@@ -1,0 +1,723 @@
+﻿cz,Name,Incarceration_Rate_rP_gP_pall
+cz8501,Fitzgerald,0.0402
+cz32801,Waco,0.0366
+cz8502,Cordele,0.0343
+cz27605,Mission,0.0326
+cz25800,Blytheville,0.0316
+cz27602,Eagle Butte,0.0312
+cz8601,Waycross,0.0307
+cz8800,Savannah,0.03
+cz31103,Gonzales,0.0293
+cz7700,Lake City,0.0292
+cz8702,Statesboro,0.0292
+cz8701,Hinesville,0.0289
+cz10501,Columbus,0.0286
+cz9701,Columbus,0.0284
+cz10502,Starkville,0.0283
+cz5300,West Memphis,0.028
+cz30903,Amarillo,0.028
+cz33400,Longview,0.028
+cz9001,Vidalia,0.0279
+cz9200,Griffin,0.0279
+cz4002,Shreveport,0.0277
+cz9003,Dublin,0.0275
+cz32802,Corsicana,0.0275
+cz301,Middlesborough,0.0272
+cz10301,Eufaula,0.0272
+cz10000,Panama City,0.0271
+cz8602,Brunswick,0.0269
+cz8402,Washington,0.0268
+cz8503,Valdosta,0.0268
+cz402,Martinsville,0.0267
+cz4800,Greenville,0.0266
+cz10101,Bainbridge,0.0266
+cz33300,Tyler,0.0266
+cz34307,Colstrip,0.0265
+cz4701,Greenwood,0.0264
+cz33902,Sherman,0.0264
+cz4902,Dyersburg,0.0262
+cz30802,Lubbock,0.0262
+cz3901,Monroe,0.0261
+cz31304,Mason,0.0259
+cz30908,Plainview,0.0258
+cz33200,Paris,0.0257
+cz31800,College Station,0.0255
+cz5202,Memphis,0.0252
+cz32401,Big Spring,0.0251
+cz4102,Pine Bluff,0.0248
+cz2000,Virginia Beach,0.0247
+cz10400,Meridian,0.0247
+cz31501,Crystal City,0.0247
+cz4004,Many,0.0243
+cz2200,South Boston,0.0242
+cz7800,Ocala,0.024
+cz9002,Milledgeville,0.024
+cz1301,Bennettsville,0.0238
+cz3002,Yazoo City,0.0237
+cz31302,Beeville,0.0236
+cz27704,Gordon,0.0234
+cz12600,Wayne,0.0233
+cz33603,Frederick,0.0229
+cz3201,Jena,0.0229
+cz7600,Jacksonville,0.0228
+cz7900,Gainesville,0.0228
+cz9900,Tallahassee,0.0228
+cz32202,Nacogdoches,0.0228
+cz32900,Killeen,0.0228
+cz4103,El Dorado,0.0227
+cz6600,Rome,0.0227
+cz8201,Barnwell,0.0227
+cz30902,Littlefield,0.0227
+cz32100,Beaumont,0.0227
+cz31101,Victoria,0.0223
+cz32701,Brownwood,0.0223
+cz28703,Granby,0.0223
+cz10200,Albany,0.0222
+cz32201,Huntsville,0.0222
+cz33500,Texarkana,0.0221
+cz4901,Jackson,0.022
+cz8401,Aiken,0.0217
+cz4702,Clarksdale,0.0216
+cz19901,Dover,0.0216
+cz2500,Newport News,0.0215
+cz32301,San Angelo,0.0215
+cz2600,Roanoke Rapids,0.0212
+cz31700,Corpus Christi,0.0212
+cz2400,Richmond,0.0211
+cz35002,Safford,0.0211
+cz200,Morristown,0.021
+cz3600,Alexandria,0.021
+cz9500,Talladega,0.0209
+cz11101,Montgomery,0.0209
+cz8202,Charleston,0.0208
+cz9702,Americus,0.0208
+cz28502,Pueblo,0.0208
+cz11303,Colonial Beach,0.0207
+cz3300,New Orleans,0.0206
+cz6800,Lakeland,0.0206
+cz32304,Uvalde,0.0206
+cz3101,McComb,0.0204
+cz26603,East Corson UT,0.0204
+cz33100,Dallas,0.0203
+cz1702,Henderson,0.0202
+cz8100,Columbia,0.0202
+cz1302,Florence,0.0201
+cz4003,Ruston,0.0201
+cz6900,Sarasota,0.02
+cz30605,Van Horn,0.02
+cz32602,Graham,0.0199
+cz700,Spartanburg,0.0198
+cz9600,LaGrange,0.0198
+cz5600,Nashville,0.0196
+cz11102,Troy,0.0196
+cz1500,Wilmington,0.0195
+cz4301,Stuttgart,0.0195
+cz9800,Auburn,0.0195
+cz3500,Baton Rouge,0.0194
+cz7100,Port St. Lucie,0.0194
+cz4101,Crossett,0.0193
+cz8900,Macon,0.0193
+cz32501,Abilene,0.0193
+cz5000,Tupelo,0.0192
+cz2300,Lynchburg,0.0191
+cz7300,Palm Bay,0.0191
+cz9301,Winder,0.0191
+cz17600,Charlottesville,0.0191
+cz34803,Tucumcari,0.0191
+cz3003,Jackson,0.019
+cz4200,Little Rock,0.019
+cz6301,McMinnville,0.019
+cz6302,Cookeville,0.019
+cz9302,Toccoa,0.019
+cz10102,Thomasville,0.019
+cz19903,Chincoteague,0.019
+cz32305,Del Rio,0.019
+cz3202,Natchez,0.0189
+cz9100,Atlanta,0.0189
+cz25702,Poplar Bluff,0.0189
+cz30907,Matador,0.0187
+cz1400,Fayetteville,0.0186
+cz19800,Wilmington,0.0186
+cz31007,Dumas,0.0186
+cz25701,Cape Girardeau,0.0185
+cz11002,Atmore,0.0184
+cz11302,Baltimore,0.0184
+cz28503,Trinidad,0.0184
+cz30901,Clovis,0.0184
+cz32604,Vernon,0.0184
+cz37901,Las Vegas,0.0184
+cz900,Charlotte,0.0183
+cz31303,Kerrville,0.0183
+cz32000,Houston,0.0183
+cz32402,Sweetwater,0.0183
+cz33000,Fort Worth,0.0183
+cz33700,Ardmore,0.0181
+cz4602,Somerset,0.018
+cz11001,Mobile,0.018
+cz30801,Hobbs,0.018
+cz31201,Austin,0.018
+cz36502,Burns,0.018
+cz10302,Dothan,0.0179
+cz31301,San Antonio,0.0179
+cz11201,Bluefield,0.0178
+cz14200,Indianapolis,0.0178
+cz34602,Rawlins,0.0178
+cz500,Greensboro,0.0177
+cz3203,Vicksburg,0.0177
+cz4001,Magnolia,0.0177
+cz30100,Fort Smith,0.0177
+cz31401,Midland,0.0177
+cz5500,Columbia,0.0176
+cz11203,Big Stone Gap,0.0176
+cz32603,Seymour,0.0176
+cz6700,Tampa,0.0174
+cz12502,Washington Court House,0.0174
+cz16600,Roanoke,0.0174
+cz3700,Lake Charles,0.0173
+cz3902,Lake Providence,0.0173
+cz19902,Easton,0.0173
+cz6401,Chattanooga,0.0172
+cz33802,Chickasha,0.0172
+cz14000,Muncie,0.0171
+cz30402,Tulsa,0.0171
+cz26303,Turtle Mountain UT,0.0171
+cz32601,Wichita Falls,0.017
+cz8000,Sumter,0.0169
+cz9400,Gainesville,0.0169
+cz10700,Birmingham,0.0169
+cz24600,Farmington,0.0169
+cz34801,Las Vegas,0.0169
+cz1600,Wilson,0.0168
+cz25200,Henderson,0.0168
+cz29503,St. Joseph,0.0168
+cz31402,Pecos,0.0168
+cz33901,Ada,0.0168
+cz17300,Staunton,0.0167
+cz30701,Roswell,0.0167
+cz32303,Junction,0.0167
+cz3400,Houma,0.0166
+cz10801,Tuscaloosa,0.0166
+cz24100,Milwaukee,0.0166
+cz30502,Enid,0.0166
+cz6502,Cleveland,0.0165
+cz33803,Oklahoma City,0.0165
+cz34805,Alamosa,0.0165
+cz35701,Twin Falls,0.0165
+cz33801,Elk City,0.0163
+cz2900,Hattiesburg,0.0162
+cz3800,Lafayette,0.0162
+cz10802,Demopolis,0.0162
+cz35100,Tucson,0.0162
+cz37603,Portola,0.0162
+cz5900,Clarksville,0.0161
+cz11301,Fredericksburg,0.0161
+cz31102,La Grange,0.0161
+cz33602,Altus,0.0161
+cz2700,Gulfport,0.016
+cz12902,Mount Sterling,0.016
+cz13700,Concord,0.016
+cz14802,Vincennes,0.016
+cz35702,Burley,0.016
+cz800,Gastonia,0.0159
+cz3001,Kosciusko,0.0159
+cz5700,Tullahoma,0.0159
+cz7200,Cape Coral,0.0159
+cz13600,South Bend,0.0159
+cz17502,Winchester,0.0159
+cz26105,Polk,0.0159
+cz28800,Fort Collins,0.0159
+cz35201,Grand Junction,0.0159
+cz13800,Wayne,0.0158
+cz24702,Mexico,0.0158
+cz30200,Muskogee,0.0158
+cz33601,Lawton,0.0158
+cz7400,Orlando,0.0157
+cz13102,Madison,0.0157
+cz30403,Okmulgee,0.0157
+cz14100,Fort Wayne,0.0156
+cz19700,Philadelphia,0.0155
+cz30602,Alamogordo,0.0155
+cz32503,Haskell,0.0155
+cz3102,Brookhaven,0.0154
+cz10900,Pensacola,0.0154
+cz28401,Colorado Springs,0.0154
+cz29502,Kansas City,0.0154
+cz35300,Farmington,0.0154
+cz7500,Deltona,0.0153
+cz25105,Batesville,0.0153
+cz30904,Pampa,0.0153
+cz39000,Yakima,0.0153
+cz1900,Jacksonville,0.0152
+cz2800,Laurel,0.0152
+cz35801,Boise City,0.0152
+cz26204,Steele,0.0152
+cz5201,New Albany,0.0151
+cz6100,Gadsden,0.0151
+cz7000,Miami,0.0151
+cz13101,Louisville,0.0151
+cz26101,Moberly,0.0151
+cz30501,Woodward,0.0151
+cz14500,Lafayette,0.015
+cz24200,Bourbonnais,0.015
+cz31202,Burnet,0.015
+cz32302,Brady,0.015
+cz13900,Center,0.0149
+cz17100,Huntington,0.0149
+cz19200,Harrisburg,0.0149
+cz25300,Union City,0.0149
+cz35500,Gallup,0.0149
+cz100,Johnson City,0.0148
+cz5401,Bowling Green,0.0148
+cz15700,Scioto,0.0148
+cz24000,Kenosha,0.0148
+cz28900,Denver,0.0148
+cz31404,Alpine,0.0148
+cz31503,Laredo,0.0148
+cz32403,Snyder,0.0148
+cz34901,Albuquerque,0.0148
+cz8300,Greenville,0.0147
+cz25401,Paducah,0.0147
+cz31403,Fort Stockton,0.0147
+cz31900,Pearland,0.0147
+cz5800,Dickson,0.0146
+cz12903,Danville,0.0146
+cz23500,Decatur,0.0146
+cz27601,Rapid City,0.0146
+cz32502,Childress,0.0146
+cz4402,Richmond,0.0145
+cz24701,St. Louis,0.0145
+cz26102,Marshall,0.0145
+cz30604,Deming,0.0145
+cz6402,Crossville,0.0144
+cz29301,Wichita,0.0144
+cz401,Winston-Salem,0.0143
+cz1800,Goldsboro,0.0143
+cz12701,Cincinnati,0.0143
+cz25000,Quincy,0.0143
+cz32702,Stephenville,0.0143
+cz38401,Lewiston,0.0143
+cz6000,Huntsville,0.0142
+cz12901,Lexington-Fayette,0.0142
+cz4502,Hazard,0.0141
+cz602,Galax,0.014
+cz13000,Elizabethtown,0.014
+cz16802,Summersville,0.014
+cz20002,Calais,0.014
+cz5100,Corinth,0.0139
+cz12702,Maysville,0.0139
+cz27702,Cheyenne,0.0139
+cz35903,Moab,0.0139
+cz38100,Yuma,0.0139
+cz14300,Columbus,0.0138
+cz35001,Phoenix,0.0138
+cz1100,Hickory,0.0137
+cz16000,Mansfield,0.0137
+cz28301,Sterling,0.0137
+cz38700,Longview,0.0137
+cz32306,Eagle Pass,0.0136
+cz34002,Idabel,0.0136
+cz31600,Brownsville,0.0135
+cz15200,Cleveland,0.0134
+cz24500,Rolla,0.0134
+cz29902,Center,0.0134
+cz34603,Casper,0.0134
+cz37604,Reno,0.0134
+cz10600,Jasper,0.0133
+cz29403,Bartlesville,0.0133
+cz30601,El Paso,0.0133
+cz14900,Gary,0.0132
+cz17200,Harrisonburg,0.0132
+cz29602,Eldon,0.0132
+cz302,Knoxville,0.0131
+cz34902,Socorro,0.0131
+cz4601,Campbellsville,0.013
+cz15900,Columbus,0.013
+cz25900,Jonesboro,0.013
+cz29700,Springfield,0.013
+cz29303,Winfield,0.0129
+cz29800,Aurora,0.0129
+cz31001,Garden City,0.0129
+cz31004,Liberal,0.0129
+cz35401,Flagstaff,0.0129
+cz25602,Harrisburg,0.0128
+cz1002,Morganton,0.0127
+cz12501,Dayton,0.0127
+cz26104,Trenton,0.0127
+cz1204,Andrews,0.0126
+cz29402,Emporia,0.0126
+cz29005,Hutchinson,0.0125
+cz37601,Elko,0.0125
+cz26408,Glasgow,0.0125
+cz28402,Limon,0.0125
+cz2100,Washington,0.0124
+cz29504,Sedalia,0.0124
+cz11304,Washington,0.0123
+cz11900,Saginaw,0.0123
+cz13103,Bardstown,0.0123
+cz38501,Moses Lake,0.0123
+cz22602,Shawano,0.0122
+cz28202,Omaha,0.0122
+cz28701,Salida,0.0122
+cz4501,West Liberty,0.0121
+cz29601,Columbia,0.0121
+cz35802,Ontario,0.0121
+cz38901,Eugene,0.0121
+cz1203,Asheville,0.012
+cz14600,Bloomington,0.012
+cz31005,Perryton,0.012
+cz30905,Wellington,0.012
+cz601,North Wilkesboro,0.0119
+cz12100,Kalamazoo,0.0119
+cz30603,Truth or Consequences,0.0119
+cz36700,Eureka,0.0119
+cz38902,Newport,0.0119
+cz11202,Welch,0.0118
+cz11402,Marinette,0.0118
+cz31502,Pearsall,0.0118
+cz11600,Detroit,0.0117
+cz17400,Hagerstown,0.0117
+cz24300,Chicago,0.0117
+cz29203,Manhattan,0.0117
+cz34802,Santa Fe,0.0117
+cz16801,Beckley,0.0116
+cz18900,Williamsport,0.0116
+cz20403,Oak Bluffs,0.0116
+cz37200,Fresno,0.0116
+cz1701,Raleigh,0.0115
+cz13502,Defiance,0.0115
+cz29901,Joplin,0.0115
+cz37000,Modesto,0.0115
+cz4401,London,0.0114
+cz15100,Lorain,0.0114
+cz26103,Brookfield,0.0114
+cz29003,Dodge City,0.0114
+cz28606,Wano,0.0114
+cz16400,Youngstown,0.0113
+cz29501,Leavenworth,0.0113
+cz30401,Stillwater,0.0113
+cz34308,Billings,0.0113
+cz11500,Jackson,0.0112
+cz12200,Grand Rapids,0.0112
+cz12301,Traverse City,0.0112
+cz12800,Washington,0.0112
+cz23400,Bloomington,0.0112
+cz29204,Topeka,0.0111
+cz37100,Bakersfield,0.0111
+cz39100,Kennewick,0.0111
+cz1201,Franklin,0.011
+cz4302,Searcy,0.011
+cz12001,Big Rapids,0.011
+cz14400,Terre Haute,0.011
+cz26602,Sisseton,0.011
+cz34001,Hot Springs,0.011
+cz34201,Havre,0.011
+cz34503,Kalispell,0.011
+cz15800,Athens,0.0109
+cz12302,Petoskey,0.0108
+cz20901,Bridgeport,0.0108
+cz24802,Springfield,0.0108
+cz29401,Ottawa,0.0108
+cz34303,Riverton,0.0108
+cz36901,Crescent City,0.0108
+cz5402,Glasgow,0.0107
+cz11700,Lansing,0.0107
+cz36302,Salmon,0.0107
+cz39302,Bellingham,0.0107
+cz24400,Rockford,0.0106
+cz36404,Rock Springs,0.0106
+cz37400,Sacramento,0.0106
+cz11403,Sault Ste. Marie,0.0105
+cz17000,Pikeville,0.0105
+cz23900,Peoria,0.0105
+cz30000,Russellville,0.0104
+cz35402,Cortez,0.0104
+cz36401,Steamboat Springs,0.0104
+cz4903,Lexington,0.0103
+cz16100,State College,0.0103
+cz38300,Los Angeles,0.0103
+cz13501,Toledo,0.0102
+cz25500,Centralia,0.0102
+cz26301,Devils Lake,0.0102
+cz28304,Valentine,0.0102
+cz29506,Bethany,0.0102
+cz30300,Fayetteville,0.0102
+cz19100,Reading,0.0101
+cz25601,Carbondale,0.0101
+cz30906,Memphis,0.0101
+cz34601,Gillette,0.0101
+cz36600,Redding,0.0101
+cz14700,Evansville,0.01
+cz29104,Salina,0.01
+cz26604,Mobridge,0.01
+cz27009,Chamberlain,0.01
+cz6501,Ellijay,0.0099
+cz16901,Charleston,0.0099
+cz34304,Sheridan,0.0099
+cz13200,Owensboro,0.0098
+cz18202,St. Marys,0.0098
+cz34203,Great Falls,0.0098
+cz34404,Butte-Silver Bow,0.0098
+cz16500,Erie,0.0097
+cz18700,Sunbury,0.0097
+cz25104,Heber Springs,0.0097
+cz26107,Kirksville,0.0097
+cz38801,Portland,0.0097
+cz12402,Grayling charter,0.0096
+cz6200,Florence,0.0095
+cz23301,Charleston,0.0095
+cz25102,West Plains,0.0095
+cz31006,Guymon,0.0095
+cz34504,Missoula,0.0095
+cz39202,Enterprise,0.0095
+cz38601,Spokane,0.0094
+cz16200,Altoona,0.0093
+cz17700,Syracuse,0.0093
+cz18800,Scranton,0.0093
+cz23801,Davenport,0.0093
+cz27501,Des Moines,0.0093
+cz36501,Klamath Falls,0.0093
+cz36800,Medford,0.0093
+cz39400,Seattle,0.0093
+cz18000,Buffalo,0.0092
+cz19400,New York,0.0092
+cz21004,Rhinelander,0.0092
+cz28001,Sioux City,0.0092
+cz37300,Chico,0.0092
+cz19000,Allentown,0.0091
+cz39203,Bend,0.0091
+cz34302,Worland,0.0091
+cz20302,Claremont,0.009
+cz25402,Murray,0.009
+cz11800,Mount Pleasant,0.0089
+cz16300,Pittsburgh,0.0089
+cz25101,Mountain Home,0.0089
+cz26605,Aberdeen,0.0089
+cz27011,Pierre,0.0089
+cz34501,Bonners Ferry,0.0089
+cz16703,Buckhannon,0.0088
+cz28101,Lincoln,0.0088
+cz28702,Glenwood Springs,0.0088
+cz29505,Polk,0.0088
+cz34202,Shelby,0.0088
+cz35902,Price,0.0088
+cz14801,Olney,0.0087
+cz15000,Canton,0.0087
+cz16702,Morgantown,0.0087
+cz19600,Newark,0.0087
+cz22001,Waterloo,0.0087
+cz31002,Ulysses,0.0087
+cz35904,Richfield,0.0087
+cz36100,Salt Lake City,0.0087
+cz35803,McCall,0.0087
+cz26305,Rugby,0.0086
+cz13400,Lima,0.0085
+cz19300,Poughkeepsie,0.0085
+cz21101,Rice Lake,0.0085
+cz23100,Madison,0.0085
+cz23700,Galesburg,0.0084
+cz24801,Jacksonville,0.0084
+cz25103,Harrison,0.0084
+cz38000,San Diego,0.0084
+cz1001,Boone,0.0083
+cz18600,Albany,0.0083
+cz20003,Presque Isle,0.0083
+cz36301,Pocatello,0.0083
+cz31003,Scott City,0.0083
+cz36503,Lakeview,0.0082
+cz37602,Winnemucca,0.0082
+cz13300,Findlay,0.0081
+cz17501,Cumberland,0.0081
+cz23600,Burlington,0.0081
+cz34401,Dillon,0.0081
+cz12002,Ludington,0.008
+cz20902,Pittsfield,0.008
+cz22601,Green Bay,0.008
+cz26703,Thief River Falls,0.008
+cz36402,Vernal,0.008
+cz36902,Roseburg,0.008
+cz38200,Santa Barbara,0.008
+cz20301,Berlin,0.0079
+cz38802,The Dalles,0.0079
+cz18100,Elmira,0.0078
+cz20200,Burlington,0.0078
+cz27903,Grand Island,0.0078
+cz12401,Alpena,0.0077
+cz21502,Pine City,0.0077
+cz24900,Edwardsville,0.0077
+cz18201,Olean,0.0075
+cz21102,Amery,0.0075
+cz22700,Wausau,0.0075
+cz18400,Plattsburgh,0.0074
+cz26106,Centerville,0.0074
+cz26704,Grand Forks,0.0074
+cz27004,Winner,0.0074
+cz20800,Springfield,0.0073
+cz23302,Douglas,0.0073
+cz27701,Scottsbluff,0.0073
+cz28609,Lexington,0.0073
+cz37500,San Jose,0.0072
+cz27012,Gettysburg,0.0072
+cz15500,Steubenville,0.0071
+cz26503,Sioux Falls,0.0071
+cz20700,Keene,0.007
+cz22100,Iowa City,0.007
+cz22200,Cedar Rapids,0.007
+cz29302,Newton,0.007
+cz34204,Lewistown,0.007
+cz34403,Helena,0.007
+cz37700,Santa Rosa,0.007
+cz22900,La Crosse,0.0069
+cz26002,Duluth,0.0069
+cz27504,Carroll,0.0069
+cz38502,Wenatchee,0.0069
+cz20600,Manchester,0.0068
+cz26004,International Falls,0.0068
+cz27008,Parkston,0.0068
+cz27802,Columbus,0.0068
+cz29004,Great Bend,0.0068
+cz37800,San Francisco,0.0068
+cz28602,Norton,0.0068
+cz15300,Parkersburg,0.0067
+cz17800,Oneonta,0.0067
+cz22500,Oshkosh,0.0067
+cz27007,Huron,0.0067
+cz34301,Cody,0.0067
+cz19500,Toms River,0.0066
+cz20001,Bangor,0.0066
+cz20100,Portland,0.0066
+cz26201,Bismarck,0.0066
+cz26701,Bemidji,0.0066
+cz27402,Fort Dodge,0.0066
+cz27801,Columbus-Norfolk,0.0066
+cz35905,Loa,0.0066
+cz29101,Concordia,0.0065
+cz39201,La Grande,0.0065
+cz28504,Burlington,0.0065
+cz17900,Union,0.0064
+cz26504,Watertown,0.0064
+cz28704,Laramie,0.0064
+cz38602,Colville,0.0064
+cz11401,Marquette,0.0063
+cz21900,Marshalltown,0.0063
+cz22400,Sheboygan,0.0063
+cz27703,Torrington,0.0063
+cz34502,Libby,0.0063
+cz35901,St. George,0.0063
+cz36000,Provo,0.0063
+cz26804,Cooperstown,0.0063
+cz15400,Zanesville,0.0062
+cz26802,Lisbon,0.0062
+cz27005,Yankton,0.0062
+cz27101,Willmar,0.0062
+cz27603,Southwest Jackson UT,0.0062
+cz18300,Watertown,0.0061
+cz26409,Glendive,0.0061
+cz27502,Creston,0.0061
+cz28306,North Platte,0.0061
+cz21003,Ironwood,0.006
+cz21501,Minneapolis,0.006
+cz26501,Brookings,0.006
+cz26801,Fargo,0.006
+cz34804,Clayton,0.006
+cz16902,Spencer,0.0059
+cz21801,Mason City,0.0059
+cz26803,Jamestown,0.0059
+cz28002,West Point,0.0059
+cz34402,Bozeman,0.0059
+cz21702,Austin,0.0058
+cz28303,Oshkosh,0.0058
+cz16701,Elkins,0.0057
+cz23802,Clinton,0.0057
+cz28201,Red Oak,0.0057
+cz22300,Ottumwa,0.0056
+cz36200,Logan,0.0056
+cz21701,Rochester,0.0055
+cz28608,Kearney,0.0055
+cz29202,Marysville,0.0055
+cz36403,Soda Springs,0.0055
+cz23200,Dubuque,0.0054
+cz26304,Minot,0.0054
+cz27006,Mitchell,0.0054
+cz27902,York,0.0054
+cz1202,Sylva,0.0053
+cz18500,Amsterdam,0.0053
+cz21600,Brainerd,0.0053
+cz39303,Port Angeles,0.0052
+cz26702,Grafton,0.0051
+cz27302,Fairmont,0.0051
+cz21001,Ashland,0.005
+cz23000,Monroe,0.005
+cz26601,Milbank,0.0049
+cz29001,Pratt,0.0049
+cz28501,Springfield,0.0049
+cz21201,Hutchinson,0.0048
+cz27503,Atlantic,0.0048
+cz34305,Miles City,0.0048
+cz28601,Oberlin,0.0048
+cz21302,Owatonna,0.0047
+cz27202,Worthington,0.0047
+cz21202,Redwood Falls,0.0047
+cz20500,Boston,0.0046
+cz22800,Eau Claire,0.0046
+cz27401,Storm Lake,0.0045
+cz26302,Carrington,0.0045
+cz26902,Little Falls,0.0044
+cz28305,Broken Bow,0.0044
+cz37903,Mammoth Lakes,0.0044
+cz26406,Wolf Point,0.0044
+cz26203,Linton,0.0044
+cz22002,Iowa Falls,0.0043
+cz29201,Hiawatha,0.0043
+cz29007,Township 11,0.0043
+cz28102,Nebraska City,0.0042
+cz28605,Goodland,0.0042
+cz29006,Hays,0.0042
+cz35202,Gunnison,0.0041
+cz27901,Hastings,0.004
+cz26410,Dickinson,0.004
+cz26003,West Cook UT,0.004
+cz21400,St. Cloud,0.0039
+cz27301,Spencer,0.0039
+cz21002,Houghton,0.0038
+cz15600,Wheeling,0.0037
+cz21802,Decorah,0.0037
+cz27010,Miller,0.0037
+cz26412,Williston,0.0035
+cz39301,Friday Harbor,0.0035
+cz21301,Mankato,0.0034
+cz27102,Marshall,0.0034
+cz38402,Pullman,0.0034
+cz37902,Reno,0.0034
+cz36303,Jackson,0.0033
+cz26901,Fergus Falls,0.0032
+cz27201,Sioux Center,0.0032
+cz28607,McCook,0.0032
+cz29008,Center,0.0032
+cz20401,Providence,0.0031
+cz26502,Madison,0.003
+cz26202,East Grant UT,0.0028
+cz20402,Nantucket,0.0026
+cz27002,Ord,0.0026
+cz34306,Jordan,0.0024
+cz39204,Condon,0.0022
+cz34604,Lusk,0.0021
+cz26001,Roseau,0.0019
+cz28302,Ogallala,0.0019
+cz27001,O'Neill,0.0017
+cz28604,Colby,0.0017
+cz27003,Ainsworth,0.0016
+cz30702,Santa Rosa,0.0016
+cz26404,Lemmon,0.0015
+cz39205,John Day,0.0012
+cz26402,Baker,0.0011
+cz28603,Phillipsburg,0.001
+cz29103,Beloit,0.0009
+cz29102,Superior,0.0006
+cz29002,Coldwater,0.0006
+cz26403,Bowman,0.0006
+cz26407,Plentywood,0.0006
+cz26411,Sidney,0.0002
+cz26401,Ekalaka,0
+cz34309,Harlowton,0
+cz26405,Scobey,0
+cz27604,Murdo,0

@@ -1,723 +1,3224 @@
-﻿cz,Name,High_School_Graduation_Rate_rP_gP_pall
-cz28303,Oshkosh,0.9601
-cz27603,Southwest Jackson UT,0.9544
-cz34604,Lusk,0.9484
-cz29002,Coldwater,0.9474
-cz18202,St. Marys,0.9331
-cz26502,Madison,0.9328
-cz26204,Steele,0.9303
-cz26202,East Grant UT,0.9251
-cz28601,Oberlin,0.9244
-cz29101,Concordia,0.9236
-cz28606,Wano,0.9234
-cz20402,Nantucket,0.9225
-cz19500,Toms River,0.9214
-cz26004,International Falls,0.9208
-cz29201,Hiawatha,0.92
-cz28504,Burlington,0.9194
-cz23200,Dubuque,0.9173
-cz37603,Portola,0.9172
-cz27503,Atlantic,0.917
-cz26803,Jamestown,0.9166
-cz29501,Leavenworth,0.9165
-cz16300,Pittsburgh,0.9162
-cz29006,Hays,0.9158
-cz29202,Marysville,0.9153
-cz19600,Newark,0.9151
-cz21001,Ashland,0.9149
-cz17501,Cumberland,0.9142
-cz23302,Douglas,0.9136
-cz20500,Boston,0.9127
-cz27402,Fort Dodge,0.9119
-cz20901,Bridgeport,0.9118
-cz22001,Waterloo,0.911
-cz26201,Bismarck,0.9109
-cz26704,Grand Forks,0.9109
-cz27001,O'Neill,0.9106
-cz23400,Bloomington,0.9102
-cz29008,Center,0.91
-cz26605,Aberdeen,0.9099
-cz37903,Mammoth Lakes,0.9099
-cz38402,Pullman,0.9089
-cz26411,Sidney,0.9087
-cz26410,Dickinson,0.9086
-cz11301,Fredericksburg,0.9081
-cz16200,Altoona,0.9081
-cz21802,Decorah,0.908
-cz21202,Redwood Falls,0.9079
-cz27201,Sioux Center,0.9075
-cz23600,Burlington,0.9073
-cz27302,Fairmont,0.9073
-cz15500,Steubenville,0.9071
-cz20902,Pittsfield,0.9069
-cz27501,Des Moines,0.9063
-cz15600,Wheeling,0.9061
-cz39202,Enterprise,0.906
-cz28501,Springfield,0.9058
-cz26203,Linton,0.9056
-cz26304,Minot,0.9054
-cz18000,Buffalo,0.9052
-cz28101,Lincoln,0.9049
-cz22800,Eau Claire,0.9047
-cz27202,Worthington,0.9046
-cz18800,Scranton,0.9045
-cz26801,Fargo,0.9043
-cz36200,Logan,0.9041
-cz24900,Edwardsville,0.9037
-cz18600,Albany,0.9035
-cz11304,Washington,0.9032
-cz26601,Milbank,0.9032
-cz28603,Phillipsburg,0.9032
-cz28608,Kearney,0.9031
-cz22700,Wausau,0.903
-cz36503,Lakeview,0.903
-cz22002,Iowa Falls,0.9028
-cz28605,Goodland,0.9027
-cz21501,Minneapolis,0.9024
-cz34502,Libby,0.9021
-cz16802,Summersville,0.9015
-cz19000,Allentown,0.9009
-cz27007,Huron,0.9009
-cz20401,Providence,0.9008
-cz37902,Reno,0.9008
-cz22200,Cedar Rapids,0.9007
-cz34401,Dillon,0.9006
-cz34309,Harlowton,0.9005
-cz26802,Lisbon,0.9001
-cz27102,Marshall,0.9001
-cz27902,York,0.9
-cz25402,Murray,0.8999
-cz39301,Friday Harbor,0.8999
-cz28704,Laramie,0.8998
-cz22300,Ottumwa,0.8997
-cz23100,Madison,0.8997
-cz36000,Provo,0.8997
-cz22900,La Crosse,0.8995
-cz27005,Yankton,0.8995
-cz19700,Philadelphia,0.8994
-cz28604,Colby,0.8993
-cz36403,Soda Springs,0.8992
-cz21900,Marshalltown,0.899
-cz22500,Oshkosh,0.8988
-cz21003,Ironwood,0.8985
-cz11201,Bluefield,0.8983
-cz36301,Pocatello,0.8983
-cz20003,Presque Isle,0.8979
-cz26002,Duluth,0.8979
-cz26503,Sioux Falls,0.8979
-cz25500,Centralia,0.8977
-cz28102,Nebraska City,0.8977
-cz24802,Springfield,0.8976
-cz32502,Childress,0.8976
-cz16100,State College,0.8975
-cz27504,Carroll,0.8975
-cz23802,Clinton,0.8973
-cz21301,Mankato,0.8971
-cz22602,Shawano,0.8969
-cz29203,Manhattan,0.8969
-cz37800,San Francisco,0.8968
-cz2300,Lynchburg,0.8964
-cz11401,Marquette,0.8964
-cz26003,West Cook UT,0.8964
-cz26902,Little Falls,0.8962
-cz24801,Jacksonville,0.8961
-cz27801,Columbus-Norfolk,0.8958
-cz24300,Chicago,0.8953
-cz28602,Norton,0.895
-cz26703,Thief River Falls,0.8949
-cz29102,Superior,0.8949
-cz23000,Monroe,0.8948
-cz23900,Peoria,0.8947
-cz23801,Davenport,0.8943
-cz21201,Hutchinson,0.8941
-cz16702,Morgantown,0.8939
-cz19300,Poughkeepsie,0.8938
-cz26105,Polk,0.8937
-cz14801,Olney,0.8936
-cz26901,Fergus Falls,0.8936
-cz20200,Burlington,0.8935
-cz28306,North Platte,0.8933
-cz27301,Spencer,0.8924
-cz26412,Williston,0.8923
-cz34402,Bozeman,0.8921
-cz4101,Crossett,0.892
-cz27702,Cheyenne,0.892
-cz26107,Kirksville,0.8918
-cz29204,Topeka,0.8918
-cz11202,Welch,0.8917
-cz16600,Roanoke,0.8915
-cz36302,Salmon,0.8915
-cz27101,Willmar,0.8914
-cz21801,Mason City,0.8913
-cz22601,Green Bay,0.8912
-cz28202,Omaha,0.8912
-cz28304,Valentine,0.8912
-cz34601,Gillette,0.8912
-cz35202,Gunnison,0.8911
-cz27002,Ord,0.8911
-cz27502,Creston,0.891
-cz27802,Columbus,0.891
-cz23301,Charleston,0.8904
-cz26106,Centerville,0.8904
-cz21004,Rhinelander,0.8903
-cz22400,Sheboygan,0.8902
-cz20002,Calais,0.8899
-cz29103,Beloit,0.8899
-cz11303,Colonial Beach,0.8898
-cz13200,Owensboro,0.8897
-cz36100,Salt Lake City,0.8895
-cz19902,Easton,0.8894
-cz11302,Baltimore,0.8893
-cz25104,Heber Springs,0.8891
-cz23500,Decatur,0.8888
-cz26504,Watertown,0.8885
-cz27903,Grand Island,0.8885
-cz24200,Bourbonnais,0.8884
-cz17700,Syracuse,0.8883
-cz20100,Portland,0.8883
-cz26409,Glendive,0.8882
-cz36303,Jackson,0.888
-cz34403,Helena,0.8875
-cz37700,Santa Rosa,0.8875
-cz6302,Cookeville,0.8874
-cz16703,Buckhannon,0.8872
-cz21701,Rochester,0.887
-cz15300,Parkersburg,0.8869
-cz23700,Galesburg,0.8866
-cz27901,Hastings,0.8866
-cz36700,Eureka,0.8865
-cz26408,Glasgow,0.8863
-cz13400,Lima,0.886
-cz25601,Carbondale,0.8859
-cz16901,Charleston,0.8855
-cz22100,Iowa City,0.8855
-cz602,Galax,0.8854
-cz21400,St. Cloud,0.8852
-cz13300,Findlay,0.8851
-cz18400,Plattsburgh,0.885
-cz20800,Springfield,0.885
-cz28402,Limon,0.8849
-cz16801,Beckley,0.8847
-cz38601,Spokane,0.8845
-cz24100,Milwaukee,0.8842
-cz36600,Redding,0.8842
-cz30401,Stillwater,0.8841
-cz29401,Ottawa,0.884
-cz26302,Carrington,0.8839
-cz25000,Quincy,0.8838
-cz37400,Sacramento,0.8835
-cz36404,Rock Springs,0.8833
-cz18201,Olean,0.883
-cz35903,Moab,0.8828
-cz36501,Klamath Falls,0.8828
-cz28201,Red Oak,0.8827
-cz28002,West Point,0.8825
-cz28001,Sioux City,0.8822
-cz30904,Pampa,0.8822
-cz35901,St. George,0.8821
-cz2500,Newport News,0.882
-cz39204,Condon,0.882
-cz35905,Loa,0.8819
-cz24400,Rockford,0.8818
-cz21702,Austin,0.8817
-cz29104,Salina,0.8817
-cz29303,Winfield,0.8816
-cz20600,Manchester,0.8815
-cz26604,Mobridge,0.8815
-cz26702,Grafton,0.8814
-cz21101,Rice Lake,0.881
-cz19400,New York,0.8808
-cz36901,Crescent City,0.8808
-cz12302,Petoskey,0.8805
-cz17300,Staunton,0.8805
-cz25103,Harrison,0.8805
-cz26501,Brookings,0.8805
-cz2400,Richmond,0.8804
-cz11700,Lansing,0.8804
-cz17900,Union,0.8804
-cz34404,Butte-Silver Bow,0.8804
-cz27003,Ainsworth,0.8804
-cz29601,Columbia,0.8801
-cz38200,Santa Barbara,0.8799
-cz11600,Detroit,0.8797
-cz21302,Owatonna,0.8797
-cz27006,Mitchell,0.8797
-cz39303,Port Angeles,0.8797
-cz11203,Big Stone Gap,0.8796
-cz19800,Wilmington,0.8792
-cz29007,Township 11,0.8791
-cz26102,Marshall,0.879
-cz34603,Casper,0.8787
-cz37500,San Jose,0.8787
-cz26305,Rugby,0.8787
-cz16400,Youngstown,0.8786
-cz26001,Roseau,0.8785
-cz34303,Riverton,0.8785
-cz27008,Parkston,0.8783
-cz26402,Baker,0.8782
-cz28401,Colorado Springs,0.878
-cz28702,Glenwood Springs,0.8779
-cz38000,San Diego,0.8779
-cz13501,Toledo,0.8778
-cz31102,La Grange,0.8777
-cz34504,Missoula,0.8777
-cz17100,Huntington,0.8775
-cz18100,Elmira,0.8775
-cz14700,Evansville,0.8774
-cz25101,Mountain Home,0.8772
-cz17600,Charlottesville,0.877
-cz35902,Price,0.877
-cz39400,Seattle,0.8769
-cz32900,Killeen,0.8767
-cz13103,Bardstown,0.8766
-cz14900,Gary,0.8763
-cz27004,Winner,0.8763
-cz15200,Cleveland,0.8762
-cz21002,Houghton,0.8761
-cz24701,St. Louis,0.8761
-cz11402,Marinette,0.8759
-cz16701,Elkins,0.8758
-cz34203,Great Falls,0.8757
-cz38901,Eugene,0.8757
-cz34305,Miles City,0.8756
-cz17800,Oneonta,0.8754
-cz18300,Watertown,0.8753
-cz25602,Harrisburg,0.8753
-cz15100,Lorain,0.875
-cz12800,Washington,0.8747
-cz20001,Bangor,0.8747
-cz28609,Lexington,0.8747
-cz31005,Perryton,0.8746
-cz14500,Lafayette,0.8743
-cz14100,Fort Wayne,0.8741
-cz20403,Oak Bluffs,0.8741
-cz24000,Kenosha,0.874
-cz36502,Burns,0.874
-cz38401,Lewiston,0.8737
-cz38801,Portland,0.8737
-cz19200,Harrisburg,0.8736
-cz36401,Steamboat Springs,0.8733
-cz302,Knoxville,0.8732
-cz32603,Seymour,0.8732
-cz26602,Sisseton,0.873
-cz34902,Socorro,0.873
-cz21102,Amery,0.8729
-cz35801,Boise City,0.8729
-cz27601,Rapid City,0.8727
-cz28302,Ogallala,0.8725
-cz29502,Kansas City,0.8725
-cz16500,Erie,0.8722
-cz402,Martinsville,0.8721
-cz12701,Cincinnati,0.872
-cz12200,Grand Rapids,0.8717
-cz28800,Fort Collins,0.8715
-cz28900,Denver,0.8715
-cz20301,Berlin,0.871
-cz27401,Storm Lake,0.8709
-cz39203,Bend,0.8708
-cz26701,Bemidji,0.8707
-cz26403,Bowman,0.8707
-cz100,Johnson City,0.8706
-cz31003,Scott City,0.8706
-cz28301,Sterling,0.8704
-cz29301,Wichita,0.8704
-cz26401,Ekalaka,0.87
-cz36902,Roseburg,0.8697
-cz26407,Plentywood,0.8697
-cz32601,Wichita Falls,0.8696
-cz34307,Colstrip,0.8695
-cz29505,Polk,0.8693
-cz26103,Brookfield,0.8691
-cz29503,St. Joseph,0.8691
-cz34308,Billings,0.8691
-cz1203,Asheville,0.8687
-cz4200,Little Rock,0.8686
-cz200,Morristown,0.8684
-cz1204,Andrews,0.8684
-cz30906,Memphis,0.8684
-cz38602,Colville,0.8682
-cz25200,Henderson,0.8681
-cz27011,Pierre,0.8681
-cz37602,Winnemucca,0.868
-cz21600,Brainerd,0.8679
-cz29402,Emporia,0.8677
-cz37300,Chico,0.8674
-cz26406,Wolf Point,0.867
-cz2200,South Boston,0.8669
-cz11900,Saginaw,0.8669
-cz25900,Jonesboro,0.8659
-cz15800,Athens,0.8658
-cz39302,Bellingham,0.8658
-cz20302,Claremont,0.8657
-cz30602,Alamogordo,0.8657
-cz34802,Santa Fe,0.8657
-cz17400,Hagerstown,0.8656
-cz15900,Columbus,0.8654
-cz5500,Columbia,0.8651
-cz14200,Indianapolis,0.8651
-cz12002,Ludington,0.865
-cz1701,Raleigh,0.8649
-cz15400,Zanesville,0.8648
-cz1201,Franklin,0.8647
-cz12501,Dayton,0.8644
-cz4001,Magnolia,0.8642
-cz29005,Hutchinson,0.864
-cz12401,Alpena,0.8637
-cz28305,Broken Bow,0.8637
-cz27701,Scottsbluff,0.8635
-cz12100,Kalamazoo,0.8634
-cz13101,Louisville,0.8633
-cz34001,Hot Springs,0.8632
-cz35702,Burley,0.8632
-cz37000,Modesto,0.8627
-cz17200,Harrisonburg,0.8626
-cz17502,Winchester,0.8626
-cz13900,Center,0.8625
-cz34304,Sheridan,0.8622
-cz28701,Salida,0.8618
-cz13502,Defiance,0.8617
-cz14300,Columbus,0.8614
-cz5401,Bowling Green,0.8613
-cz33602,Altus,0.861
-cz2000,Virginia Beach,0.8609
-cz27012,Gettysburg,0.8608
-cz29302,Newton,0.8607
-cz4901,Jackson,0.8604
-cz16000,Mansfield,0.8604
-cz18900,Williamsport,0.8603
-cz25300,Union City,0.8603
-cz38300,Los Angeles,0.8601
-cz39100,Kennewick,0.8601
-cz29001,Pratt,0.8601
-cz4601,Campbellsville,0.86
-cz11500,Jackson,0.86
-cz29403,Bartlesville,0.86
-cz31201,Austin,0.8599
-cz39205,John Day,0.8599
-cz34302,Worland,0.8596
-cz25105,Batesville,0.8594
-cz28607,McCook,0.8594
-cz401,Winston-Salem,0.8592
-cz37604,Reno,0.8592
-cz25401,Paducah,0.8591
-cz34201,Havre,0.858
-cz38802,The Dalles,0.8579
-cz5800,Dickson,0.8578
-cz35201,Grand Junction,0.857
-cz6502,Cleveland,0.8569
-cz12702,Maysville,0.8569
-cz38700,Longview,0.8568
-cz18700,Sunbury,0.8566
-cz4602,Somerset,0.856
-cz5600,Nashville,0.856
-cz12301,Traverse City,0.856
-cz24500,Rolla,0.856
-cz37601,Elko,0.856
-cz12901,Lexington-Fayette,0.8559
-cz32302,Brady,0.8558
-cz34301,Cody,0.8556
-cz30501,Woodward,0.8553
-cz1001,Boone,0.8552
-cz34805,Alamosa,0.8552
-cz2100,Washington,0.8551
-cz9100,Atlanta,0.855
-cz14802,Vincennes,0.8549
-cz7900,Gainesville,0.8548
-cz19901,Dover,0.8548
-cz34503,Kalispell,0.8548
-cz14400,Terre Haute,0.8546
-cz38902,Newport,0.8546
-cz14000,Muncie,0.8545
-cz13000,Elizabethtown,0.8544
-cz27703,Torrington,0.8543
-cz36800,Medford,0.8543
-cz301,Middlesborough,0.8538
-cz35701,Twin Falls,0.8538
-cz1202,Sylva,0.8537
-cz1500,Wilmington,0.8536
-cz29901,Joplin,0.8536
-cz4903,Lexington,0.8531
-cz8100,Columbia,0.8529
-cz4301,Stuttgart,0.8528
-cz32701,Brownwood,0.8528
-cz4302,Searcy,0.8525
-cz30402,Tulsa,0.8525
-cz31303,Kerrville,0.8523
-cz4102,Pine Bluff,0.8522
-cz30100,Fort Smith,0.8522
-cz24702,Mexico,0.8521
-cz35402,Cortez,0.8521
-cz33200,Paris,0.8519
-cz5900,Clarksville,0.8518
-cz35401,Flagstaff,0.8518
-cz32201,Huntsville,0.8515
-cz38502,Wenatchee,0.8514
-cz25701,Cape Girardeau,0.8512
-cz35802,Ontario,0.851
-cz11800,Mount Pleasant,0.8509
-cz10900,Pensacola,0.8506
-cz28503,Trinidad,0.8506
-cz15700,Scioto,0.8505
-cz4502,Hazard,0.8504
-cz9900,Tallahassee,0.8502
-cz39201,La Grande,0.8502
-cz26301,Devils Lake,0.85
-cz4402,Richmond,0.8497
-cz30000,Russellville,0.8497
-cz33902,Sherman,0.8496
-cz13600,South Bend,0.8494
-cz4103,El Dorado,0.8493
-cz35904,Richfield,0.8493
-cz15000,Canton,0.8492
-cz7200,Cape Coral,0.8491
-cz31403,Fort Stockton,0.8491
-cz20700,Keene,0.8489
-cz33000,Fort Worth,0.8489
-cz17000,Pikeville,0.8486
-cz19100,Reading,0.8483
-cz1900,Jacksonville,0.8482
-cz6402,Crossville,0.8482
-cz30903,Amarillo,0.8482
-cz33803,Oklahoma City,0.8481
-cz38501,Moses Lake,0.8479
-cz900,Charlotte,0.8474
-cz16902,Spencer,0.8471
-cz34501,Bonners Ferry,0.8469
-cz32604,Vernon,0.8467
-cz34901,Albuquerque,0.8466
-cz12903,Danville,0.8465
-cz33901,Ada,0.8465
-cz18500,Amsterdam,0.8464
-cz35500,Gallup,0.8461
-cz12502,Washington Court House,0.846
-cz29506,Bethany,0.8459
-cz31101,Victoria,0.8459
-cz29700,Springfield,0.8457
-cz12902,Mount Sterling,0.8456
-cz6301,McMinnville,0.8455
-cz26101,Moberly,0.8455
-cz32503,Haskell,0.8452
-cz28703,Granby,0.8452
-cz33601,Lawton,0.8451
-cz26804,Cooperstown,0.8449
-cz35803,McCall,0.8449
-cz12402,Grayling charter,0.8448
-cz7400,Orlando,0.8447
-cz7300,Palm Bay,0.8446
-cz7000,Miami,0.8445
-cz500,Greensboro,0.8441
-cz30802,Lubbock,0.8441
-cz35100,Tucson,0.8441
-cz6200,Florence,0.844
-cz33603,Frederick,0.8439
-cz7500,Deltona,0.8436
-cz30502,Enid,0.8436
-cz30905,Wellington,0.8435
-cz8800,Savannah,0.8433
-cz29602,Eldon,0.8433
-cz6700,Tampa,0.8431
-cz35001,Phoenix,0.8431
-cz33100,Dallas,0.843
-cz27010,Miller,0.843
-cz3700,Lake Charles,0.8429
-cz6000,Huntsville,0.8427
-cz32403,Snyder,0.8426
-cz1002,Morganton,0.8424
-cz10700,Birmingham,0.8424
-cz1800,Goldsboro,0.8416
-cz32501,Abilene,0.8415
-cz37100,Bakersfield,0.8415
-cz33300,Tyler,0.8414
-cz3300,New Orleans,0.8411
-cz11403,Sault Ste. Marie,0.8411
-cz14600,Bloomington,0.8411
-cz33400,Longview,0.8408
-cz36402,Vernal,0.8403
-cz10302,Dothan,0.84
-cz32301,San Angelo,0.8399
-cz31900,Pearland,0.8398
-cz33802,Chickasha,0.8397
-cz8000,Sumter,0.8396
-cz24600,Farmington,0.8391
-cz8202,Charleston,0.8389
-cz12001,Big Rapids,0.8389
-cz35300,Farmington,0.8389
-cz3102,Brookhaven,0.8388
-cz5402,Glasgow,0.8387
-cz12600,Wayne,0.8385
-cz32702,Stephenville,0.8382
-cz13102,Madison,0.838
-cz30300,Fayetteville,0.838
-cz3500,Baton Rouge,0.8379
-cz29902,Center,0.8379
-cz28502,Pueblo,0.8376
-cz32602,Graham,0.8376
-cz6900,Sarasota,0.8375
-cz10000,Panama City,0.8374
-cz31800,College Station,0.8373
-cz32402,Sweetwater,0.8373
-cz32100,Beaumont,0.8372
-cz34602,Rawlins,0.8367
-cz1100,Hickory,0.8363
-cz21502,Pine City,0.8362
-cz30403,Okmulgee,0.8362
-cz30601,El Paso,0.8361
-cz34204,Lewistown,0.836
-cz10600,Jasper,0.8358
-cz34801,Las Vegas,0.8357
-cz7100,Port St. Lucie,0.8355
-cz9800,Auburn,0.8355
-cz13800,Wayne,0.8355
-cz8300,Greenville,0.8354
-cz33500,Texarkana,0.8352
-cz31004,Liberal,0.834
-cz7800,Ocala,0.8339
-cz33801,Elk City,0.8336
-cz26404,Lemmon,0.8333
-cz29800,Aurora,0.8327
-cz32000,Houston,0.8327
-cz29504,Sedalia,0.8322
-cz34002,Idabel,0.8322
-cz601,North Wilkesboro,0.8314
-cz1400,Fayetteville,0.8312
-cz4401,London,0.8312
-cz700,Spartanburg,0.8308
-cz30200,Muskogee,0.8308
-cz31002,Ulysses,0.8306
-cz37200,Fresno,0.8305
-cz29004,Great Bend,0.8304
-cz7600,Jacksonville,0.8297
-cz26303,Turtle Mountain UT,0.8295
-cz27602,Eagle Butte,0.8294
-cz32802,Corsicana,0.829
-cz25102,West Plains,0.8288
-cz31301,San Antonio,0.8288
-cz2700,Gulfport,0.8273
-cz32401,Big Spring,0.8273
-cz25702,Poplar Bluff,0.8269
-cz4003,Ruston,0.8268
-cz8702,Statesboro,0.8267
-cz31007,Dumas,0.8265
-cz27704,Gordon,0.8263
-cz4501,West Liberty,0.826
-cz39000,Yakima,0.8259
-cz6401,Chattanooga,0.8258
-cz31006,Guymon,0.8258
-cz6100,Gadsden,0.8257
-cz4902,Dyersburg,0.8254
-cz5700,Tullahoma,0.8252
-cz11002,Atmore,0.8252
-cz35002,Safford,0.8248
-cz32202,Nacogdoches,0.8247
-cz8701,Hinesville,0.8245
-cz32801,Waco,0.8245
-cz1302,Florence,0.8244
-cz9301,Winder,0.8237
-cz37901,Las Vegas,0.8232
-cz800,Gastonia,0.8229
-cz1600,Wilson,0.8219
-cz8900,Macon,0.8215
-cz8401,Aiken,0.8212
-cz26104,Trenton,0.821
-cz11101,Montgomery,0.8208
-cz9701,Columbus,0.8204
-cz31202,Burnet,0.82
-cz2600,Roanoke Rapids,0.8195
-cz30908,Plainview,0.8193
-cz31302,Beeville,0.8187
-cz30901,Clovis,0.8185
-cz11001,Mobile,0.8184
-cz30701,Roswell,0.8184
-cz27009,Chamberlain,0.8183
-cz31402,Pecos,0.8169
-cz33700,Ardmore,0.8168
-cz5202,Memphis,0.8167
-cz3203,Vicksburg,0.8166
-cz31401,Midland,0.8163
-cz2900,Hattiesburg,0.8161
-cz5100,Corinth,0.8158
-cz29003,Dodge City,0.8156
-cz4002,Shreveport,0.8154
-cz9001,Vidalia,0.8152
-cz38100,Yuma,0.8151
-cz34202,Shelby,0.8149
-cz3003,Jackson,0.8146
-cz9302,Toccoa,0.8139
-cz3800,Lafayette,0.8133
-cz5300,West Memphis,0.813
-cz10802,Demopolis,0.8122
-cz19903,Chincoteague,0.811
-cz7700,Lake City,0.8096
-cz31700,Corpus Christi,0.8088
-cz10400,Meridian,0.8078
-cz3600,Alexandria,0.8071
-cz5000,Tupelo,0.807
-cz6800,Lakeland,0.8068
-cz30902,Littlefield,0.8067
-cz32303,Junction,0.8064
-cz9500,Talladega,0.8061
-cz3400,Houma,0.806
-cz10101,Bainbridge,0.8051
-cz10102,Thomasville,0.8039
-cz10200,Albany,0.8039
-cz9600,LaGrange,0.8037
-cz26603,East Corson UT,0.8033
-cz34804,Clayton,0.8032
-cz25800,Blytheville,0.8027
-cz9400,Gainesville,0.8026
-cz30702,Santa Rosa,0.8013
-cz11102,Troy,0.8004
-cz3101,McComb,0.8001
-cz31103,Gonzales,0.8001
-cz30801,Hobbs,0.8
-cz3901,Monroe,0.7996
-cz8502,Cordele,0.7996
-cz10502,Starkville,0.7993
-cz31001,Garden City,0.799
-cz8602,Brunswick,0.798
-cz6501,Ellijay,0.7971
-cz32304,Uvalde,0.7969
-cz4004,Many,0.796
-cz10801,Tuscaloosa,0.7948
-cz9003,Dublin,0.794
-cz3001,Kosciusko,0.7936
-cz10501,Columbus,0.7934
-cz8503,Valdosta,0.7908
-cz8601,Waycross,0.7892
-cz8501,Fitzgerald,0.7889
-cz6600,Rome,0.7883
-cz3202,Natchez,0.788
-cz10301,Eufaula,0.7864
-cz31503,Laredo,0.7853
-cz2800,Laurel,0.7852
-cz32305,Del Rio,0.783
-cz1702,Henderson,0.7829
-cz9200,Griffin,0.7818
-cz30603,Truth or Consequences,0.78
-cz31600,Brownsville,0.7797
-cz1301,Bennettsville,0.7796
-cz3902,Lake Providence,0.7788
-cz5201,New Albany,0.7788
-cz13700,Concord,0.7772
-cz30604,Deming,0.7744
-cz8201,Barnwell,0.7732
-cz3201,Jena,0.772
-cz9702,Americus,0.7692
-cz9002,Milledgeville,0.7677
-cz30605,Van Horn,0.7647
-cz31501,Crystal City,0.7609
-cz27604,Murdo,0.7591
-cz4701,Greenwood,0.7586
-cz31404,Alpine,0.7583
-cz4702,Clarksdale,0.7575
-cz31304,Mason,0.7539
-cz27605,Mission,0.7482
-cz8402,Washington,0.7453
-cz4800,Greenville,0.7438
-cz34803,Tucumcari,0.743
-cz32306,Eagle Pass,0.7427
-cz3002,Yazoo City,0.7314
-cz31502,Pearsall,0.7305
-cz30907,Matador,
-cz34306,Jordan,
-cz26405,Scobey,
+﻿cty,Name,High_School_Graduation_Rate_rP_gP_pall
+cty19143,"Osceola County, IA",0.9565
+cty24027,"Howard County, MD",0.9492
+cty34003,"Bergen County, NJ",0.9408
+cty34027,"Morris County, NJ",0.9388
+cty27149,"Stevens County, MN",0.9375
+cty02110,"Juneau City and Borough, AK",0.9359
+cty02150,"Kodiak Island Borough, AK",0.9357
+cty24001,"Allegany County, MD",0.9357
+cty34019,"Hunterdon County, NJ",0.9342
+cty31167,"Stanton County, NE",0.9336
+cty24047,"Worcester County, MD",0.9332
+cty25021,"Norfolk County, MA",0.933
+cty08063,"Kit Carson County, CO",0.9326
+cty20123,"Mitchell County, KS",0.9317
+cty34025,"Monmouth County, NJ",0.9317
+cty31099,"Kearney County, NE",0.9315
+cty24013,"Carroll County, MD",0.9307
+cty27091,"Martin County, MN",0.9306
+cty34035,"Somerset County, NJ",0.9306
+cty31179,"Wayne County, NE",0.9301
+cty20147,"Phillips County, KS",0.9293
+cty34023,"Middlesex County, NJ",0.9287
+cty25017,"Middlesex County, MA",0.9267
+cty24021,"Frederick County, MD",0.9264
+cty20201,"Washington County, KS",0.9256
+cty31121,"Merrick County, NE",0.9249
+cty24031,"Montgomery County, MD",0.9245
+cty20051,"Ellis County, KS",0.9242
+cty20029,"Cloud County, KS",0.9236
+cty20161,"Riley County, KS",0.9236
+cty36029,"Erie County, NY",0.9228
+cty31095,"Jefferson County, NE",0.9224
+cty35028,"Los Alamos County, NM",0.9223
+cty36001,"Albany County, NY",0.9223
+cty20085,"Jackson County, KS",0.9222
+cty34037,"Sussex County, NJ",0.9217
+cty27071,"Koochiching County, MN",0.9216
+cty24025,"Harford County, MD",0.9214
+cty27015,"Brown County, MN",0.9212
+cty20157,"Republic County, KS",0.9211
+cty21091,"Hancock County, KY",0.9206
+cty26161,"Washtenaw County, MI",0.9205
+cty21185,"Oldham County, KY",0.9203
+cty20103,"Leavenworth County, KS",0.9202
+cty27163,"Washington County, MN",0.9188
+cty27055,"Houston County, MN",0.9187
+cty20131,"Nemaha County, KS",0.9185
+cty31153,"Sarpy County, NE",0.9181
+cty27103,"Nicollet County, MN",0.9178
+cty27173,"Yellow Medicine County, MN",0.9169
+cty20181,"Sherman County, KS",0.9167
+cty30083,"Richland County, MT",0.9167
+cty20091,"Johnson County, KS",0.9164
+cty24029,"Kent County, MD",0.9152
+cty30067,"Park County, MT",0.9152
+cty31159,"Seward County, NE",0.9152
+cty20073,"Greenwood County, KS",0.9151
+cty24017,"Charles County, MD",0.9151
+cty34005,"Burlington County, NJ",0.9145
+cty24009,"Calvert County, MD",0.914
+cty34039,"Union County, NJ",0.914
+cty27019,"Carver County, MN",0.9135
+cty25023,"Plymouth County, MA",0.9132
+cty31127,"Nemaha County, NE",0.913
+cty27143,"Sibley County, MN",0.9126
+cty20193,"Thomas County, KS",0.9125
+cty27033,"Cottonwood County, MN",0.9125
+cty27083,"Lyon County, MN",0.9125
+cty27127,"Redwood County, MN",0.9124
+cty24035,"Queen Anne's County, MD",0.9123
+cty27037,"Dakota County, MN",0.9119
+cty29041,"Chariton County, MO",0.9116
+cty31147,"Richardson County, NE",0.9113
+cty24005,"Baltimore County, MD",0.911
+cty34015,"Gloucester County, NJ",0.9109
+cty25001,"Barnstable County, MA",0.9105
+cty25015,"Hampshire County, MA",0.9105
+cty31033,"Cheyenne County, NE",0.9104
+cty31089,"Holt County, NE",0.9103
+cty20117,"Marshall County, KS",0.9097
+cty25027,"Worcester County, MA",0.9096
+cty27017,"Carlton County, MN",0.9095
+cty21059,"Daviess County, KY",0.9092
+cty34041,"Warren County, NJ",0.909
+cty20191,"Sumner County, KS",0.9089
+cty31027,"Cedar County, NE",0.9089
+cty26063,"Huron County, MI",0.9088
+cty26125,"Oakland County, MI",0.9087
+cty23021,"Piscataquis County, ME",0.9085
+cty05019,"Clark County, AR",0.9084
+cty29001,"Adair County, MO",0.9079
+cty34029,"Ocean County, NJ",0.9077
+cty27165,"Watonwan County, MN",0.9071
+cty20031,"Coffey County, KS",0.9067
+cty20149,"Pottawatomie County, KS",0.9065
+cty26047,"Emmet County, MI",0.9065
+cty29183,"St. Charles County, MO",0.9062
+cty34021,"Mercer County, NJ",0.906
+cty36033,"Franklin County, NY",0.9058
+cty26093,"Livingston County, MI",0.9057
+cty24003,"Anne Arundel County, MD",0.9056
+cty26103,"Marquette County, MI",0.9056
+cty27151,"Swift County, MN",0.9055
+cty20185,"Stafford County, KS",0.9053
+cty25003,"Berkshire County, MA",0.9051
+cty31081,"Hamilton County, NE",0.9046
+cty23007,"Franklin County, ME",0.9044
+cty25009,"Essex County, MA",0.9042
+cty31109,"Lancaster County, NE",0.9041
+cty21131,"Leslie County, KY",0.9037
+cty31093,"Howard County, NE",0.9035
+cty26109,"Menominee County, MI",0.9034
+cty30049,"Lewis and Clark County, MT",0.9032
+cty27121,"Pope County, MN",0.9029
+cty29033,"Carroll County, MO",0.9028
+cty31151,"Saline County, NE",0.9027
+cty27129,"Renville County, MN",0.9026
+cty27053,"Hennepin County, MN",0.9025
+cty24023,"Garrett County, MD",0.9024
+cty21135,"Lewis County, KY",0.9022
+cty31019,"Buffalo County, NE",0.9018
+cty02122,"Kenai Peninsula Borough, AK",0.9017
+cty30053,"Lincoln County, MT",0.9015
+cty27169,"Winona County, MN",0.9013
+cty24041,"Talbot County, MD",0.9009
+cty31139,"Pierce County, NE",0.9009
+cty27089,"Marshall County, MN",0.9008
+cty27123,"Ramsey County, MN",0.9008
+cty21143,"Lyon County, KY",0.9007
+cty27119,"Polk County, MN",0.9007
+cty26131,"Ontonagon County, MI",0.9004
+cty26139,"Ottawa County, MI",0.9004
+cty30001,"Beaverhead County, MT",0.9003
+cty29171,"Putnam County, MO",0.9002
+cty23031,"York County, ME",0.9
+cty27097,"Morrison County, MN",0.8996
+cty21035,"Calloway County, KY",0.8995
+cty22089,"St. Charles Parish, LA",0.8993
+cty27117,"Pipestone County, MN",0.8992
+cty29051,"Cole County, MO",0.899
+cty27137,"St. Louis County, MN",0.8989
+cty29025,"Caldwell County, MO",0.8988
+cty23005,"Cumberland County, ME",0.8987
+cty27159,"Wadena County, MN",0.8987
+cty31067,"Gage County, NE",0.8985
+cty31177,"Washington County, NE",0.8982
+cty32001,"Churchill County, NV",0.898
+cty26041,"Delta County, MI",0.8979
+cty23003,"Aroostook County, ME",0.8978
+cty36027,"Dutchess County, NY",0.8976
+cty31025,"Cass County, NE",0.8975
+cty31141,"Platte County, NE",0.8971
+cty27101,"Murray County, MN",0.8967
+cty27145,"Stearns County, MN",0.8965
+cty29151,"Osage County, MO",0.8965
+cty26053,"Gogebic County, MI",0.8963
+cty29101,"Johnson County, MO",0.8962
+cty30093,"Silver Bow County, MT",0.8961
+cty25005,"Bristol County, MA",0.896
+cty31001,"Adams County, NE",0.8959
+cty27139,"Scott County, MN",0.8958
+cty21019,"Boyd County, KY",0.8957
+cty20121,"Miami County, KS",0.8954
+cty20127,"Morris County, KS",0.8954
+cty27003,"Anoka County, MN",0.8954
+cty29165,"Platte County, MO",0.8954
+cty34033,"Salem County, NJ",0.8951
+cty26111,"Midland County, MI",0.895
+cty27105,"Nobles County, MN",0.8947
+cty20137,"Norton County, KS",0.8946
+cty29053,"Cooper County, MO",0.8946
+cty27009,"Benton County, MN",0.8944
+cty26099,"Macomb County, MI",0.8942
+cty34009,"Cape May County, NJ",0.8941
+cty27081,"Lincoln County, MN",0.894
+cty31173,"Thurston County, NE",0.8938
+cty20045,"Douglas County, KS",0.8935
+cty29039,"Cedar County, MO",0.8934
+cty29189,"St. Louis County, MO",0.8934
+cty31013,"Box Butte County, NE",0.8933
+cty27041,"Douglas County, MN",0.8932
+cty36037,"Genesee County, NY",0.8932
+cty20087,"Jefferson County, KS",0.8931
+cty20167,"Russell County, KS",0.8931
+cty24039,"Somerset County, MD",0.8928
+cty27157,"Wabasha County, MN",0.8928
+cty31111,"Lincoln County, NE",0.8923
+cty31039,"Cuming County, NE",0.8921
+cty21055,"Crittenden County, KY",0.8917
+cty05009,"Boone County, AR",0.8916
+cty05003,"Ashley County, AR",0.8914
+cty29223,"Wayne County, MO",0.8914
+cty26061,"Houghton County, MI",0.8912
+cty31031,"Cherry County, NE",0.8908
+cty27153,"Todd County, MN",0.8906
+cty31003,"Antelope County, NE",0.8905
+cty27027,"Clay County, MN",0.8904
+cty27093,"Meeker County, MN",0.8902
+cty31055,"Douglas County, NE",0.8902
+cty23001,"Androscoggin County, ME",0.8901
+cty26037,"Clinton County, MI",0.89
+cty31101,"Keith County, NE",0.8898
+cty34013,"Essex County, NJ",0.8898
+cty23029,"Washington County, ME",0.8897
+cty20143,"Ottawa County, KS",0.8896
+cty31137,"Phelps County, NE",0.8896
+cty27063,"Jackson County, MN",0.8895
+cty31119,"Madison County, NE",0.8895
+cty01117,"Shelby County, AL",0.8894
+cty36007,"Broome County, NY",0.8892
+cty27085,"McLeod County, MN",0.8891
+cty20177,"Shawnee County, KS",0.8888
+cty29211,"Sullivan County, MO",0.8888
+cty02020,"Anchorage Municipality, AK",0.8887
+cty21155,"Marion County, KY",0.8887
+cty35055,"Taos County, NM",0.8887
+cty21215,"Spencer County, KY",0.8885
+cty30031,"Gallatin County, MT",0.8885
+cty24015,"Cecil County, MD",0.8882
+cty05005,"Baxter County, AR",0.8881
+cty20015,"Butler County, KS",0.888
+cty26087,"Lapeer County, MI",0.888
+cty24037,"St. Mary's County, MD",0.8879
+cty36015,"Chemung County, NY",0.8879
+cty20197,"Wabaunsee County, KS",0.8877
+cty27049,"Goodhue County, MN",0.8876
+cty27061,"Itasca County, MN",0.8875
+cty27099,"Mower County, MN",0.8875
+cty35053,"Socorro County, NM",0.8875
+cty27109,"Olmsted County, MN",0.8874
+cty26141,"Presque Isle County, MI",0.8873
+cty33015,"Rockingham County, NH",0.8867
+cty21015,"Boone County, KY",0.8866
+cty30105,"Valley County, MT",0.8866
+cty02090,"Fairbanks North Star Borough, AK",0.8865
+cty27045,"Fillmore County, MN",0.8863
+cty23011,"Kennebec County, ME",0.8862
+cty26077,"Kalamazoo County, MI",0.8862
+cty30081,"Ravalli County, MT",0.8859
+cty27147,"Steele County, MN",0.8855
+cty31155,"Saunders County, NE",0.8855
+cty21037,"Campbell County, KY",0.8854
+cty27043,"Faribault County, MN",0.8853
+cty20041,"Dickinson County, KS",0.8852
+cty29043,"Christian County, MO",0.8851
+cty36003,"Allegany County, NY",0.885
+cty27013,"Blue Earth County, MN",0.8849
+cty20099,"Labette County, KS",0.8847
+cty24033,"Prince George's County, MD",0.8845
+cty27067,"Kandiyohi County, MN",0.8844
+cty02130,"Ketchikan Gateway Borough, AK",0.8842
+cty23023,"Sagadahoc County, ME",0.8842
+cty29157,"Perry County, MO",0.8842
+cty21117,"Kenton County, KY",0.8841
+cty30003,"Big Horn County, MT",0.8839
+cty27023,"Chippewa County, MN",0.8838
+cty20037,"Crawford County, KS",0.8835
+cty27111,"Otter Tail County, MN",0.8835
+cty26055,"Grand Traverse County, MI",0.8832
+cty20139,"Osage County, KS",0.8831
+cty20151,"Pratt County, KS",0.8831
+cty31011,"Boone County, NE",0.8831
+cty36013,"Chautauqua County, NY",0.8831
+cty29031,"Cape Girardeau County, MO",0.883
+cty33011,"Hillsborough County, NH",0.8827
+cty21101,"Henderson County, KY",0.8826
+cty29037,"Cass County, MO",0.8826
+cty31131,"Otoe County, NE",0.882
+cty31107,"Knox County, NE",0.8817
+cty27073,"Lac qui Parle County, MN",0.8816
+cty34007,"Camden County, NJ",0.8814
+cty24045,"Wicomico County, MD",0.8813
+cty23015,"Lincoln County, ME",0.8812
+cty27113,"Pennington County, MN",0.881
+cty26007,"Alpena County, MI",0.8809
+cty21029,"Bullitt County, KY",0.8805
+cty27135,"Roseau County, MN",0.8804
+cty29063,"DeKalb County, MO",0.8803
+cty27161,"Waseca County, MN",0.8802
+cty29015,"Benton County, MO",0.88
+cty26081,"Kent County, MI",0.8795
+cty22087,"St. Bernard Parish, LA",0.8793
+cty26065,"Ingham County, MI",0.8792
+cty30013,"Cascade County, MT",0.8792
+cty29147,"Nodaway County, MO",0.8789
+cty25013,"Hampden County, MA",0.8788
+cty32005,"Douglas County, NV",0.8788
+cty30021,"Dawson County, MT",0.8786
+cty26089,"Leelanau County, MI",0.8785
+cty26115,"Monroe County, MI",0.8785
+cty01099,"Monroe County, AL",0.8783
+cty21161,"Mason County, KY",0.8783
+cty23019,"Penobscot County, ME",0.8783
+cty21229,"Washington County, KY",0.8782
+cty29003,"Andrew County, MO",0.8782
+cty20059,"Franklin County, KS",0.8781
+cty20169,"Saline County, KS",0.8778
+cty31185,"York County, NE",0.8778
+cty25011,"Franklin County, MA",0.8777
+cty20043,"Doniphan County, KS",0.8774
+cty23027,"Waldo County, ME",0.8774
+cty21167,"Mercer County, KY",0.8772
+cty24043,"Washington County, MD",0.8772
+cty02170,"Matanuska-Susitna Borough, AK",0.877
+cty20035,"Cowley County, KS",0.877
+cty21089,"Greenup County, KY",0.877
+cty36019,"Clinton County, NY",0.877
+cty27007,"Beltrami County, MN",0.8769
+cty27133,"Rock County, MN",0.8768
+cty29195,"Saline County, MO",0.8768
+cty01129,"Washington County, AL",0.8767
+cty23025,"Somerset County, ME",0.8767
+cty34031,"Passaic County, NJ",0.8767
+cty21199,"Pulaski County, KY",0.8765
+cty27167,"Wilkin County, MN",0.8764
+cty31045,"Dawes County, NE",0.8764
+cty27039,"Dodge County, MN",0.8763
+cty29047,"Clay County, MO",0.8763
+cty31079,"Hall County, NE",0.8763
+cty26045,"Eaton County, MI",0.8761
+cty32510,"Carson City, NV",0.8761
+cty26043,"Dickinson County, MI",0.876
+cty20107,"Linn County, KS",0.8758
+cty27047,"Freeborn County, MN",0.8758
+cty29177,"Ray County, MO",0.8758
+cty21227,"Warren County, KY",0.8755
+cty27131,"Rice County, MN",0.8755
+cty21017,"Bourbon County, KY",0.8752
+cty26097,"Mackinac County, MI",0.8752
+cty21005,"Anderson County, KY",0.8751
+cty36025,"Delaware County, NY",0.875
+cty36009,"Cattaraugus County, NY",0.8748
+cty30063,"Missoula County, MT",0.8747
+cty31037,"Colfax County, NE",0.8747
+cty36023,"Cortland County, NY",0.8747
+cty27075,"Lake County, MN",0.8742
+cty29073,"Gasconade County, MO",0.8742
+cty21225,"Union County, KY",0.8739
+cty30017,"Custer County, MT",0.8739
+cty27171,"Wright County, MN",0.8738
+cty29019,"Boone County, MO",0.8738
+cty29179,"Reynolds County, MO",0.8738
+cty05015,"Carroll County, AR",0.8737
+cty26017,"Bay County, MI",0.8737
+cty01091,"Marengo County, AL",0.8736
+cty21171,"Monroe County, KY",0.8736
+cty33017,"Strafford County, NH",0.8736
+cty36017,"Chenango County, NY",0.8736
+cty29209,"Stone County, MO",0.8735
+cty27011,"Big Stone County, MN",0.8734
+cty21151,"Madison County, KY",0.8733
+cty21033,"Caldwell County, KY",0.8732
+cty20061,"Geary County, KS",0.8729
+cty21073,"Franklin County, KY",0.8729
+cty05011,"Bradley County, AR",0.8728
+cty29121,"Macon County, MO",0.8727
+cty31053,"Dodge County, NE",0.8727
+cty21149,"McLean County, KY",0.872
+cty21193,"Perry County, KY",0.872
+cty30111,"Yellowstone County, MT",0.8713
+cty32013,"Humboldt County, NV",0.871
+cty29205,"Shelby County, MO",0.8708
+cty36039,"Greene County, NY",0.8708
+cty24011,"Caroline County, MD",0.8707
+cty36031,"Essex County, NY",0.8705
+cty20159,"Rice County, KS",0.8702
+cty21179,"Nelson County, KY",0.8701
+cty26067,"Ionia County, MI",0.87
+cty29127,"Marion County, MO",0.87
+cty20095,"Kingman County, KS",0.8693
+cty21045,"Casey County, KY",0.8692
+cty26075,"Jackson County, MI",0.8692
+cty27141,"Sherburne County, MN",0.8691
+cty34017,"Hudson County, NJ",0.8691
+cty22011,"Beauregard Parish, LA",0.8687
+cty21239,"Woodford County, KY",0.8685
+cty26105,"Mason County, MI",0.8685
+cty21191,"Pendleton County, KY",0.8684
+cty27025,"Chisago County, MN",0.8684
+cty21097,"Harrison County, KY",0.8683
+cty29021,"Buchanan County, MO",0.8683
+cty21093,"Hardin County, KY",0.868
+cty31035,"Clay County, NE",0.868
+cty34001,"Atlantic County, NJ",0.8677
+cty27107,"Norman County, MN",0.8672
+cty30041,"Hill County, MT",0.8672
+cty29049,"Clinton County, MO",0.8671
+cty31023,"Butler County, NE",0.8671
+cty21127,"Lawrence County, KY",0.867
+cty26095,"Luce County, MI",0.867
+cty21007,"Ballard County, KY",0.8669
+cty04005,"Coconino County, AZ",0.8666
+cty26155,"Shiawassee County, MI",0.8666
+cty21207,"Russell County, KY",0.8665
+cty26005,"Allegan County, MI",0.8665
+cty27079,"Le Sueur County, MN",0.8665
+cty21123,"Larue County, KY",0.8664
+cty29017,"Bollinger County, MO",0.8664
+cty31047,"Dawson County, NE",0.8664
+cty20171,"Scott County, KS",0.8663
+cty23013,"Knox County, ME",0.8662
+cty35035,"Otero County, NM",0.8662
+cty33013,"Merrimack County, NH",0.8661
+cty01031,"Coffee County, AL",0.866
+cty22093,"St. James Parish, LA",0.866
+cty20189,"Stevens County, KS",0.8658
+cty21061,"Edmonson County, KY",0.8655
+cty21087,"Green County, KY",0.8654
+cty26029,"Charlevoix County, MI",0.8654
+cty29029,"Camden County, MO",0.8652
+cty01051,"Elmore County, AL",0.8651
+cty21021,"Boyle County, KY",0.8651
+cty26031,"Cheboygan County, MI",0.8649
+cty20173,"Sedgwick County, KS",0.8647
+cty29117,"Livingston County, MO",0.8645
+cty05021,"Clay County, AR",0.8644
+cty21183,"Ohio County, KY",0.8643
+cty33007,"Coos County, NH",0.8641
+cty01081,"Lee County, AL",0.8639
+cty04017,"Navajo County, AZ",0.8639
+cty27035,"Crow Wing County, MN",0.8639
+cty31021,"Burt County, NE",0.8636
+cty30089,"Sanders County, MT",0.8635
+cty27005,"Becker County, MN",0.8634
+cty36011,"Cayuga County, NY",0.8632
+cty21217,"Taylor County, KY",0.8631
+cty29027,"Callaway County, MO",0.8631
+cty26151,"Sanilac County, MI",0.863
+cty35027,"Lincoln County, NM",0.8629
+cty29045,"Clark County, MO",0.8628
+cty21157,"Marshall County, KY",0.8627
+cty26015,"Barry County, MI",0.8627
+cty29169,"Pulaski County, MO",0.8626
+cty20079,"Harvey County, KS",0.8625
+cty26073,"Isabella County, MI",0.8625
+cty29173,"Ralls County, MO",0.8625
+cty20125,"Montgomery County, KS",0.8624
+cty26147,"St. Clair County, MI",0.8621
+cty34011,"Cumberland County, NJ",0.8621
+cty29149,"Oregon County, MO",0.8619
+cty32033,"White Pine County, NV",0.8619
+cty30077,"Powell County, MT",0.8614
+cty29007,"Audrain County, MO",0.8612
+cty31043,"Dakota County, NE",0.8611
+cty27057,"Hubbard County, MN",0.8608
+cty20155,"Reno County, KS",0.8607
+cty22075,"Plaquemines Parish, LA",0.8606
+cty21067,"Fayette County, KY",0.8603
+cty26101,"Manistee County, MI",0.8603
+cty31169,"Thayer County, NE",0.8602
+cty20113,"McPherson County, KS",0.8601
+cty27059,"Isanti County, MN",0.8601
+cty33009,"Grafton County, NH",0.8601
+cty26049,"Genesee County, MI",0.8599
+cty26057,"Gratiot County, MI",0.8599
+cty29161,"Phelps County, MO",0.8598
+cty20115,"Marion County, KS",0.8597
+cty01071,"Jackson County, AL",0.8595
+cty27029,"Clearwater County, MN",0.8594
+cty29186,"Ste. Genevieve County, MO",0.8594
+cty21133,"Letcher County, KY",0.8593
+cty21177,"Muhlenberg County, KY",0.8593
+cty21233,"Webster County, KY",0.8593
+cty21235,"Whitley County, KY",0.8593
+cty21111,"Jefferson County, KY",0.8592
+cty05001,"Arkansas County, AR",0.8588
+cty31041,"Custer County, NE",0.8585
+cty01057,"Fayette County, AL",0.8579
+cty20027,"Clay County, KS",0.8579
+cty25025,"Suffolk County, MA",0.8579
+cty27001,"Aitkin County, MN",0.8579
+cty04003,"Cochise County, AZ",0.8578
+cty26143,"Roscommon County, MI",0.8578
+cty26121,"Muskegon County, MI",0.8575
+cty29013,"Bates County, MO",0.8574
+cty29099,"Jefferson County, MO",0.8574
+cty26157,"Tuscola County, MI",0.8572
+cty21145,"McCracken County, KY",0.857
+cty29087,"Holt County, MO",0.857
+cty22005,"Ascension Parish, LA",0.8567
+cty29135,"Moniteau County, MO",0.8566
+cty21205,"Rowan County, KY",0.8565
+cty21221,"Trigg County, KY",0.8562
+cty29111,"Lewis County, MO",0.8561
+cty29167,"Polk County, MO",0.8561
+cty21181,"Nicholas County, KY",0.856
+cty35006,"Cibola County, NM",0.856
+cty26025,"Calhoun County, MI",0.8559
+cty32007,"Elko County, NV",0.8559
+cty35049,"Santa Fe County, NM",0.8557
+cty20163,"Rooks County, KS",0.8556
+cty23017,"Oxford County, ME",0.8555
+cty30029,"Flathead County, MT",0.8555
+cty29081,"Harrison County, MO",0.8553
+cty32031,"Washoe County, NV",0.8552
+cty26163,"Wayne County, MI",0.854
+cty01089,"Madison County, AL",0.8539
+cty22103,"St. Tammany Parish, LA",0.8539
+cty31157,"Scotts Bluff County, NE",0.8539
+cty24019,"Dorchester County, MD",0.8538
+cty33001,"Belknap County, NH",0.8538
+cty05017,"Chicot County, AR",0.8537
+cty21173,"Montgomery County, KY",0.8536
+cty29077,"Greene County, MO",0.8535
+cty26091,"Lenawee County, MI",0.8533
+cty29131,"Miller County, MO",0.8533
+cty31145,"Red Willow County, NE",0.8532
+cty28085,"Lincoln County, MS",0.853
+cty26129,"Ogemaw County, MI",0.8527
+cty29071,"Franklin County, MO",0.8527
+cty21195,"Pike County, KY",0.8525
+cty21213,"Simpson County, KY",0.8524
+cty22033,"East Baton Rouge Parish, LA",0.8524
+cty26153,"Schoolcraft County, MI",0.8524
+cty29005,"Atchison County, MO",0.8524
+cty29207,"Stoddard County, MO",0.8523
+cty33005,"Cheshire County, NH",0.852
+cty26165,"Wexford County, MI",0.8519
+cty26069,"Iosco County, MI",0.8518
+cty29097,"Jasper County, MO",0.8517
+cty26059,"Hillsdale County, MI",0.8516
+cty28073,"Lamar County, MS",0.8514
+cty29107,"Lafayette County, MO",0.8514
+cty29153,"Ozark County, MO",0.8512
+cty01077,"Lauderdale County, AL",0.8511
+cty21119,"Knott County, KY",0.8509
+cty20111,"Lyon County, KS",0.8508
+cty30047,"Lake County, MT",0.8505
+cty20021,"Cherokee County, KS",0.8503
+cty26145,"Saginaw County, MI",0.8501
+cty01003,"Baldwin County, AL",0.85
+cty21043,"Carter County, KY",0.8498
+cty22019,"Calcasieu Parish, LA",0.8498
+cty28059,"Jackson County, MS",0.8497
+cty22115,"Vernon Parish, LA",0.8496
+cty26009,"Antrim County, MI",0.8496
+cty26137,"Otsego County, MI",0.8496
+cty21063,"Elliott County, KY",0.8493
+cty35001,"Bernalillo County, NM",0.8491
+cty29113,"Lincoln County, MO",0.8487
+cty29163,"Pike County, MO",0.8483
+cty29089,"Howard County, MO",0.8481
+cty29083,"Henry County, MO",0.8479
+cty21083,"Graves County, KY",0.8478
+cty23009,"Hancock County, ME",0.8477
+cty21009,"Barren County, KY",0.8474
+cty26119,"Montmorency County, MI",0.8474
+cty29219,"Warren County, MO",0.8474
+cty21141,"Logan County, KY",0.8472
+cty35043,"Sandoval County, NM",0.847
+cty04011,"Greenlee County, AZ",0.8468
+cty33003,"Carroll County, NH",0.8466
+cty22057,"Lafourche Parish, LA",0.8465
+cty20133,"Neosho County, KS",0.8463
+cty30087,"Rosebud County, MT",0.8462
+cty21159,"Martin County, KY",0.8457
+cty30085,"Roosevelt County, MT",0.8456
+cty29213,"Taney County, MO",0.8452
+cty20205,"Wilson County, KS",0.845
+cty21187,"Owen County, KY",0.845
+cty04013,"Maricopa County, AZ",0.8448
+cty21175,"Morgan County, KY",0.8448
+cty21107,"Hopkins County, KY",0.8446
+cty04019,"Pima County, AZ",0.8443
+cty21115,"Johnson County, KY",0.8443
+cty36021,"Columbia County, NY",0.8443
+cty29067,"Douglas County, MO",0.8441
+cty30023,"Deer Lodge County, MT",0.8441
+cty22049,"Jackson Parish, LA",0.8438
+cty20141,"Osborne County, KS",0.8436
+cty29123,"Madison County, MO",0.8434
+cty21125,"Laurel County, KY",0.8433
+cty29095,"Jackson County, MO",0.8433
+cty05007,"Benton County, AR",0.843
+cty29115,"Linn County, MO",0.8429
+cty31161,"Sheridan County, NE",0.8429
+cty01073,"Jefferson County, AL",0.8423
+cty22051,"Jefferson Parish, LA",0.8422
+cty27021,"Cass County, MN",0.8422
+cty27065,"Kanabec County, MN",0.8422
+cty21209,"Scott County, KY",0.8419
+cty36035,"Fulton County, NY",0.8418
+cty29143,"New Madrid County, MO",0.8417
+cty26113,"Missaukee County, MI",0.8416
+cty26107,"Mecosta County, MI",0.8411
+cty21231,"Wayne County, KY",0.8409
+cty21027,"Breckinridge County, KY",0.8407
+cty30043,"Jefferson County, MT",0.8404
+cty29217,"Vernon County, MO",0.8401
+cty30101,"Toole County, MT",0.8401
+cty04025,"Yavapai County, AZ",0.8399
+cty22023,"Cameron Parish, LA",0.8398
+cty01075,"Lamar County, AL",0.8397
+cty26123,"Newaygo County, MI",0.8397
+cty35047,"San Miguel County, NM",0.8396
+cty28071,"Lafayette County, MS",0.8395
+cty32019,"Lyon County, NV",0.8393
+cty21001,"Adair County, KY",0.8389
+cty26051,"Gladwin County, MI",0.8389
+cty01103,"Morgan County, AL",0.8387
+cty22015,"Bossier Parish, LA",0.8387
+cty29139,"Montgomery County, MO",0.8385
+cty01069,"Houston County, AL",0.8384
+cty29185,"St. Clair County, MO",0.8383
+cty01133,"Winston County, AL",0.8382
+cty22055,"Lafayette Parish, LA",0.8378
+cty29199,"Scotland County, MO",0.8376
+cty26021,"Berrien County, MI",0.8374
+cty28081,"Lee County, MS",0.8374
+cty21049,"Clark County, KY",0.8372
+cty28089,"Madison County, MS",0.8364
+cty21051,"Clay County, KY",0.8363
+cty21113,"Jessamine County, KY",0.8362
+cty26011,"Arenac County, MI",0.8362
+cty29075,"Gentry County, MO",0.8359
+cty01001,"Autauga County, AL",0.8358
+cty28045,"Hancock County, MS",0.8356
+cty30027,"Fergus County, MT",0.8355
+cty01045,"Dale County, AL",0.8354
+cty26039,"Crawford County, MI",0.8353
+cty04001,"Apache County, AZ",0.8352
+cty22095,"St. John the Baptist Parish, LA",0.8351
+cty29065,"Dent County, MO",0.8351
+cty22123,"West Carroll Parish, LA",0.8345
+cty27095,"Mille Lacs County, MN",0.8343
+cty28159,"Winston County, MS",0.834
+cty28121,"Rankin County, MS",0.8339
+cty21085,"Grayson County, KY",0.8338
+cty35013,"Do±íáüna County, NM",0.8337
+cty21047,"Christian County, KY",0.8336
+cty21137,"Lincoln County, KY",0.8336
+cty28005,"Amite County, MS",0.8335
+cty01127,"Walker County, AL",0.8334
+cty01033,"Colbert County, AL",0.8332
+cty28061,"Jasper County, MS",0.8332
+cty21031,"Butler County, KY",0.8331
+cty28021,"Claiborne County, MS",0.833
+cty22059,"LaSalle Parish, LA",0.8329
+cty26117,"Montcalm County, MI",0.8328
+cty01061,"Geneva County, AL",0.8325
+cty29091,"Howell County, MO",0.8325
+cty22003,"Allen Parish, LA",0.8323
+cty28149,"Warren County, MS",0.8323
+cty21069,"Fleming County, KY",0.8322
+cty27115,"Pine County, MN",0.8322
+cty20145,"Pawnee County, KS",0.8313
+cty01055,"Etowah County, AL",0.8311
+cty28075,"Lauderdale County, MS",0.8307
+cty22117,"Washington Parish, LA",0.8306
+cty29145,"Newton County, MO",0.8302
+cty29125,"Maries County, MO",0.83
+cty29187,"St. Francois County, MO",0.83
+cty20077,"Harper County, KS",0.8298
+cty35009,"Curry County, NM",0.8297
+cty28009,"Benton County, MS",0.8292
+cty21147,"McCreary County, KY",0.8288
+cty26133,"Osceola County, MI",0.8287
+cty21071,"Floyd County, KY",0.8281
+cty21013,"Bell County, KY",0.8275
+cty21163,"Meade County, KY",0.8275
+cty29085,"Hickory County, MO",0.8272
+cty26159,"Van Buren County, MI",0.8269
+cty21075,"Fulton County, KY",0.8265
+cty22061,"Lincoln Parish, LA",0.8262
+cty21003,"Allen County, KY",0.8261
+cty01119,"Sumter County, AL",0.826
+cty20057,"Ford County, KS",0.8259
+cty26033,"Chippewa County, MI",0.8258
+cty26071,"Iron County, MI",0.8258
+cty22037,"East Feliciana Parish, LA",0.8257
+cty29057,"Dade County, MO",0.8256
+cty35045,"San Juan County, NM",0.8255
+cty01039,"Covington County, AL",0.8254
+cty28019,"Choctaw County, MS",0.8251
+cty29175,"Randolph County, MO",0.825
+cty21025,"Breathitt County, KY",0.8249
+cty35007,"Colfax County, NM",0.8247
+cty29181,"Ripley County, MO",0.8245
+cty22063,"Livingston Parish, LA",0.8244
+cty29229,"Wright County, MO",0.8239
+cty26023,"Branch County, MI",0.8238
+cty32003,"Clark County, NV",0.8237
+cty35061,"Valencia County, NM",0.8236
+cty26027,"Cass County, MI",0.8232
+cty28033,"DeSoto County, MS",0.8232
+cty01043,"Cullman County, AL",0.8231
+cty01059,"Franklin County, AL",0.8231
+cty29203,"Shannon County, MO",0.8224
+cty33019,"Sullivan County, NH",0.8224
+cty01025,"Clarke County, AL",0.8219
+cty21011,"Bath County, KY",0.8218
+cty01123,"Tallapoosa County, AL",0.8217
+cty20175,"Seward County, KS",0.8216
+cty29079,"Grundy County, MO",0.8216
+cty01093,"Marion County, AL",0.8215
+cty32023,"Nye County, NV",0.8212
+cty35031,"McKinley County, NM",0.8212
+cty21053,"Clinton County, KY",0.821
+cty01079,"Lawrence County, AL",0.8206
+cty21077,"Gallatin County, KY",0.8202
+cty26127,"Oceana County, MI",0.82
+cty22071,"Orleans Parish, LA",0.8199
+cty21099,"Hart County, KY",0.8197
+cty29137,"Monroe County, MO",0.8194
+cty28109,"Pearl River County, MS",0.8191
+cty04009,"Graham County, AZ",0.8189
+cty35015,"Eddy County, NM",0.8188
+cty22073,"Ouachita Parish, LA",0.8187
+cty22125,"West Feliciana Parish, LA",0.8187
+cty21219,"Todd County, KY",0.8186
+cty29023,"Butler County, MO",0.8184
+cty29109,"Lawrence County, MO",0.8181
+cty04015,"Mohave County, AZ",0.818
+cty35005,"Chaves County, NM",0.8179
+cty28029,"Copiah County, MS",0.8178
+cty22017,"Caddo Parish, LA",0.8172
+cty21095,"Harlan County, KY",0.8169
+cty28039,"George County, MS",0.8169
+cty22027,"Claiborne Parish, LA",0.8167
+cty22101,"St. Mary Parish, LA",0.8165
+cty01017,"Chambers County, AL",0.8164
+cty35017,"Grant County, NM",0.816
+cty21065,"Estill County, KY",0.8156
+cty01009,"Blount County, AL",0.8152
+cty04007,"Gila County, AZ",0.8151
+cty28147,"Walthall County, MS",0.8151
+cty22105,"Tangipahoa Parish, LA",0.8148
+cty29105,"Laclede County, MO",0.8148
+cty01021,"Chilton County, AL",0.8147
+cty28047,"Harrison County, MS",0.8146
+cty21057,"Cumberland County, KY",0.8145
+cty22069,"Natchitoches Parish, LA",0.814
+cty01131,"Wilcox County, AL",0.8137
+cty28013,"Calhoun County, MS",0.8137
+cty20209,"Wyandotte County, KS",0.8134
+cty22079,"Rapides Parish, LA",0.8133
+cty22043,"Grant Parish, LA",0.813
+cty29159,"Pettis County, MO",0.8126
+cty01035,"Conecuh County, AL",0.8125
+cty21211,"Shelby County, KY",0.8124
+cty01083,"Limestone County, AL",0.8121
+cty28105,"Oktibbeha County, MS",0.8119
+cty28001,"Adams County, MS",0.8117
+cty20067,"Grant County, KS",0.8113
+cty21129,"Lee County, KY",0.8112
+cty29221,"Washington County, MO",0.8111
+cty35039,"Rio Arriba County, NM",0.8111
+cty22077,"Pointe Coupee Parish, LA",0.811
+cty28049,"Hinds County, MS",0.8105
+cty28015,"Carroll County, MS",0.8104
+cty22121,"West Baton Rouge Parish, LA",0.8102
+cty01005,"Barbour County, AL",0.8101
+cty01041,"Crenshaw County, AL",0.8101
+cty26035,"Clare County, MI",0.81
+cty01101,"Montgomery County, AL",0.8099
+cty28087,"Lowndes County, MS",0.8099
+cty01095,"Marshall County, AL",0.8094
+cty21023,"Bracken County, KY",0.8094
+cty01067,"Henry County, AL",0.8089
+cty29201,"Scott County, MO",0.8089
+cty21139,"Livingston County, KY",0.8088
+cty20055,"Finney County, KS",0.8085
+cty01097,"Mobile County, AL",0.8083
+cty01027,"Clay County, AL",0.808
+cty01015,"Calhoun County, AL",0.8073
+cty28141,"Tishomingo County, MS",0.8072
+cty21103,"Henry County, KY",0.807
+cty22039,"Evangeline Parish, LA",0.8068
+cty04027,"Yuma County, AZ",0.8067
+cty04012,"La Paz County, AZ",0.8065
+cty28041,"Greene County, MS",0.8065
+cty22111,"Union Parish, LA",0.8061
+cty28007,"Attala County, MS",0.806
+cty01053,"Escambia County, AL",0.8059
+cty22001,"Acadia Parish, LA",0.8059
+cty28111,"Perry County, MS",0.8058
+cty28057,"Itawamba County, MS",0.8055
+cty22127,"Winn Parish, LA",0.8052
+cty01111,"Randolph County, AL",0.8048
+cty29011,"Barton County, MO",0.8047
+cty28065,"Jefferson Davis County, MS",0.8041
+cty28091,"Marion County, MS",0.804
+cty04023,"Santa Cruz County, AZ",0.8039
+cty28067,"Jones County, MS",0.8037
+cty21109,"Jackson County, KY",0.8036
+cty28043,"Grenada County, MS",0.8034
+cty01113,"Russell County, AL",0.8032
+cty26149,"St. Joseph County, MI",0.8032
+cty01049,"DeKalb County, AL",0.8031
+cty01085,"Lowndes County, AL",0.803
+cty29009,"Barry County, MO",0.8025
+cty28137,"Tate County, MS",0.8023
+cty22091,"St. Helena Parish, LA",0.802
+cty28035,"Forrest County, MS",0.8019
+cty28131,"Stone County, MS",0.8019
+cty35059,"Union County, NM",0.8015
+cty01121,"Talladega County, AL",0.8012
+cty21223,"Trimble County, KY",0.8012
+cty28101,"Newton County, MS",0.8012
+cty22097,"St. Landry Parish, LA",0.801
+cty35041,"Roosevelt County, NM",0.8008
+cty01125,"Tuscaloosa County, AL",0.8006
+cty01023,"Choctaw County, AL",0.8
+cty29155,"Pemiscot County, MO",0.7998
+cty22045,"Iberia Parish, LA",0.7994
+cty01007,"Bibb County, AL",0.799
+cty29225,"Webster County, MO",0.7988
+cty28115,"Pontotoc County, MS",0.7986
+cty29215,"Texas County, MO",0.7981
+cty21081,"Grant County, KY",0.7979
+cty29061,"Daviess County, MO",0.7978
+cty26019,"Benzie County, MI",0.797
+cty22113,"Vermilion Parish, LA",0.7964
+cty35025,"Lea County, NM",0.7964
+cty28127,"Simpson County, MS",0.7959
+cty21153,"Magoffin County, KY",0.7958
+cty01047,"Dallas County, AL",0.7956
+cty22085,"Sabine Parish, LA",0.7956
+cty29093,"Iron County, MO",0.7944
+cty21041,"Carroll County, KY",0.7943
+cty29141,"Morgan County, MO",0.7939
+cty26085,"Lake County, MI",0.7936
+cty29510,"St. Louis city, MO",0.793
+cty28095,"Monroe County, MS",0.7925
+cty28077,"Lawrence County, MS",0.792
+cty28113,"Pike County, MS",0.7919
+cty26013,"Baraga County, MI",0.7918
+cty28069,"Kemper County, MS",0.7912
+cty01019,"Cherokee County, AL",0.7908
+cty28079,"Leake County, MS",0.7908
+cty01115,"St. Clair County, AL",0.7906
+cty22013,"Bienville Parish, LA",0.7898
+cty28031,"Covington County, MS",0.789
+cty22099,"St. Martin Parish, LA",0.7889
+cty26079,"Kalkaska County, MI",0.7889
+cty35023,"Hidalgo County, NM",0.7885
+cty22119,"Webster Parish, LA",0.7884
+cty22031,"De Soto Parish, LA",0.7882
+cty21203,"Rockcastle County, KY",0.7881
+cty29119,"McDonald County, MO",0.7881
+cty29069,"Dunklin County, MO",0.7866
+cty01013,"Butler County, AL",0.786
+cty04021,"Pinal County, AZ",0.7857
+cty21169,"Metcalfe County, KY",0.7857
+cty01107,"Pickens County, AL",0.7854
+cty28011,"Bolivar County, MS",0.7853
+cty21197,"Powell County, KY",0.785
+cty26001,"Alcona County, MI",0.7841
+cty29059,"Dallas County, MO",0.7837
+cty22021,"Caldwell Parish, LA",0.7822
+cty26135,"Oscoda County, MI",0.7822
+cty29133,"Mississippi County, MO",0.7821
+cty01029,"Cleburne County, AL",0.7815
+cty21079,"Garrard County, KY",0.7809
+cty28099,"Neshoba County, MS",0.7792
+cty28051,"Holmes County, MS",0.7791
+cty24510,"Baltimore city, MD",0.779
+cty28117,"Prentiss County, MS",0.7787
+cty35057,"Torrance County, NM",0.7786
+cty36005,"Bronx County, NY",0.7783
+cty35051,"Sierra County, NM",0.7778
+cty22109,"Terrebonne Parish, LA",0.7767
+cty28139,"Tippah County, MS",0.7764
+cty02050,"Bethel Census Area, AK",0.7763
+cty28003,"Alcorn County, MS",0.7761
+cty30065,"Musselshell County, MT",0.7746
+cty22009,"Avoyelles Parish, LA",0.7744
+cty28129,"Smith County, MS",0.7742
+cty22053,"Jefferson Davis Parish, LA",0.7725
+cty28145,"Union County, MS",0.7714
+cty21237,"Wolfe County, KY",0.77
+cty22065,"Madison Parish, LA",0.7695
+cty22083,"Richland Parish, LA",0.7695
+cty28133,"Sunflower County, MS",0.7684
+cty01087,"Macon County, AL",0.7681
+cty01109,"Pike County, AL",0.7674
+cty28025,"Clay County, MS",0.7662
+cty28063,"Jefferson County, MS",0.766
+cty29035,"Carter County, MO",0.7652
+cty28023,"Clarke County, MS",0.7634
+cty01065,"Hale County, AL",0.7624
+cty29055,"Crawford County, MO",0.7593
+cty22007,"Assumption Parish, LA",0.7589
+cty28107,"Panola County, MS",0.7571
+cty22041,"Franklin Parish, LA",0.7529
+cty28017,"Chickasaw County, MS",0.75
+cty01037,"Coosa County, AL",0.7497
+cty28155,"Webster County, MS",0.7492
+cty28037,"Franklin County, MS",0.7488
+cty22029,"Concordia Parish, LA",0.7474
+cty28143,"Tunica County, MS",0.7474
+cty28027,"Coahoma County, MS",0.7466
+cty22067,"Morehouse Parish, LA",0.7446
+cty22047,"Iberville Parish, LA",0.7431
+cty21121,"Knox County, KY",0.7428
+cty30035,"Glacier County, MT",0.7419
+cty35029,"Luna County, NM",0.7409
+cty28123,"Scott County, MS",0.7407
+cty28097,"Montgomery County, MS",0.7404
+cty28163,"Yazoo County, MS",0.7397
+cty28161,"Yalobusha County, MS",0.7388
+cty28093,"Marshall County, MS",0.7361
+cty22081,"Red River Parish, LA",0.7334
+cty02188,"Northwest Arctic Borough, AK",0.7328
+cty35037,"Quay County, NM",0.732
+cty01105,"Perry County, AL",0.7306
+cty28083,"Leflore County, MS",0.7296
+cty28151,"Washington County, MS",0.7277
+cty28157,"Wilkinson County, MS",0.7259
+cty28103,"Noxubee County, MS",0.721
+cty28053,"Humphreys County, MS",0.7152
+cty01011,"Bullock County, AL",0.7131
+cty28153,"Wayne County, MS",0.7131
+cty01063,"Greene County, AL",0.7119
+cty02270,,
+cty42047,"Elk County, PA",0.9471
+cty36059,"Nassau County, NY",0.9441
+cty36079,"Putnam County, NY",0.9403
+cty46079,"Lake County, SD",0.932
+cty44001,"Bristol County, RI",0.9307
+cty38097,"Traill County, ND",0.9275
+cty42017,"Bucks County, PA",0.9273
+cty42021,"Cambria County, PA",0.9271
+cty38003,"Barnes County, ND",0.9264
+cty42091,"Montgomery County, PA",0.9247
+cty36103,"Suffolk County, NY",0.924
+cty36085,"Richmond County, NY",0.9233
+cty42045,"Delaware County, PA",0.9226
+cty38077,"Richland County, ND",0.9225
+cty36119,"Westchester County, NY",0.9217
+cty38015,"Burleigh County, ND",0.9214
+cty42003,"Allegheny County, PA",0.9211
+cty46083,"Lincoln County, SD",0.9188
+cty39041,"Delaware County, OH",0.9186
+cty44003,"Kent County, RI",0.9184
+cty38093,"Stutsman County, ND",0.9179
+cty36093,"Schenectady County, NY",0.9175
+cty36087,"Rockland County, NY",0.9174
+cty44005,"Newport County, RI",0.9169
+cty38035,"Grand Forks County, ND",0.9168
+cty46013,"Brown County, SD",0.916
+cty42079,"Luzerne County, PA",0.9158
+cty41003,"Benton County, OR",0.9156
+cty38017,"Cass County, ND",0.9153
+cty42019,"Butler County, PA",0.9149
+cty42007,"Beaver County, PA",0.9146
+cty37039,"Cherokee County, NC",0.914
+cty47187,"Williamson County, TN",0.9135
+cty42129,"Westmoreland County, PA",0.9133
+cty39013,"Belmont County, OH",0.9127
+cty42125,"Washington County, PA",0.9127
+cty44009,"Washington County, RI",0.9124
+cty42069,"Lackawanna County, PA",0.9114
+cty36063,"Niagara County, NY",0.9113
+cty36091,"Saratoga County, NY",0.9113
+cty46135,"Yankton County, SD",0.9104
+cty39081,"Jefferson County, OH",0.9101
+cty37055,"Dare County, NC",0.9098
+cty38101,"Ward County, ND",0.9093
+cty42059,"Greene County, PA",0.9091
+cty39175,"Wyandot County, OH",0.9088
+cty42051,"Fayette County, PA",0.9088
+cty42013,"Blair County, PA",0.9084
+cty42063,"Indiana County, PA",0.9081
+cty42057,"Fulton County, PA",0.908
+cty39067,"Harrison County, OH",0.9074
+cty39103,"Medina County, OH",0.9074
+cty46125,"Turner County, SD",0.9073
+cty36109,"Tompkins County, NY",0.9068
+cty42077,"Lehigh County, PA",0.9066
+cty46037,"Day County, SD",0.9063
+cty38089,"Stark County, ND",0.906
+cty39011,"Auglaize County, OH",0.9058
+cty41063,"Wallowa County, OR",0.9056
+cty42027,"Centre County, PA",0.9055
+cty36069,"Ontario County, NY",0.905
+cty39123,"Ottawa County, OH",0.9047
+cty42025,"Carbon County, PA",0.9046
+cty37135,"Orange County, NC",0.9043
+cty47109,"McNairy County, TN",0.9042
+cty36051,"Livingston County, NY",0.9038
+cty46081,"Lawrence County, SD",0.9038
+cty42005,"Armstrong County, PA",0.9037
+cty42029,"Chester County, PA",0.9032
+cty41037,"Lake County, OR",0.9024
+cty39085,"Lake County, OH",0.902
+cty39121,"Noble County, OH",0.9016
+cty39133,"Portage County, OH",0.9013
+cty37121,"Mitchell County, NC",0.901
+cty46005,"Beadle County, SD",0.9009
+cty42107,"Schuylkill County, PA",0.9008
+cty39165,"Warren County, OH",0.9007
+cty39173,"Wood County, OH",0.9002
+cty39051,"Fulton County, OH",0.8998
+cty38059,"Morton County, ND",0.8996
+cty39167,"Washington County, OH",0.8989
+cty39045,"Fairfield County, OH",0.8986
+cty47133,"Overton County, TN",0.8984
+cty39159,"Union County, OH",0.8982
+cty37113,"Macon County, NC",0.8977
+cty42083,"McKean County, PA",0.8973
+cty36055,"Monroe County, NY",0.8972
+cty42033,"Clearfield County, PA",0.8971
+cty39109,"Miami County, OH",0.897
+cty42131,"Wyoming County, PA",0.8968
+cty37041,"Chowan County, NC",0.8966
+cty42061,"Huntingdon County, PA",0.8962
+cty36113,"Warren County, NY",0.896
+cty36111,"Ulster County, NY",0.8958
+cty37087,"Haywood County, NC",0.8956
+cty46099,"Minnehaha County, SD",0.8956
+cty40035,"Craig County, OK",0.8955
+cty36065,"Oneida County, NY",0.8952
+cty42127,"Wayne County, PA",0.8952
+cty36043,"Herkimer County, NY",0.895
+cty46115,"Spink County, SD",0.895
+cty46067,"Hutchinson County, SD",0.8948
+cty36117,"Wayne County, NY",0.8947
+cty46033,"Custer County, SD",0.8946
+cty39107,"Mercer County, OH",0.8945
+cty42095,"Northampton County, PA",0.8941
+cty36083,"Rensselaer County, NY",0.894
+cty41039,"Lane County, OR",0.8935
+cty36067,"Onondaga County, NY",0.8934
+cty47001,"Anderson County, TN",0.8932
+cty46011,"Brookings County, SD",0.8925
+cty37005,"Alleghany County, NC",0.8923
+cty46051,"Grant County, SD",0.8922
+cty41005,"Clackamas County, OR",0.8921
+cty36071,"Orange County, NY",0.892
+cty47159,"Smith County, TN",0.8917
+cty38105,"Williams County, ND",0.8915
+cty39099,"Mahoning County, OH",0.8915
+cty44007,"Providence County, RI",0.8915
+cty39073,"Hocking County, OH",0.891
+cty39137,"Putnam County, OH",0.8904
+cty39037,"Darke County, OH",0.8903
+cty47135,"Perry County, TN",0.8902
+cty39147,"Seneca County, OH",0.89
+cty47079,"Henry County, TN",0.8899
+cty47063,"Hamblen County, TN",0.8896
+cty40103,"Noble County, OK",0.8895
+cty36073,"Orleans County, NY",0.8892
+cty37125,"Moore County, NC",0.889
+cty42111,"Somerset County, PA",0.889
+cty42065,"Jefferson County, PA",0.8882
+cty39063,"Hancock County, OH",0.888
+cty47107,"McMinn County, TN",0.8877
+cty47141,"Putnam County, TN",0.8876
+cty41067,"Washington County, OR",0.8874
+cty46101,"Moody County, SD",0.8872
+cty41015,"Curry County, OR",0.8868
+cty36053,"Madison County, NY",0.8867
+cty39153,"Summit County, OH",0.8867
+cty39111,"Monroe County, OH",0.8862
+cty41053,"Polk County, OR",0.8861
+cty36121,"Wyoming County, NY",0.8859
+cty42031,"Clarion County, PA",0.8856
+cty37031,"Carteret County, NC",0.8844
+cty42073,"Lawrence County, PA",0.8844
+cty46035,"Davison County, SD",0.8844
+cty42133,"York County, PA",0.8843
+cty39161,"Van Wert County, OH",0.8841
+cty48009,"Archer County, TX",0.8841
+cty38009,"Bottineau County, ND",0.8839
+cty37183,"Wake County, NC",0.8838
+cty39117,"Morrow County, OH",0.8838
+cty45063,"Lexington County, SC",0.8834
+cty40119,"Payne County, OK",0.8832
+cty39027,"Clinton County, OH",0.8831
+cty46029,"Codington County, SD",0.8831
+cty42089,"Monroe County, PA",0.883
+cty47095,"Lake County, TN",0.883
+cty42037,"Columbia County, PA",0.8829
+cty39143,"Sandusky County, OH",0.8828
+cty42049,"Erie County, PA",0.8825
+cty37175,"Transylvania County, NC",0.8824
+cty39043,"Erie County, OH",0.8822
+cty42105,"Potter County, PA",0.8822
+cty46019,"Butte County, SD",0.8821
+cty38071,"Ramsey County, ND",0.882
+cty42011,"Berks County, PA",0.882
+cty36045,"Jefferson County, NY",0.8819
+cty36081,"Queens County, NY",0.8819
+cty47181,"Wayne County, TN",0.8819
+cty41011,"Coos County, OR",0.8818
+cty39097,"Madison County, OH",0.8814
+cty40131,"Rogers County, OK",0.8814
+cty47129,"Morgan County, TN",0.8812
+cty42043,"Dauphin County, PA",0.8811
+cty42035,"Clinton County, PA",0.881
+cty37059,"Davie County, NC",0.8808
+cty41035,"Klamath County, OR",0.8804
+cty39009,"Athens County, OH",0.8801
+cty36095,"Schoharie County, NY",0.88
+cty37189,"Watauga County, NC",0.88
+cty39069,"Henry County, OH",0.8799
+cty36099,"Seneca County, NY",0.8797
+cty36107,"Tioga County, NY",0.8796
+cty41017,"Deschutes County, OR",0.8796
+cty47093,"Knox County, TN",0.8796
+cty47183,"Weakley County, TN",0.8795
+cty41057,"Tillamook County, OR",0.8793
+cty45013,"Beaufort County, SC",0.8793
+cty39083,"Knox County, OH",0.8791
+cty36105,"Sullivan County, NY",0.8789
+cty47039,"Decatur County, TN",0.8788
+cty39017,"Butler County, OH",0.8786
+cty46129,"Walworth County, SD",0.8785
+cty39151,"Stark County, OH",0.8784
+cty47119,"Maury County, TN",0.8783
+cty40027,"Cleveland County, OK",0.878
+cty46065,"Hughes County, SD",0.8779
+cty36077,"Otsego County, NY",0.8776
+cty36075,"Oswego County, NY",0.8774
+cty42009,"Bedford County, PA",0.8767
+cty39057,"Greene County, OH",0.8766
+cty40017,"Canadian County, OK",0.8766
+cty37037,"Chatham County, NC",0.8765
+cty42097,"Northumberland County, PA",0.8763
+cty46093,"Meade County, SD",0.876
+cty39157,"Tuscarawas County, OH",0.8753
+cty48027,"Bell County, TX",0.8753
+cty47175,"Van Buren County, TN",0.8752
+cty39155,"Trumbull County, OH",0.8748
+cty47023,"Chester County, TN",0.8748
+cty47165,"Sumner County, TN",0.8746
+cty47033,"Crockett County, TN",0.8745
+cty36097,"Schuyler County, NY",0.8741
+cty39087,"Lawrence County, OH",0.8739
+cty40065,"Jackson County, OK",0.8738
+cty37103,"Jones County, NC",0.8737
+cty39093,"Lorain County, OH",0.8736
+cty42123,"Warren County, PA",0.8733
+cty47025,"Claiborne County, TN",0.8731
+cty42103,"Pike County, PA",0.8728
+cty40055,"Greer County, OK",0.8727
+cty47017,"Carroll County, TN",0.8727
+cty36049,"Lewis County, NY",0.8724
+cty39019,"Carroll County, OH",0.8724
+cty41025,"Harney County, OR",0.8724
+cty37099,"Jackson County, NC",0.8723
+cty39077,"Huron County, OH",0.8723
+cty42001,"Adams County, PA",0.8722
+cty46127,"Union County, SD",0.872
+cty48015,"Austin County, TX",0.8719
+cty42099,"Perry County, PA",0.8715
+cty47021,"Cheatham County, TN",0.8712
+cty37011,"Avery County, NC",0.8708
+cty39003,"Allen County, OH",0.8706
+cty47149,"Rutherford County, TN",0.8704
+cty37129,"New Hanover County, NC",0.8703
+cty37089,"Henderson County, NC",0.8702
+cty39059,"Guernsey County, OH",0.8702
+cty47089,"Jefferson County, TN",0.8702
+cty36089,"St. Lawrence County, NY",0.87
+cty41009,"Columbia County, OR",0.8698
+cty36115,"Washington County, NY",0.8694
+cty37187,"Washington County, NC",0.8691
+cty39127,"Perry County, OH",0.8689
+cty46009,"Bon Homme County, SD",0.8689
+cty45027,"Clarendon County, SC",0.8688
+cty47145,"Roane County, TN",0.8688
+cty47059,"Greene County, TN",0.8687
+cty39029,"Columbiana County, OH",0.8685
+cty47081,"Hickman County, TN",0.8685
+cty42023,"Cameron County, PA",0.8682
+cty38099,"Walsh County, ND",0.8678
+cty47171,"Unicoi County, TN",0.8678
+cty39061,"Hamilton County, OH",0.8676
+cty39091,"Logan County, OH",0.8675
+cty40145,"Wagoner County, OK",0.8675
+cty48043,"Brewster County, TX",0.8674
+cty39105,"Meigs County, OH",0.8671
+cty40073,"Kingfisher County, OK",0.8671
+cty42081,"Lycoming County, PA",0.8669
+cty47009,"Blount County, TN",0.8669
+cty39171,"Williams County, OH",0.8668
+cty42121,"Venango County, PA",0.8668
+cty47027,"Clay County, TN",0.8668
+cty40013,"Bryan County, OK",0.8666
+cty39125,"Paulding County, OH",0.8665
+cty41027,"Hood River County, OR",0.8665
+cty39005,"Ashland County, OH",0.8664
+cty39129,"Pickaway County, OH",0.8664
+cty39149,"Shelby County, OH",0.8664
+cty42093,"Montour County, PA",0.8663
+cty47105,"Loudon County, TN",0.8663
+cty39089,"Licking County, OH",0.8658
+cty37049,"Craven County, NC",0.8655
+cty47125,"Montgomery County, TN",0.8655
+cty42085,"Mercer County, PA",0.8652
+cty39035,"Cuyahoga County, OH",0.8651
+cty39095,"Lucas County, OH",0.8651
+cty46103,"Pennington County, SD",0.8649
+cty47131,"Obion County, TN",0.8649
+cty47189,"Wilson County, TN",0.8648
+cty46123,"Tripp County, SD",0.8646
+cty36101,"Steuben County, NY",0.8642
+cty41033,"Josephine County, OR",0.8642
+cty46027,"Clay County, SD",0.864
+cty37079,"Greene County, NC",0.8639
+cty47035,"Cumberland County, TN",0.8639
+cty42041,"Cumberland County, PA",0.8637
+cty47163,"Sullivan County, TN",0.8634
+cty37021,"Buncombe County, NC",0.8633
+cty37067,"Forsyth County, NC",0.8633
+cty47147,"Robertson County, TN",0.8631
+cty47067,"Hancock County, TN",0.8628
+cty37197,"Yadkin County, NC",0.8627
+cty47073,"Hawkins County, TN",0.8627
+cty41051,"Multnomah County, OR",0.8626
+cty45081,"Saluda County, SC",0.8624
+cty48059,"Callahan County, TX",0.8624
+cty42067,"Juniata County, PA",0.8621
+cty39025,"Clermont County, OH",0.862
+cty37043,"Clay County, NC",0.8618
+cty39139,"Richland County, OH",0.8618
+cty47087,"Jackson County, TN",0.8618
+cty45045,"Greenville County, SC",0.8617
+cty40099,"Murray County, OK",0.8614
+cty47019,"Carter County, TN",0.8614
+cty47113,"Madison County, TN",0.8614
+cty47127,"Moore County, TN",0.8614
+cty47123,"Monroe County, TN",0.8612
+cty47143,"Rhea County, TN",0.861
+cty47177,"Warren County, TN",0.8608
+cty39119,"Muskingum County, OH",0.8606
+cty42117,"Tioga County, PA",0.8606
+cty47031,"Coffee County, TN",0.8605
+cty37167,"Stanly County, NC",0.8603
+cty41023,"Grant County, OR",0.86
+cty47179,"Washington County, TN",0.86
+cty41019,"Douglas County, OR",0.8599
+cty47029,"Cocke County, TN",0.8598
+cty47103,"Lincoln County, TN",0.8598
+cty47161,"Stewart County, TN",0.8597
+cty37141,"Pender County, NC",0.8596
+cty39135,"Preble County, OH",0.8594
+cty37081,"Guilford County, NC",0.8592
+cty47085,"Humphreys County, TN",0.8591
+cty39141,"Ross County, OH",0.859
+cty41047,"Marion County, OR",0.8587
+cty47057,"Grainger County, TN",0.8582
+cty40105,"Nowata County, OK",0.8581
+cty40143,"Tulsa County, OK",0.858
+cty46109,"Roberts County, SD",0.858
+cty39113,"Montgomery County, OH",0.8579
+cty47053,"Gibson County, TN",0.8573
+cty39079,"Jackson County, OH",0.8572
+cty45035,"Dorchester County, SC",0.8572
+cty37001,"Alamance County, NC",0.8571
+cty37025,"Cabarrus County, NC",0.8566
+cty37119,"Mecklenburg County, NC",0.8566
+cty37053,"Currituck County, NC",0.8563
+cty41045,"Malheur County, OR",0.8563
+cty37133,"Onslow County, NC",0.8562
+cty37179,"Union County, NC",0.8561
+cty42101,"Philadelphia County, PA",0.856
+cty40153,"Woodward County, OK",0.8558
+cty39039,"Defiance County, OH",0.8556
+cty40147,"Washington County, OK",0.8556
+cty39065,"Hardin County, OH",0.8554
+cty47155,"Sevier County, TN",0.8553
+cty39021,"Champaign County, OH",0.855
+cty40047,"Garfield County, OK",0.855
+cty47117,"Marshall County, TN",0.855
+cty39101,"Marion County, OH",0.8548
+cty40079,"Le Flore County, OK",0.8548
+cty39145,"Scioto County, OH",0.8546
+cty39031,"Coshocton County, OH",0.854
+cty40123,"Pontotoc County, OK",0.8535
+cty47011,"Bradley County, TN",0.8534
+cty40087,"McClain County, OK",0.8528
+cty45015,"Berkeley County, SC",0.8527
+cty47111,"Macon County, TN",0.8522
+cty37127,"Nash County, NC",0.852
+cty47041,"DeKalb County, TN",0.8516
+cty36057,"Montgomery County, NY",0.8515
+cty41061,"Union County, OR",0.8514
+cty39053,"Gallia County, OH",0.851
+cty37019,"Brunswick County, NC",0.8504
+cty41071,"Yamhill County, OR",0.8504
+cty41029,"Jackson County, OR",0.8503
+cty48005,"Angelina County, TX",0.8503
+cty41059,"Umatilla County, OR",0.8499
+cty37171,"Surry County, NC",0.8498
+cty42055,"Franklin County, PA",0.8498
+cty39049,"Franklin County, OH",0.8497
+cty47055,"Giles County, TN",0.8496
+cty48001,"Anderson County, TX",0.8493
+cty45003,"Aiken County, SC",0.8492
+cty37199,"Yancey County, NC",0.8491
+cty47069,"Hardeman County, TN",0.849
+cty45079,"Richland County, SC",0.8489
+cty37191,"Wayne County, NC",0.8488
+cty39007,"Ashtabula County, OH",0.8483
+cty40031,"Comanche County, OK",0.8483
+cty45055,"Kershaw County, SC",0.8483
+cty41001,"Baker County, OR",0.8479
+cty48049,"Brown County, TX",0.8478
+cty47043,"Dickson County, TN",0.8474
+cty47045,"Dyer County, TN",0.8474
+cty42075,"Lebanon County, PA",0.8472
+cty48013,"Atascosa County, TX",0.8472
+cty47173,"Union County, TN",0.8471
+cty45051,"Horry County, SC",0.846
+cty48071,"Chambers County, TX",0.8459
+cty37105,"Lee County, NC",0.8457
+cty40005,"Atoka County, OK",0.8456
+cty40137,"Stephens County, OK",0.8455
+cty47099,"Lawrence County, TN",0.8451
+cty40113,"Osage County, OK",0.845
+cty42115,"Susquehanna County, PA",0.845
+cty41043,"Linn County, OR",0.8449
+cty37091,"Hertford County, NC",0.8448
+cty48041,"Brazos County, TX",0.8447
+cty37173,"Swain County, NC",0.8446
+cty40141,"Tillman County, OK",0.8445
+cty37163,"Sampson County, NC",0.8444
+cty48039,"Brazoria County, TX",0.8444
+cty37097,"Iredell County, NC",0.8439
+cty37009,"Ashe County, NC",0.8438
+cty46023,"Charles Mix County, SD",0.8438
+cty40009,"Beckham County, OK",0.8437
+cty45001,"Abbeville County, SC",0.8437
+cty47101,"Lewis County, TN",0.8436
+cty37159,"Rowan County, NC",0.8435
+cty41013,"Crook County, OR",0.8435
+cty40051,"Grady County, OK",0.8434
+cty37117,"Martin County, NC",0.8433
+cty40083,"Logan County, OK",0.8433
+cty40063,"Hughes County, OK",0.843
+cty45073,"Oconee County, SC",0.8428
+cty48037,"Bowie County, TX",0.8428
+cty39033,"Crawford County, OH",0.8422
+cty40081,"Lincoln County, OK",0.8422
+cty42109,"Snyder County, PA",0.842
+cty40089,"McCurtain County, OK",0.8414
+cty40067,"Jefferson County, OK",0.8413
+cty37035,"Catawba County, NC",0.8412
+cty37051,"Cumberland County, NC",0.8412
+cty37057,"Davidson County, NC",0.841
+cty45017,"Calhoun County, SC",0.8407
+cty37111,"McDowell County, NC",0.8406
+cty41041,"Lincoln County, OR",0.8405
+cty37101,"Johnston County, NC",0.8404
+cty37153,"Richmond County, NC",0.8404
+cty45091,"York County, SC",0.8401
+cty39023,"Clark County, OH",0.8398
+cty39169,"Wayne County, OH",0.8394
+cty41031,"Jefferson County, OR",0.8389
+cty37139,"Pasquotank County, NC",0.8384
+cty37013,"Beaufort County, NC",0.8382
+cty40069,"Johnston County, OK",0.8379
+cty37063,"Durham County, NC",0.8378
+cty37147,"Pitt County, NC",0.8377
+cty36047,"Kings County, NY",0.8375
+cty40121,"Pittsburg County, OK",0.8373
+cty47077,"Henderson County, TN",0.8373
+cty48055,"Caldwell County, TX",0.8373
+cty40039,"Custer County, OK",0.8372
+cty40111,"Okmulgee County, OK",0.8372
+cty47071,"Hardin County, TN",0.837
+cty45071,"Newberry County, SC",0.8369
+cty39015,"Brown County, OH",0.8368
+cty37143,"Perquimans County, NC",0.8367
+cty41007,"Clatsop County, OR",0.8366
+cty45083,"Spartanburg County, SC",0.8363
+cty40109,"Oklahoma County, OK",0.8362
+cty37003,"Alexander County, NC",0.836
+cty47167,"Tipton County, TN",0.8359
+cty39115,"Morgan County, OH",0.8358
+cty37085,"Harnett County, NC",0.8355
+cty37145,"Person County, NC",0.8354
+cty40115,"Ottawa County, OK",0.8351
+cty42015,"Bradford County, PA",0.8351
+cty48067,"Cass County, TX",0.8345
+cty45085,"Sumter County, SC",0.8338
+cty41065,"Wasco County, OR",0.8337
+cty40091,"McIntosh County, OK",0.8336
+cty37023,"Burke County, NC",0.8327
+cty45043,"Georgetown County, SC",0.8327
+cty40107,"Okfuskee County, OK",0.8325
+cty47051,"Franklin County, TN",0.8325
+cty47151,"Scott County, TN",0.8325
+cty37115,"Madison County, NC",0.8321
+cty40061,"Haskell County, OK",0.8318
+cty40125,"Pottawatomie County, OK",0.8316
+cty40049,"Garvin County, OK",0.8314
+cty40021,"Cherokee County, OK",0.8313
+cty37109,"Lincoln County, NC",0.8312
+cty40101,"Muskogee County, OK",0.8311
+cty47065,"Hamilton County, TN",0.8311
+cty39071,"Highland County, OH",0.8307
+cty45041,"Florence County, SC",0.8306
+cty39055,"Geauga County, OH",0.8305
+cty40015,"Caddo County, OK",0.8305
+cty37047,"Columbus County, NC",0.8304
+cty40075,"Kiowa County, OK",0.83
+cty48021,"Bastrop County, TX",0.8293
+cty37033,"Caswell County, NC",0.8291
+cty37137,"Pamlico County, NC",0.829
+cty45029,"Colleton County, SC",0.829
+cty40093,"Major County, OK",0.8289
+cty37131,"Northampton County, NC",0.8288
+cty42039,"Crawford County, PA",0.8284
+cty37077,"Granville County, NC",0.8283
+cty39131,"Pike County, OH",0.8282
+cty40001,"Adair County, OK",0.8276
+cty45031,"Darlington County, SC",0.8272
+cty40011,"Blaine County, OK",0.8271
+cty37193,"Wilkes County, NC",0.8261
+cty40071,"Kay County, OK",0.826
+cty48035,"Bosque County, TX",0.8258
+cty37071,"Gaston County, NC",0.825
+cty37123,"Montgomery County, NC",0.8246
+cty45019,"Charleston County, SC",0.8246
+cty40151,"Woods County, OK",0.8245
+cty37029,"Camden County, NC",0.8238
+cty47115,"Marion County, TN",0.8238
+cty40041,"Delaware County, OK",0.8233
+cty48017,"Bailey County, TX",0.823
+cty48063,"Camp County, TX",0.8229
+cty48029,"Bexar County, TX",0.8227
+cty40037,"Creek County, OK",0.8226
+cty46047,"Fall River County, SD",0.8224
+cty48007,"Aransas County, TX",0.8219
+cty47153,"Sequatchie County, TN",0.8206
+cty41049,"Morrow County, OR",0.8195
+cty40023,"Choctaw County, OK",0.8191
+cty45021,"Cherokee County, SC",0.8184
+cty47157,"Shelby County, TN",0.8182
+cty42119,"Union County, PA",0.8175
+cty45037,"Edgefield County, SC",0.8174
+cty37083,"Halifax County, NC",0.8173
+cty40127,"Pushmataha County, OK",0.8171
+cty37045,"Cleveland County, NC",0.817
+cty48025,"Bee County, TX",0.8153
+cty37161,"Rutherford County, NC",0.8152
+cty45007,"Anderson County, SC",0.8152
+cty45087,"Union County, SC",0.8151
+cty47097,"Lauderdale County, TN",0.8149
+cty37093,"Hoke County, NC",0.8148
+cty37169,"Stokes County, NC",0.8147
+cty40139,"Texas County, OK",0.8146
+cty48069,"Castro County, TX",0.8143
+cty37061,"Duplin County, NC",0.814
+cty39047,"Fayette County, OH",0.8131
+cty36061,"New York County, NY",0.8127
+cty45057,"Lancaster County, SC",0.8127
+cty37149,"Polk County, NC",0.8125
+cty48053,"Burnet County, TX",0.8124
+cty45067,"Marion County, SC",0.8122
+cty45025,"Chesterfield County, SC",0.8119
+cty40097,"Mayes County, OK",0.8118
+cty37195,"Wilson County, NC",0.8116
+cty40077,"Latimer County, OK",0.8113
+cty37027,"Caldwell County, NC",0.8111
+cty45039,"Fairfield County, SC",0.81
+cty45011,"Barnwell County, SC",0.8091
+cty40019,"Carter County, OK",0.8084
+cty48003,"Andrews County, TX",0.8077
+cty45059,"Laurens County, SC",0.8076
+cty40029,"Coal County, OK",0.8075
+cty39001,"Adams County, OH",0.8061
+cty40133,"Seminole County, OK",0.806
+cty45053,"Jasper County, SC",0.8056
+cty37157,"Rockingham County, NC",0.8055
+cty45047,"Greenwood County, SC",0.8054
+cty48019,"Bandera County, TX",0.8054
+cty39163,"Vinton County, OH",0.8049
+cty47139,"Polk County, TN",0.8048
+cty45061,"Lee County, SC",0.8044
+cty48057,"Calhoun County, TX",0.8043
+cty40135,"Sequoyah County, OK",0.8038
+cty42071,"Lancaster County, PA",0.8035
+cty48051,"Burleson County, TX",0.8028
+cty45009,"Bamberg County, SC",0.8022
+cty42087,"Mifflin County, PA",0.8011
+cty47185,"White County, TN",0.8009
+cty45077,"Pickens County, SC",0.8008
+cty40033,"Cotton County, OK",0.8005
+cty37165,"Scotland County, NC",0.8002
+cty37151,"Randolph County, NC",0.7994
+cty40117,"Pawnee County, OK",0.7987
+cty47047,"Fayette County, TN",0.7985
+cty47049,"Fentress County, TN",0.7977
+cty47091,"Johnson County, TN",0.7975
+cty37185,"Warren County, NC",0.7968
+cty45075,"Orangeburg County, SC",0.7958
+cty40085,"Love County, OK",0.7929
+cty38079,"Rolette County, ND",0.7922
+cty37069,"Franklin County, NC",0.7892
+cty37017,"Bladen County, NC",0.7891
+cty47061,"Grundy County, TN",0.7889
+cty40149,"Washita County, OK",0.7876
+cty37065,"Edgecombe County, NC",0.7851
+cty45089,"Williamsburg County, SC",0.7849
+cty47169,"Trousdale County, TN",0.7847
+cty47075,"Haywood County, TN",0.782
+cty36123,"Yates County, NY",0.7812
+cty48061,"Cameron County, TX",0.781
+cty37107,"Lenoir County, NC",0.7797
+cty37155,"Robeson County, NC",0.7787
+cty37181,"Vance County, NC",0.7768
+cty45023,"Chester County, SC",0.7767
+cty48047,"Brooks County, TX",0.7717
+cty40095,"Marshall County, OK",0.7672
+cty37015,"Bertie County, NC",0.7617
+cty37007,"Anson County, NC",0.7463
+cty45065,"McCormick County, SC",0.7418
+cty45069,"Marlboro County, SC",0.7372
+cty45033,"Dillon County, SC",0.7366
+cty45005,"Allendale County, SC",0.7338
+cty45049,"Hampton County, SC",0.7331
+cty46113,,
+cty31113,"Logan County, NE",0.9952
+cty02275,"Wrangell City and Borough, AK",0.9899
+cty51127,"New Kent County, VA",0.9546
+cty51570,"Colonial Heights city, VA",0.9407
+cty51161,"Roanoke County, VA",0.9347
+cty51113,"Madison County, VA",0.9343
+cty51059,"Fairfax County, VA",0.9274
+cty51063,"Floyd County, VA",0.9269
+cty51019,"Bedford County, VA",0.9258
+cty51199,"York County, VA",0.9214
+cty51179,"Stafford County, VA",0.9204
+cty51095,"James City County, VA",0.9203
+cty51185,"Tazewell County, VA",0.9192
+cty51061,"Fauquier County, VA",0.9185
+cty51107,"Loudoun County, VA",0.9159
+cty51085,"Hanover County, VA",0.9152
+cty51155,"Pulaski County, VA",0.9139
+cty51003,"Albemarle County, VA",0.9134
+cty51121,"Montgomery County, VA",0.9131
+cty51071,"Giles County, VA",0.9117
+cty51630,"Fredericksburg city, VA",0.9111
+cty51520,"Bristol city, VA",0.9088
+cty51041,"Chesterfield County, VA",0.9068
+cty51173,"Smyth County, VA",0.9064
+cty51135,"Nottoway County, VA",0.9049
+cty51035,"Carroll County, VA",0.9046
+cty51177,"Spotsylvania County, VA",0.9035
+cty51013,"Arlington County, VA",0.9031
+cty51083,"Halifax County, VA",0.901
+cty51079,"Greene County, VA",0.9006
+cty51087,"Henrico County, VA",0.9002
+cty51530,"Buena Vista city, VA",0.8998
+cty51031,"Campbell County, VA",0.8988
+cty51105,"Lee County, VA",0.8984
+cty51153,"Prince William County, VA",0.8978
+cty51191,"Washington County, VA",0.8977
+cty51027,"Buchanan County, VA",0.8971
+cty51197,"Wythe County, VA",0.8963
+cty51015,"Augusta County, VA",0.8956
+cty51181,"Surry County, VA",0.8956
+cty51099,"King George County, VA",0.8954
+cty51101,"King William County, VA",0.8926
+cty51169,"Scott County, VA",0.8917
+cty51111,"Lunenburg County, VA",0.891
+cty51023,"Botetourt County, VA",0.8907
+cty51550,"Chesapeake city, VA",0.8905
+cty51119,"Middlesex County, VA",0.8902
+cty51195,"Wise County, VA",0.8895
+cty51029,"Buckingham County, VA",0.8893
+cty51009,"Amherst County, VA",0.8891
+cty51049,"Cumberland County, VA",0.8879
+cty51149,"Prince George County, VA",0.8875
+cty51163,"Rockbridge County, VA",0.8872
+cty51650,"Hampton city, VA",0.8862
+cty51043,"Clarke County, VA",0.8859
+cty51089,"Henry County, VA",0.8851
+cty51145,"Powhatan County, VA",0.8844
+cty51143,"Pittsylvania County, VA",0.8821
+cty51600,"Fairfax city, VA",0.8817
+cty51171,"Shenandoah County, VA",0.8797
+cty51067,"Franklin County, VA",0.8795
+cty51175,"Southampton County, VA",0.8777
+cty51069,"Frederick County, VA",0.8752
+cty51680,"Lynchburg city, VA",0.8748
+cty51640,"Galax city, VA",0.8743
+cty51125,"Nelson County, VA",0.8721
+cty51033,"Caroline County, VA",0.872
+cty51075,"Goochland County, VA",0.8719
+cty51159,"Richmond County, VA",0.8703
+cty51065,"Fluvanna County, VA",0.8698
+cty51510,"Alexandria city, VA",0.868
+cty51093,"Isle of Wight County, VA",0.8663
+cty51167,"Russell County, VA",0.8661
+cty51005,"Alleghany County, VA",0.8657
+cty51036,"Charles City County, VA",0.8644
+cty51595,"Emporia city, VA",0.8631
+cty51077,"Grayson County, VA",0.8612
+cty51081,"Greensville County, VA",0.8598
+cty51165,"Rockingham County, VA",0.8598
+cty51007,"Amelia County, VA",0.859
+cty51011,"Appomattox County, VA",0.8578
+cty51660,"Harrisonburg city, VA",0.8565
+cty51047,"Culpeper County, VA",0.8529
+cty51620,"Franklin city, VA",0.8525
+cty51193,"Westmoreland County, VA",0.8523
+cty51053,"Dinwiddie County, VA",0.8487
+cty51540,"Charlottesville city, VA",0.8443
+cty51139,"Page County, VA",0.843
+cty51073,"Gloucester County, VA",0.8427
+cty51001,"Accomack County, VA",0.8419
+cty51051,"Dickenson County, VA",0.8412
+cty51183,"Sussex County, VA",0.841
+cty51141,"Patrick County, VA",0.8408
+cty51187,"Warren County, VA",0.8385
+cty51117,"Mecklenburg County, VA",0.8377
+cty51109,"Louisa County, VA",0.8375
+cty51025,"Brunswick County, VA",0.8334
+cty51590,"Danville city, VA",0.8296
+cty51137,"Orange County, VA",0.8286
+cty51147,"Prince Edward County, VA",0.8225
+cty51670,"Hopewell city, VA",0.8153
+cty51580,"Covington city, VA",0.8079
+cty51131,"Northampton County, VA",0.7158
+cty51515,,
+cty30055,"McCone County, MT",0.9913
+cty30075,"Powder River County, MT",0.9904
+cty06051,"Mono County, CA",0.9878
+cty41055,"Sherman County, OR",0.9855
+cty02068,"Denali Borough, AK",0.9821
+cty46055,"Haakon County, SD",0.9759
+cty08117,"Summit County, CO",0.9748
+cty48433,"Stonewall County, TX",0.9677
+cty31069,"Garden County, NE",0.9656
+cty38033,"Golden Valley County, ND",0.9651
+cty20083,"Hodgeman County, KS",0.9634
+cty31125,"Nance County, NE",0.9626
+cty27155,"Traverse County, MN",0.96
+cty48033,"Borden County, TX",0.9584
+cty17079,"Jasper County, IL",0.9554
+cty51610,"Falls Church city, VA",0.9515
+cty08107,"Routt County, CO",0.9487
+cty38023,"Divide County, ND",0.948
+cty53069,"Wahkiakum County, WA",0.9473
+cty20033,"Comanche County, KS",0.9472
+cty48095,"Concho County, TX",0.9471
+cty31059,"Fillmore County, NE",0.947
+cty49043,"Summit County, UT",0.9466
+cty54009,"Brooke County, WV",0.9457
+cty16033,"Clark County, ID",0.9456
+cty56027,"Niobrara County, WY",0.9447
+cty02105,"Hoonah-Angoon Census Area, AK",0.9443
+cty51103,"Lancaster County, VA",0.9441
+cty17069,"Hardin County, IL",0.9438
+cty06091,"Sierra County, CA",0.9435
+cty02220,"Sitka City and Borough, AK",0.9415
+cty31183,"Wheeler County, NE",0.9407
+cty17065,"Hamilton County, IL",0.9404
+cty17133,"Monroe County, IL",0.9402
+cty38061,"Mountrail County, ND",0.9402
+cty17053,"Ford County, IL",0.9398
+cty20039,"Decatur County, KS",0.939
+cty48417,"Shackelford County, TX",0.9385
+cty31071,"Garfield County, NE",0.9383
+cty20023,"Cheyenne County, KS",0.9363
+cty48327,"Menard County, TX",0.9359
+cty30097,"Sweet Grass County, MT",0.9359
+cty46097,"Miner County, SD",0.9358
+cty19017,"Bremer County, IA",0.9352
+cty06041,"Marin County, CA",0.935
+cty16013,"Blaine County, ID",0.9338
+cty48065,"Carson County, TX",0.9336
+cty17043,"DuPage County, IL",0.9335
+cty46049,"Faulk County, SD",0.9329
+cty17171,"Scott County, IL",0.9327
+cty19009,"Audubon County, IA",0.9322
+cty16071,"Oneida County, ID",0.9321
+cty15003,"Honolulu County, HI",0.9319
+cty46063,"Harding County, SD",0.9316
+cty09005,"Litchfield County, CT",0.9314
+cty55131,"Washington County, WI",0.9307
+cty19075,"Grundy County, IA",0.9306
+cty38069,"Pierce County, ND",0.9306
+cty51017,"Bath County, VA",0.9305
+cty16065,"Madison County, ID",0.93
+cty38043,"Kidder County, ND",0.9297
+cty19079,"Hamilton County, IA",0.9296
+cty55073,"Marathon County, WI",0.9293
+cty20089,"Jewell County, KS",0.9287
+cty19019,"Buchanan County, IA",0.9281
+cty31129,"Nuckolls County, NE",0.9279
+cty38037,"Grant County, ND",0.9277
+cty19055,"Delaware County, IA",0.9274
+cty19095,"Iowa County, IA",0.9274
+cty38007,"Billings County, ND",0.9274
+cty55047,"Green Lake County, WI",0.9273
+cty53023,"Garfield County, WA",0.9273
+cty17049,"Effingham County, IL",0.927
+cty55091,"Pepin County, WI",0.927
+cty17111,"McHenry County, IL",0.9269
+cty17105,"Livingston County, IL",0.9268
+cty19169,"Story County, IA",0.9267
+cty55089,"Ozaukee County, WI",0.9265
+cty55011,"Buffalo County, WI",0.9263
+cty51133,"Northumberland County, VA",0.9263
+cty55023,"Crawford County, WI",0.9261
+cty15001,"Hawaii County, HI",0.926
+cty38021,"Dickey County, ND",0.926
+cty16057,"Latah County, ID",0.9259
+cty38031,"Foster County, ND",0.9258
+cty17189,"Washington County, IL",0.9256
+cty49017,"Garfield County, UT",0.9256
+cty46039,"Deuel County, SD",0.9256
+cty08035,"Douglas County, CO",0.9251
+cty38025,"Dunn County, ND",0.925
+cty20017,"Chase County, KS",0.9246
+cty09013,"Tolland County, CT",0.9243
+cty17027,"Clinton County, IL",0.9243
+cty17067,"Hancock County, IL",0.9242
+cty18057,"Hamilton County, IN",0.9238
+cty51097,"King and Queen County, VA",0.9238
+cty18159,"Tipton County, IN",0.9235
+cty55007,"Bayfield County, WI",0.9235
+cty15009,"Maui County, HI",0.923
+cty17063,"Grundy County, IL",0.923
+cty19121,"Madison County, IA",0.923
+cty17169,"Schuyler County, IL",0.9229
+cty18063,"Hendricks County, IN",0.9227
+cty19119,"Lyon County, IA",0.9227
+cty06017,"El Dorado County, CA",0.9226
+cty31149,"Rock County, NE",0.9226
+cty17009,"Brown County, IL",0.9223
+cty55093,"Pierce County, WI",0.9221
+cty38049,"McHenry County, ND",0.9221
+cty09001,"Fairfield County, CT",0.922
+cty20013,"Brown County, KS",0.9219
+cty19037,"Chickasaw County, IA",0.9216
+cty51735,"Poquoson city, VA",0.9216
+cty16041,"Franklin County, ID",0.9214
+cty17005,"Bond County, IL",0.9208
+cty38047,"Logan County, ND",0.9207
+cty40025,"Cimarron County, OK",0.9206
+cty09007,"Middlesex County, CT",0.9205
+cty54109,"Wyoming County, WV",0.9205
+cty25019,"Nantucket County, MA",0.9205
+cty19083,"Hardin County, IA",0.9203
+cty54067,"Nicholas County, WV",0.9203
+cty13113,"Fayette County, GA",0.9202
+cty19039,"Clarke County, IA",0.92
+cty56011,"Crook County, WY",0.92
+cty51157,"Rappahannock County, VA",0.9198
+cty20065,"Graham County, KS",0.9189
+cty55063,"La Crosse County, WI",0.9187
+cty19125,"Marion County, IA",0.9185
+cty19149,"Plymouth County, IA",0.9184
+cty55097,"Portage County, WI",0.9184
+cty55121,"Trempealeau County, WI",0.9177
+cty19061,"Dubuque County, IA",0.9176
+cty55133,"Waukesha County, WI",0.9175
+cty54069,"Ohio County, WV",0.9174
+cty19191,"Winneshiek County, IA",0.917
+cty55109,"St. Croix County, WI",0.917
+cty17015,"Carroll County, IL",0.9169
+cty51021,"Bland County, VA",0.9169
+cty31057,"Dundy County, NE",0.9168
+cty18129,"Posey County, IN",0.9167
+cty17033,"Crawford County, IL",0.9166
+cty19029,"Cass County, IA",0.9163
+cty55099,"Price County, WI",0.9163
+cty19187,"Webster County, IA",0.9162
+cty19087,"Henry County, IA",0.916
+cty19043,"Clayton County, IA",0.9158
+cty19023,"Butler County, IA",0.9157
+cty49029,"Morgan County, UT",0.9157
+cty50003,"Bennington County, VT",0.9156
+cty27125,"Red Lake County, MN",0.9155
+cty19089,"Howard County, IA",0.9148
+cty27087,"Mahnomen County, MN",0.9147
+cty06063,"Plumas County, CA",0.9146
+cty20011,"Bourbon County, KS",0.9144
+cty17061,"Greene County, IL",0.9142
+cty17085,"Jo Daviess County, IL",0.9142
+cty17097,"Lake County, IL",0.9142
+cty54007,"Braxton County, WV",0.914
+cty55049,"Iowa County, WI",0.914
+cty17197,"Will County, IL",0.9139
+cty19135,"Monroe County, IA",0.9139
+cty19185,"Wayne County, IA",0.9138
+cty54051,"Marshall County, WV",0.9138
+cty20135,"Ness County, KS",0.9136
+cty55035,"Eau Claire County, WI",0.9135
+cty48129,"Donley County, TX",0.9135
+cty06061,"Placer County, CA",0.9134
+cty18127,"Porter County, IN",0.9132
+cty06005,"Amador County, CA",0.9131
+cty17025,"Clay County, IL",0.9131
+cty51750,"Radford city, VA",0.913
+cty38081,"Sargent County, ND",0.913
+cty26083,"Keweenaw County, MI",0.9128
+cty48393,"Roberts County, TX",0.9126
+cty55087,"Outagamie County, WI",0.9125
+cty49031,"Piute County, UT",0.9125
+cty18173,"Warrick County, IN",0.9124
+cty17093,"Kendall County, IL",0.9123
+cty19057,"Des Moines County, IA",0.9123
+cty17147,"Piatt County, IL",0.9122
+cty55025,"Dane County, WI",0.9122
+cty31061,"Franklin County, NE",0.9121
+cty17035,"Cumberland County, IL",0.9119
+cty17203,"Woodford County, IL",0.9118
+cty49051,"Wasatch County, UT",0.9118
+cty20049,"Elk County, KS",0.9116
+cty19005,"Allamakee County, IA",0.9115
+cty20105,"Lincoln County, KS",0.9112
+cty38055,"McLean County, ND",0.911
+cty49011,"Davis County, UT",0.9109
+cty19091,"Humboldt County, IA",0.9107
+cty53031,"Jefferson County, WA",0.9107
+cty49001,"Beaver County, UT",0.9107
+cty55055,"Jefferson County, WI",0.9106
+cty38029,"Emmons County, ND",0.9106
+cty31097,"Johnson County, NE",0.9105
+cty19157,"Poweshiek County, IA",0.9104
+cty50011,"Franklin County, VT",0.9104
+cty08023,"Costilla County, CO",0.9104
+cty20063,"Gove County, KS",0.9097
+cty19165,"Shelby County, IA",0.9096
+cty20071,"Greeley County, KS",0.9096
+cty17109,"McDonough County, IL",0.9095
+cty06075,"San Francisco County, CA",0.9091
+cty19049,"Dallas County, IA",0.9091
+cty49005,"Cache County, UT",0.9088
+cty19195,"Worth County, IA",0.9086
+cty17073,"Henry County, IL",0.9084
+cty19197,"Wright County, IA",0.9084
+cty38095,"Towner County, ND",0.9084
+cty06003,"Alpine County, CA",0.9082
+cty19167,"Sioux County, IA",0.908
+cty08093,"Park County, CO",0.9078
+cty09009,"New Haven County, CT",0.9078
+cty17113,"McLean County, IL",0.9078
+cty48259,"Kendall County, TX",0.9077
+cty53013,"Columbia County, WA",0.9077
+cty55051,"Iron County, WI",0.9077
+cty16019,"Bonneville County, ID",0.9074
+cty31085,"Hayes County, NE",0.9074
+cty48359,"Oldham County, TX",0.9071
+cty51720,"Norton city, VA",0.9071
+cty19065,"Fayette County, IA",0.9068
+cty48381,"Randall County, TX",0.9068
+cty17019,"Champaign County, IL",0.9067
+cty16069,"Nez Perce County, ID",0.9065
+cty46043,"Douglas County, SD",0.9062
+cty55003,"Ashland County, WI",0.9061
+cty53043,"Lincoln County, WA",0.9061
+cty17129,"Menard County, IL",0.906
+cty18059,"Hancock County, IN",0.906
+cty19015,"Boone County, IA",0.906
+cty06081,"San Mateo County, CA",0.9058
+cty09003,"Hartford County, CT",0.9058
+cty19163,"Scott County, IA",0.9058
+cty18147,"Spencer County, IN",0.9057
+cty08009,"Baca County, CO",0.9057
+cty54081,"Raleigh County, WV",0.9056
+cty17119,"Madison County, IL",0.9055
+cty17191,"Wayne County, IL",0.9054
+cty55015,"Calumet County, WI",0.9052
+cty17155,"Putnam County, IL",0.9051
+cty18161,"Union County, IN",0.9049
+cty46087,"McCook County, SD",0.9047
+cty32021,"Mineral County, NV",0.9046
+cty17023,"Clark County, IL",0.9044
+cty55141,"Wood County, WI",0.9044
+cty55119,"Taylor County, WI",0.9043
+cty17145,"Perry County, IL",0.9042
+cty17159,"Richland County, IL",0.9041
+cty20005,"Atchison County, KS",0.9041
+cty46071,"Jackson County, SD",0.904
+cty54033,"Harrison County, WV",0.9037
+cty17001,"Adams County, IL",0.9035
+cty19077,"Guthrie County, IA",0.9035
+cty54041,"Lewis County, WV",0.9033
+cty27051,"Grant County, MN",0.903
+cty55085,"Oneida County, WI",0.9027
+cty16047,"Gooding County, ID",0.9026
+cty51045,"Craig County, VA",0.9026
+cty51830,"Williamsburg city, VA",0.9025
+cty55033,"Dunn County, WI",0.9025
+cty55115,"Shawano County, WI",0.9025
+cty19111,"Lee County, IA",0.9023
+cty09011,"New London County, CT",0.9022
+cty19153,"Polk County, IA",0.9022
+cty53051,"Pend Oreille County, WA",0.9022
+cty05045,"Faulkner County, AR",0.9021
+cty06013,"Contra Costa County, CA",0.902
+cty56035,"Sublette County, WY",0.902
+cty19041,"Clay County, IA",0.9019
+cty19101,"Jefferson County, IA",0.9019
+cty27069,"Kittson County, MN",0.9019
+cty18081,"Johnson County, IN",0.9018
+cty19097,"Jackson County, IA",0.9018
+cty19117,"Lucas County, IA",0.9018
+cty48075,"Childress County, TX",0.9018
+cty48085,"Collin County, TX",0.9018
+cty54105,"Wirt County, WV",0.9018
+cty19025,"Calhoun County, IA",0.9015
+cty49021,"Iron County, UT",0.9014
+cty49049,"Utah County, UT",0.9014
+cty50007,"Chittenden County, VT",0.9014
+cty19131,"Mitchell County, IA",0.9012
+cty17103,"Lee County, IL",0.9011
+cty19181,"Warren County, IA",0.9011
+cty17099,"LaSalle County, IL",0.9009
+cty16059,"Lemhi County, ID",0.9008
+cty17157,"Randolph County, IL",0.9006
+cty19161,"Sac County, IA",0.9006
+cty51115,"Mathews County, VA",0.9006
+cty20153,"Rawlins County, KS",0.9005
+cty08069,"Larimer County, CO",0.9004
+cty08005,"Arapahoe County, CO",0.9003
+cty30009,"Carbon County, MT",0.9002
+cty17179,"Tazewell County, IL",0.9001
+cty20109,"Logan County, KS",0.9001
+cty06027,"Inyo County, CA",0.9
+cty53055,"San Juan County, WA",0.9
+cty54079,"Putnam County, WV",0.9
+cty16007,"Bear Lake County, ID",0.8999
+cty46073,"Jerauld County, SD",0.8998
+cty19013,"Black Hawk County, IA",0.8997
+cty19047,"Crawford County, IA",0.8995
+cty54057,"Mineral County, WV",0.8995
+cty19113,"Linn County, IA",0.8994
+cty17167,"Sangamon County, IL",0.8992
+cty56001,"Albany County, WY",0.8992
+cty46089,"McPherson County, SD",0.8992
+cty06105,"Trinity County, CA",0.8991
+cty19051,"Davis County, IA",0.8991
+cty02016,"Aleutians West Census Area, AK",0.8991
+cty19171,"Tama County, IA",0.899
+cty19027,"Carroll County, IA",0.8989
+cty19109,"Kossuth County, IA",0.8989
+cty19183,"Washington County, IA",0.8988
+cty41021,"Gilliam County, OR",0.8988
+cty31015,"Boyd County, NE",0.8988
+cty17083,"Jersey County, IL",0.8987
+cty48435,"Sutton County, TX",0.8985
+cty19099,"Jasper County, IA",0.8984
+cty06079,"San Luis Obispo County, CA",0.8983
+cty55059,"Kenosha County, WI",0.8983
+cty20195,"Trego County, KS",0.8983
+cty17117,"Macoupin County, IL",0.8982
+cty19105,"Jones County, IA",0.8982
+cty31175,"Valley County, NE",0.898
+cty16029,"Caribou County, ID",0.8979
+cty55043,"Grant County, WI",0.8979
+cty31073,"Gosper County, NE",0.8978
+cty17135,"Montgomery County, IL",0.8976
+cty19001,"Adair County, IA",0.8976
+cty06057,"Nevada County, CA",0.8974
+cty27031,"Cook County, MN",0.8974
+cty20003,"Anderson County, KS",0.8973
+cty08061,"Kiowa County, CO",0.8973
+cty54049,"Marion County, WV",0.8972
+cty47137,"Pickett County, TN",0.8972
+cty51057,"Essex County, VA",0.8972
+cty30059,"Meagher County, MT",0.8972
+cty06011,"Colusa County, CA",0.8971
+cty48491,"Williamson County, TX",0.8971
+cty18033,"DeKalb County, IN",0.897
+cty35011,"De Baca County, NM",0.897
+cty54093,"Tucker County, WV",0.8969
+cty05129,"Searcy County, AR",0.8968
+cty08014,"Broomfield County, CO",0.8968
+cty17123,"Marshall County, IL",0.8968
+cty55009,"Brown County, WI",0.8968
+cty38019,"Cavalier County, ND",0.8968
+cty30045,"Judith Basin County, MT",0.8967
+cty13219,"Oconee County, GA",0.8965
+cty17141,"Ogle County, IL",0.8962
+cty18157,"Tippecanoe County, IN",0.8962
+cty06035,"Lassen County, CA",0.8961
+cty05053,"Grant County, AR",0.896
+cty06085,"Santa Clara County, CA",0.896
+cty19151,"Pocahontas County, IA",0.8959
+cty16043,"Fremont County, ID",0.8958
+cty19129,"Mills County, IA",0.8957
+cty55123,"Vernon County, WI",0.8957
+cty19063,"Emmet County, IA",0.8956
+cty48447,"Throckmorton County, TX",0.8955
+cty19045,"Clinton County, IA",0.8953
+cty19033,"Cerro Gordo County, IA",0.8952
+cty48205,"Hartley County, TX",0.8951
+cty17077,"Jackson County, IL",0.8948
+cty02195,"Petersburg Borough, AK",0.8948
+cty19123,"Mahaska County, IA",0.8947
+cty54005,"Boone County, WV",0.8947
+cty16081,"Teton County, ID",0.8947
+cty18069,"Huntington County, IN",0.8946
+cty48221,"Hood County, TX",0.8946
+cty16005,"Bannock County, ID",0.8945
+cty19011,"Benton County, IA",0.8945
+cty19141,"O'Brien County, IA",0.8945
+cty08013,"Boulder County, CO",0.8944
+cty55039,"Fond du Lac County, WI",0.8944
+cty17013,"Calhoun County, IL",0.8944
+cty51683,"Manassas city, VA",0.8942
+cty54061,"Monongalia County, WV",0.8942
+cty16001,"Ada County, ID",0.8941
+cty19127,"Marshall County, IA",0.8941
+cty48149,"Fayette County, TX",0.8941
+cty55069,"Lincoln County, WI",0.8941
+cty17131,"Mercer County, IL",0.8937
+cty50023,"Washington County, VT",0.8937
+cty54055,"Mercer County, WV",0.8937
+cty55117,"Sheboygan County, WI",0.8937
+cty38051,"McIntosh County, ND",0.8937
+cty53065,"Stevens County, WA",0.8935
+cty16023,"Butte County, ID",0.8935
+cty17075,"Iroquois County, IL",0.8933
+cty55017,"Chippewa County, WI",0.8933
+cty17107,"Logan County, IL",0.8932
+cty13067,"Cobb County, GA",0.893
+cty20101,"Lane County, KS",0.893
+cty19103,"Johnson County, IA",0.8929
+cty48031,"Blanco County, TX",0.8929
+cty54035,"Jackson County, WV",0.8928
+cty53037,"Kittitas County, WA",0.8927
+cty08119,"Teller County, CO",0.8926
+cty53033,"King County, WA",0.8925
+cty08059,"Jefferson County, CO",0.8923
+cty19137,"Montgomery County, IA",0.8923
+cty50001,"Addison County, VT",0.8923
+cty46021,"Campbell County, SD",0.8919
+cty17021,"Christian County, IL",0.8918
+cty15007,"Kauai County, HI",0.8915
+cty31143,"Polk County, NE",0.8915
+cty05137,"Stone County, AR",0.8914
+cty06089,"Shasta County, CA",0.8914
+cty17149,"Pike County, IL",0.8914
+cty38083,"Sheridan County, ND",0.8913
+cty30095,"Stillwater County, MT",0.8913
+cty18183,"Whitley County, IN",0.8912
+cty19179,"Wapello County, IA",0.8911
+cty19003,"Adams County, IA",0.891
+cty17185,"Wabash County, IL",0.8908
+cty19177,"Van Buren County, IA",0.8907
+cty49003,"Box Elder County, UT",0.8907
+cty55029,"Door County, WI",0.8907
+cty29103,"Knox County, MO",0.8907
+cty08037,"Eagle County, CO",0.8906
+cty55065,"Lafayette County, WI",0.8905
+cty55037,"Florence County, WI",0.8905
+cty17177,"Stephenson County, IL",0.8904
+cty55061,"Kewaunee County, WI",0.8904
+cty17199,"Williamson County, IL",0.8902
+cty19073,"Greene County, IA",0.8901
+cty05023,"Cleburne County, AR",0.89
+cty56021,"Laramie County, WY",0.89
+cty56037,"Sweetwater County, WY",0.8899
+cty13145,"Harris County, GA",0.8898
+cty56005,"Campbell County, WY",0.8898
+cty20207,"Woodson County, KS",0.8896
+cty55139,"Winnebago County, WI",0.8894
+cty32017,"Lincoln County, NV",0.8892
+cty17037,"DeKalb County, IL",0.889
+cty55137,"Waushara County, WI",0.8889
+cty55067,"Langlade County, WI",0.8886
+cty06045,"Mendocino County, CA",0.8884
+cty53063,"Spokane County, WA",0.8882
+cty06113,"Yolo County, CA",0.8881
+cty19031,"Cedar County, IA",0.888
+cty55031,"Douglas County, WI",0.8879
+cty55107,"Rusk County, WI",0.8879
+cty06097,"Sonoma County, CA",0.8877
+cty19175,"Union County, IA",0.8876
+cty13135,"Gwinnett County, GA",0.8875
+cty17029,"Coles County, IL",0.8874
+cty55021,"Columbia County, WI",0.8874
+cty06095,"Solano County, CA",0.8873
+cty19059,"Dickinson County, IA",0.8873
+cty49057,"Weber County, UT",0.8873
+cty50015,"Lamoille County, VT",0.8873
+cty54071,"Pendleton County, WV",0.8873
+cty54077,"Preston County, WV",0.8871
+cty38057,"Mercer County, ND",0.8871
+cty08051,"Gunnison County, CO",0.887
+cty06059,"Orange County, CA",0.8869
+cty51810,"Virginia Beach city, VA",0.8869
+cty46053,"Gregory County, SD",0.8869
+cty16011,"Bingham County, ID",0.8868
+cty17091,"Kankakee County, IL",0.8868
+cty53075,"Whitman County, WA",0.8867
+cty56009,"Converse County, WY",0.8867
+cty38045,"LaMoure County, ND",0.8867
+cty08045,"Garfield County, CO",0.8866
+cty48307,"McCulloch County, TX",0.8865
+cty55071,"Manitowoc County, WI",0.8865
+cty55125,"Vilas County, WI",0.8864
+cty08039,"Elbert County, CO",0.8863
+cty48099,"Coryell County, TX",0.8863
+cty48121,"Denton County, TX",0.8862
+cty06023,"Humboldt County, CA",0.8861
+cty55027,"Dodge County, WI",0.8861
+cty06007,"Butte County, CA",0.886
+cty17143,"Peoria County, IL",0.8859
+cty06111,"Ventura County, CA",0.8857
+cty18011,"Boone County, IN",0.8857
+cty48223,"Hopkins County, TX",0.8857
+cty08073,"Lincoln County, CO",0.8857
+cty56023,"Lincoln County, WY",0.8856
+cty19067,"Floyd County, IA",0.8855
+cty53039,"Klickitat County, WA",0.8855
+cty54039,"Kanawha County, WV",0.8855
+cty20053,"Ellsworth County, KS",0.8855
+cty05141,"Van Buren County, AR",0.8854
+cty18137,"Ripley County, IN",0.8854
+cty19085,"Harrison County, IA",0.8854
+cty56045,"Weston County, WY",0.8854
+cty05043,"Drew County, AR",0.8853
+cty50019,"Orleans County, VT",0.8853
+cty08097,"Pitkin County, CO",0.8852
+cty06001,"Alameda County, CA",0.8851
+cty12109,"St. Johns County, FL",0.8851
+cty20001,"Allen County, KS",0.8851
+cty48239,"Jackson County, TX",0.8851
+cty31017,"Brown County, NE",0.885
+cty46025,"Clark County, SD",0.8849
+cty48199,"Hardin County, TX",0.8846
+cty19081,"Hancock County, IA",0.8845
+cty08095,"Phillips County, CO",0.8845
+cty05047,"Franklin County, AR",0.8843
+cty17057,"Fulton County, IL",0.8843
+cty30071,"Phillips County, MT",0.8843
+cty06067,"Sacramento County, CA",0.8842
+cty19093,"Ida County, IA",0.8842
+cty19145,"Page County, IA",0.8841
+cty46057,"Hamlin County, SD",0.8838
+cty31065,"Furnas County, NE",0.8838
+cty18073,"Jasper County, IN",0.8837
+cty48077,"Clay County, TX",0.8837
+cty18007,"Benton County, IN",0.8836
+cty18165,"Vermillion County, IN",0.8835
+cty08003,"Alamosa County, CO",0.8834
+cty55005,"Barron County, WI",0.8834
+cty17087,"Johnson County, IL",0.8832
+cty48295,"Lipscomb County, TX",0.8832
+cty54015,"Clay County, WV",0.8831
+cty55129,"Washburn County, WI",0.8831
+cty08089,"Otero County, CO",0.883
+cty17173,"Shelby County, IL",0.883
+cty53067,"Thurston County, WA",0.883
+cty48197,"Hardeman County, TX",0.8829
+cty49019,"Grand County, UT",0.8829
+cty51790,"Staunton city, VA",0.8829
+cty17059,"Gallatin County, IL",0.8829
+cty38091,"Steele County, ND",0.8828
+cty05125,"Saline County, AR",0.8826
+cty17195,"Whiteside County, IL",0.8826
+cty18181,"White County, IN",0.8825
+cty06109,"Tuolumne County, CA",0.8824
+cty17039,"De Witt County, IL",0.8824
+cty18047,"Franklin County, IN",0.8824
+cty40007,"Beaver County, OK",0.8824
+cty53005,"Benton County, WA",0.8823
+cty54107,"Wood County, WV",0.8823
+cty17137,"Morgan County, IL",0.8821
+cty48233,"Hutchinson County, TX",0.8821
+cty49007,"Carbon County, UT",0.8821
+cty16077,"Power County, ID",0.882
+cty06009,"Calaveras County, CA",0.8819
+cty48171,"Gillespie County, TX",0.8819
+cty05099,"Nevada County, AR",0.8816
+cty17047,"Edwards County, IL",0.8816
+cty48357,"Ochiltree County, TX",0.8816
+cty55081,"Monroe County, WI",0.8815
+cty06093,"Siskiyou County, CA",0.8814
+cty17127,"Massac County, IL",0.8814
+cty29197,"Schuyler County, MO",0.8813
+cty17163,"St. Clair County, IL",0.8811
+cty48157,"Fort Bend County, TX",0.8811
+cty06033,"Lake County, CA",0.8809
+cty18131,"Pulaski County, IN",0.8809
+cty54023,"Grant County, WV",0.8808
+cty12087,"Monroe County, FL",0.8807
+cty12067,"Lafayette County, FL",0.8806
+cty16055,"Kootenai County, ID",0.8806
+cty49035,"Salt Lake County, UT",0.8806
+cty18029,"Dearborn County, IN",0.8805
+cty54011,"Cabell County, WV",0.8805
+cty08113,"San Miguel County, CO",0.8805
+cty49055,"Wayne County, UT",0.8805
+cty48477,"Washington County, TX",0.8804
+cty17095,"Knox County, IL",0.8803
+cty49033,"Rich County, UT",0.8803
+cty13177,"Lee County, GA",0.8802
+cty48119,"Delta County, TX",0.8802
+cty55135,"Waupaca County, WI",0.88
+cty17011,"Bureau County, IL",0.8799
+cty08075,"Logan County, CO",0.8797
+cty38067,"Pembina County, ND",0.8797
+cty18043,"Floyd County, IN",0.8796
+cty54019,"Fayette County, WV",0.8796
+cty17115,"Macon County, IL",0.8795
+cty50027,"Windsor County, VT",0.8795
+cty17031,"Cook County, IL",0.8793
+cty09015,"Windham County, CT",0.8792
+cty48411,"San Saba County, TX",0.8792
+cty05085,"Lonoke County, AR",0.8789
+cty51775,"Salem city, VA",0.8789
+cty55127,"Walworth County, WI",0.8789
+cty06015,"Del Norte County, CA",0.8787
+cty19107,"Keokuk County, IA",0.8787
+cty54103,"Wetzel County, WV",0.8787
+cty56013,"Fremont County, WY",0.8787
+cty54073,"Pleasants County, WV",0.8785
+cty05059,"Hot Spring County, AR",0.8784
+cty08041,"El Paso County, CO",0.8782
+cty12117,"Seminole County, FL",0.8782
+cty17161,"Rock Island County, IL",0.8781
+cty12035,"Flagler County, FL",0.878
+cty56017,"Hot Springs County, WY",0.878
+cty05031,"Craighead County, AR",0.8779
+cty06073,"San Diego County, CA",0.8779
+cty17089,"Kane County, IL",0.8779
+cty18109,"Morgan County, IN",0.8778
+cty10003,"New Castle County, DE",0.8776
+cty21039,"Carlisle County, KY",0.8775
+cty19069,"Franklin County, IA",0.8773
+cty19115,"Louisa County, IA",0.8773
+cty56025,"Natrona County, WY",0.8773
+cty38087,"Slope County, ND",0.8773
+cty19189,"Winnebago County, IA",0.8771
+cty48179,"Gray County, TX",0.877
+cty55045,"Green County, WI",0.877
+cty05117,"Prairie County, AR",0.8769
+cty31063,"Frontier County, NE",0.8769
+cty48243,"Jeff Davis County, TX",0.8769
+cty12091,"Okaloosa County, FL",0.8768
+cty17081,"Jefferson County, IL",0.8768
+cty31083,"Harlan County, NE",0.8767
+cty46111,"Sanborn County, SD",0.8766
+cty54001,"Barbour County, WV",0.8765
+cty55075,"Marinette County, WI",0.8764
+cty12085,"Martin County, FL",0.8761
+cty19193,"Woodbury County, IA",0.876
+cty16017,"Bonner County, ID",0.8759
+cty48397,"Rockwall County, TX",0.8758
+cty16051,"Jefferson County, ID",0.8757
+cty54099,"Wayne County, WV",0.8757
+cty56039,"Teton County, WY",0.8757
+cty05025,"Cleveland County, AR",0.8756
+cty18013,"Brown County, IN",0.8756
+cty53049,"Pacific County, WA",0.8756
+cty30025,"Fallon County, MT",0.8755
+cty38013,"Burke County, ND",0.8755
+cty13073,"Columbia County, GA",0.8753
+cty31051,"Dixon County, NE",0.8753
+cty49053,"Washington County, UT",0.8751
+cty19053,"Decatur County, IA",0.875
+cty19071,"Fremont County, IA",0.8749
+cty05049,"Fulton County, AR",0.8746
+cty48023,"Baylor County, TX",0.8746
+cty18037,"Dubois County, IN",0.8745
+cty49039,"Sanpete County, UT",0.8745
+cty08067,"La Plata County, CO",0.8744
+cty18051,"Gibson County, IN",0.8744
+cty55095,"Polk County, WI",0.8743
+cty54075,"Pocahontas County, WV",0.8742
+cty17193,"White County, IL",0.8741
+cty54097,"Upshur County, WV",0.8741
+cty53061,"Snohomish County, WA",0.8739
+cty18005,"Bartholomew County, IN",0.8738
+cty19159,"Ringgold County, IA",0.8738
+cty25007,"Dukes County, MA",0.8736
+cty18065,"Henry County, IN",0.8735
+cty50005,"Caledonia County, VT",0.8735
+cty16015,"Boise County, ID",0.8735
+cty12059,"Holmes County, FL",0.8734
+cty17187,"Warren County, IL",0.8734
+cty53029,"Island County, WA",0.8734
+cty54003,"Berkeley County, WV",0.8734
+cty31133,"Pawnee County, NE",0.8734
+cty31165,"Sioux County, NE",0.8733
+cty48091,"Comal County, TX",0.8731
+cty48339,"Montgomery County, TX",0.8731
+cty08025,"Crowley County, CO",0.8731
+cty17055,"Franklin County, IL",0.873
+cty17045,"Edgar County, IL",0.8729
+cty20183,"Smith County, KS",0.8729
+cty53071,"Walla Walla County, WA",0.8726
+cty17121,"Marion County, IL",0.8723
+cty50021,"Rutland County, VT",0.8723
+cty05077,"Lee County, AR",0.8721
+cty16075,"Payette County, ID",0.8721
+cty49027,"Millard County, UT",0.8721
+cty53035,"Kitsap County, WA",0.8721
+cty38073,"Ransom County, ND",0.872
+cty05055,"Greene County, AR",0.8719
+cty17017,"Cass County, IL",0.8719
+cty17201,"Winnebago County, IL",0.8719
+cty18145,"Shelby County, IN",0.8715
+cty12001,"Alachua County, FL",0.8714
+cty20203,"Wichita County, KS",0.8714
+cty13057,"Cherokee County, GA",0.8713
+cty18017,"Cass County, IN",0.8713
+cty55111,"Sauk County, WI",0.8712
+cty54045,"Logan County, WV",0.8709
+cty08043,"Fremont County, CO",0.8707
+cty18031,"Decatur County, IN",0.8707
+cty12073,"Leon County, FL",0.8706
+cty56015,"Goshen County, WY",0.8706
+cty19173,"Taylor County, IA",0.8705
+cty05027,"Columbia County, AR",0.8703
+cty18003,"Allen County, IN",0.8703
+cty19007,"Appanoose County, IA",0.8702
+cty19147,"Palo Alto County, IA",0.8702
+cty30091,"Sheridan County, MT",0.8701
+cty31105,"Kimball County, NE",0.8701
+cty54017,"Doddridge County, WV",0.87
+cty55101,"Racine County, WI",0.87
+cty56033,"Sheridan County, WY",0.87
+cty08103,"Rio Blanco County, CO",0.87
+cty48211,"Hemphill County, TX",0.87
+cty18091,"LaPorte County, IN",0.8699
+cty18019,"Clark County, IN",0.8698
+cty54101,"Webster County, WV",0.8698
+cty06043,"Mariposa County, CA",0.8696
+cty54083,"Randolph County, WV",0.8695
+cty18075,"Jay County, IN",0.8692
+cty08027,"Custer County, CO",0.8691
+cty12129,"Wakulla County, FL",0.869
+cty18071,"Jackson County, IN",0.869
+cty46015,"Brule County, SD",0.8688
+cty55013,"Burnett County, WI",0.8687
+cty06083,"Santa Barbara County, CA",0.8686
+cty18105,"Monroe County, IN",0.8685
+cty48191,"Hall County, TX",0.8684
+cty16073,"Owyhee County, ID",0.8683
+cty38011,"Bowman County, ND",0.8683
+cty42053,"Forest County, PA",0.8683
+cty53009,"Clallam County, WA",0.8682
+cty16031,"Cassia County, ID",0.868
+cty54059,"Mingo County, WV",0.868
+cty05033,"Crawford County, AR",0.8678
+cty05131,"Sebastian County, AR",0.8677
+cty48497,"Wise County, TX",0.8677
+cty54065,"Morgan County, WV",0.8677
+cty06049,"Modoc County, CA",0.8674
+cty48485,"Wichita County, TX",0.8674
+cty55078,"Menominee County, WI",0.8673
+cty13053,"Chattahoochee County, GA",0.8672
+cty13247,"Rockdale County, GA",0.8672
+cty55083,"Oconto County, WI",0.8672
+cty46003,"Aurora County, SD",0.8672
+cty55001,"Adams County, WI",0.8669
+cty19139,"Muscatine County, IA",0.8668
+cty08047,"Gilpin County, CO",0.8667
+cty54029,"Hancock County, WV",0.8666
+cty56029,"Park County, WY",0.8666
+cty27077,"Lake of the Woods County, MN",0.8666
+cty13153,"Houston County, GA",0.8665
+cty18121,"Parke County, IN",0.8662
+cty08125,"Yuma County, CO",0.8661
+cty18107,"Montgomery County, IN",0.8661
+cty05103,"Ouachita County, AR",0.8658
+cty53073,"Whatcom County, WA",0.8658
+cty55077,"Marquette County, WI",0.8657
+cty12045,"Gulf County, FL",0.8655
+cty18089,"Lake County, IN",0.8653
+cty05109,"Pike County, AR",0.8652
+cty38063,"Nelson County, ND",0.8652
+cty17183,"Vermilion County, IL",0.8651
+cty30073,"Pondera County, MT",0.8648
+cty55057,"Juneau County, WI",0.8646
+cty16049,"Idaho County, ID",0.8645
+cty18115,"Ohio County, IN",0.8645
+cty13029,"Bryan County, GA",0.8644
+cty38001,"Adams County, ND",0.8643
+cty06099,"Stanislaus County, CA",0.864
+cty17165,"Saline County, IL",0.864
+cty08071,"Las Animas County, CO",0.8639
+cty08085,"Montrose County, CO",0.8639
+cty08021,"Conejos County, CO",0.8638
+cty05063,"Independence County, AR",0.8637
+cty18001,"Adams County, IN",0.8637
+cty19035,"Cherokee County, IA",0.8635
+cty48421,"Sherman County, TX",0.8635
+cty51091,"Highland County, VA",0.8634
+cty38053,"McKenzie County, ND",0.8632
+cty46045,"Edmunds County, SD",0.8632
+cty19155,"Pottawattamie County, IA",0.8631
+cty05051,"Garland County, AR",0.863
+cty05121,"Randolph County, AR",0.863
+cty06103,"Tehama County, CA",0.863
+cty51690,"Martinsville city, VA",0.863
+cty06087,"Santa Cruz County, CA",0.8629
+cty48147,"Fannin County, TX",0.8629
+cty17007,"Boone County, IL",0.8628
+cty48471,"Walker County, TX",0.8628
+cty05081,"Little River County, AR",0.8627
+cty31049,"Deuel County, NE",0.8627
+cty18055,"Greene County, IN",0.8623
+cty56041,"Uinta County, WY",0.8623
+cty46107,"Potter County, SD",0.8622
+cty48277,"Lamar County, TX",0.8619
+cty53041,"Lewis County, WA",0.8619
+cty12115,"Sarasota County, FL",0.8618
+cty48333,"Mills County, TX",0.8618
+cty13117,"Forsyth County, GA",0.8617
+cty05013,"Calhoun County, AR",0.8616
+cty16085,"Valley County, ID",0.8616
+cty18015,"Carroll County, IN",0.8615
+cty06055,"Napa County, CA",0.8614
+cty06069,"San Benito County, CA",0.8614
+cty18035,"Delaware County, IN",0.8614
+cty37177,"Tyrrell County, NC",0.8614
+cty48209,"Hays County, TX",0.8613
+cty40129,"Roger Mills County, OK",0.8611
+cty20165,"Rush County, KS",0.861
+cty05039,"Dallas County, AR",0.8609
+cty35033,"Mora County, NM",0.8609
+cty48225,"Houston County, TX",0.8606
+cty08015,"Chaffee County, CO",0.8605
+cty18125,"Pike County, IN",0.8605
+cty18179,"Wells County, IN",0.8605
+cty08017,"Cheyenne County, CO",0.8605
+cty08081,"Moffat County, CO",0.8604
+cty48367,"Parker County, TX",0.8604
+cty02013,"Aleutians East Borough, AK",0.8604
+cty48473,"Waller County, TX",0.8603
+cty18163,"Vanderburgh County, IN",0.8601
+cty05083,"Logan County, AR",0.86
+cty12021,"Collier County, FL",0.86
+cty05089,"Marion County, AR",0.8599
+cty13201,"Miller County, GA",0.8598
+cty17101,"Lawrence County, IL",0.8597
+cty51820,"Waynesboro city, VA",0.8597
+cty53015,"Cowlitz County, WA",0.8597
+cty31029,"Chase County, NE",0.8596
+cty18061,"Harrison County, IN",0.8594
+cty53011,"Clark County, WA",0.8593
+cty05145,"White County, AR",0.8592
+cty31077,"Greeley County, NE",0.8591
+cty18053,"Grant County, IN",0.8589
+cty18141,"St. Joseph County, IN",0.8589
+cty48379,"Rains County, TX",0.8587
+cty54013,"Calhoun County, WV",0.8587
+cty49045,"Tooele County, UT",0.8586
+cty54025,"Greenbrier County, WV",0.8586
+cty12017,"Citrus County, FL",0.8585
+cty48475,"Ward County, TX",0.8585
+cty30005,"Blaine County, MT",0.8585
+cty46061,"Hanson County, SD",0.8585
+cty16045,"Gem County, ID",0.8584
+cty55053,"Jackson County, WI",0.8583
+cty30057,"Madison County, MT",0.8583
+cty06071,"San Bernardino County, CA",0.8582
+cty18077,"Jefferson County, IN",0.8581
+cty49023,"Juab County, UT",0.858
+cty02198,"Prince of Wales-Hyder Census Area, AK",0.8579
+cty16067,"Minidoka County, ID",0.8578
+cty48425,"Somervell County, TX",0.8578
+cty18009,"Blackford County, IN",0.8577
+cty18151,"Steuben County, IN",0.8576
+cty18135,"Randolph County, IN",0.8575
+cty05119,"Pulaski County, AR",0.8574
+cty18023,"Clinton County, IN",0.8574
+cty48281,"Lampasas County, TX",0.857
+cty53025,"Grant County, WA",0.857
+cty17071,"Henderson County, IL",0.857
+cty05127,"Scott County, AR",0.8569
+cty08077,"Mesa County, CO",0.8569
+cty18103,"Miami County, IN",0.8568
+cty46059,"Hand County, SD",0.8568
+cty05065,"Izard County, AR",0.8565
+cty08029,"Delta County, CO",0.8564
+cty48195,"Hansford County, TX",0.8563
+cty18099,"Marshall County, IN",0.8562
+cty18133,"Putnam County, IN",0.8562
+cty54021,"Gilmer County, WV",0.8561
+cty05067,"Jackson County, AR",0.8559
+cty17125,"Mason County, IL",0.8559
+cty48089,"Colorado County, TX",0.8559
+cty51700,"Newport News city, VA",0.8559
+cty12011,"Broward County, FL",0.8558
+cty05115,"Pope County, AR",0.8557
+cty17181,"Union County, IL",0.8557
+cty48107,"Crosby County, TX",0.8557
+cty51678,"Lexington city, VA",0.8557
+cty40059,"Harper County, OK",0.8557
+cty55105,"Rock County, WI",0.8556
+cty06077,"San Joaquin County, CA",0.8555
+cty31087,"Hitchcock County, NE",0.8554
+cty18093,"Lawrence County, IN",0.8553
+cty48187,"Guadalupe County, TX",0.8553
+cty06047,"Merced County, CA",0.8552
+cty06065,"Riverside County, CA",0.855
+cty31135,"Perkins County, NE",0.855
+cty53017,"Douglas County, WA",0.8549
+cty17003,"Alexander County, IL",0.8547
+cty18045,"Fountain County, IN",0.8547
+cty54091,"Taylor County, WV",0.8547
+cty18079,"Jennings County, IN",0.8546
+cty48139,"Ellis County, TX",0.8545
+cty48505,"Zapata County, TX",0.8545
+cty54031,"Hardy County, WV",0.8545
+cty06021,"Glenn County, CA",0.8543
+cty54095,"Tyler County, WV",0.8541
+cty32027,"Pershing County, NV",0.8541
+cty53053,"Pierce County, WA",0.8537
+cty55103,"Richland County, WI",0.8537
+cty51037,"Charlotte County, VA",0.8537
+cty17051,"Fayette County, IL",0.8536
+cty49037,"San Juan County, UT",0.8535
+cty18021,"Clay County, IN",0.8534
+cty18083,"Knox County, IN",0.8533
+cty48159,"Franklin County, TX",0.8533
+cty18119,"Owen County, IN",0.8532
+cty31181,"Webster County, NE",0.8532
+cty48469,"Victoria County, TX",0.8531
+cty29227,"Worth County, MO",0.8531
+cty18169,"Wabash County, IN",0.8528
+cty19133,"Monona County, IA",0.8524
+cty56043,"Washakie County, WY",0.8524
+cty18111,"Newton County, IN",0.8523
+cty13039,"Camden County, GA",0.8522
+cty48083,"Coleman County, TX",0.8522
+cty13179,"Liberty County, GA",0.8521
+cty53027,"Grays Harbor County, WA",0.8521
+cty16063,"Lincoln County, ID",0.8521
+cty55113,"Sawyer County, WI",0.8519
+cty53057,"Skagit County, WA",0.8518
+cty10005,"Sussex County, DE",0.8517
+cty19021,"Buena Vista County, IA",0.8516
+cty12041,"Gilchrist County, FL",0.8513
+cty06037,"Los Angeles County, CA",0.8512
+cty48503,"Young County, TX",0.851
+cty13251,"Screven County, GA",0.8509
+cty21189,"Owsley County, KY",0.8509
+cty38075,"Renville County, ND",0.8509
+cty18139,"Rush County, IN",0.8507
+cty55079,"Milwaukee County, WI",0.8506
+cty48289,"Leon County, TX",0.8505
+cty48361,"Orange County, TX",0.8504
+cty20019,"Chautauqua County, KS",0.8502
+cty12019,"Clay County, FL",0.8499
+cty48285,"Lavaca County, TX",0.8499
+cty48331,"Milam County, TX",0.8499
+cty40045,"Ellis County, OK",0.8499
+cty12063,"Jackson County, FL",0.8496
+cty53007,"Chelan County, WA",0.8496
+cty05069,"Jefferson County, AR",0.8495
+cty54047,"McDowell County, WV",0.8493
+cty46091,"Marshall County, SD",0.8493
+cty54053,"Mason County, WV",0.849
+cty55041,"Forest County, WI",0.849
+cty21105,"Hickman County, KY",0.849
+cty05113,"Polk County, AR",0.8488
+cty48293,"Limestone County, TX",0.8488
+cty48453,"Travis County, TX",0.8486
+cty12009,"Brevard County, FL",0.8485
+cty06101,"Sutter County, CA",0.8484
+cty36041,"Hamilton County, NY",0.8484
+cty05101,"Newton County, AR",0.8483
+cty18049,"Fulton County, IN",0.8482
+cty18123,"Perry County, IN",0.8482
+cty48167,"Galveston County, TX",0.8482
+cty26003,"Alger County, MI",0.8482
+cty13169,"Jones County, GA",0.848
+cty48439,"Tarrant County, TX",0.848
+cty48501,"Yoakum County, TX",0.848
+cty08115,"Sedgwick County, CO",0.848
+cty12013,"Calhoun County, FL",0.8479
+cty12053,"Hernando County, FL",0.8479
+cty08049,"Grand County, CO",0.8479
+cty48313,"Madison County, TX",0.8477
+cty48423,"Smith County, TX",0.8477
+cty18117,"Orange County, IN",0.8476
+cty12113,"Santa Rosa County, FL",0.8475
+cty48325,"Medina County, TX",0.8473
+cty13279,"Toombs County, GA",0.8472
+cty38039,"Griggs County, ND",0.8471
+cty48081,"Coke County, TX",0.8471
+cty54027,"Hampshire County, WV",0.847
+cty12103,"Pinellas County, FL",0.8469
+cty48371,"Pecos County, TX",0.8469
+cty13137,"Habersham County, GA",0.8467
+cty48193,"Hamilton County, TX",0.8466
+cty12125,"Union County, FL",0.8465
+cty50013,"Grand Isle County, VT",0.8465
+cty48303,"Lubbock County, TX",0.8464
+cty48087,"Collingsworth County, TX",0.8463
+cty13315,"Wilcox County, GA",0.8462
+cty50017,"Orange County, VT",0.8462
+cty18067,"Howard County, IN",0.8461
+cty18153,"Sullivan County, IN",0.8461
+cty13031,"Bulloch County, GA",0.846
+cty16083,"Twin Falls County, ID",0.8456
+cty05135,"Sharp County, AR",0.8453
+cty46041,"Dewey County, SD",0.8453
+cty48299,"Llano County, TX",0.8452
+cty16037,"Custer County, ID",0.8452
+cty12071,"Lee County, FL",0.8451
+cty48297,"Live Oak County, TX",0.8451
+cty18167,"Vigo County, IN",0.845
+cty21165,"Menifee County, KY",0.845
+cty48365,"Panola County, TX",0.8449
+cty48383,"Reagan County, TX",0.8449
+cty48317,"Martin County, TX",0.8447
+cty48143,"Erath County, TX",0.8446
+cty05075,"Lawrence County, AR",0.8445
+cty05143,"Washington County, AR",0.8445
+cty13147,"Hart County, GA",0.8445
+cty48441,"Taylor County, TX",0.8445
+cty32015,"Lander County, NV",0.8445
+cty08083,"Montezuma County, CO",0.8443
+cty12089,"Nassau County, FL",0.8443
+cty49041,"Sevier County, UT",0.8443
+cty05029,"Conway County, AR",0.8442
+cty13103,"Effingham County, GA",0.8441
+cty48251,"Johnson County, TX",0.8441
+cty54087,"Roane County, WV",0.8441
+cty08011,"Bent County, CO",0.844
+cty46007,"Bennett County, SD",0.8438
+cty16021,"Boundary County, ID",0.8437
+cty17153,"Pulaski County, IL",0.8437
+cty38041,"Hettinger County, ND",0.8437
+cty48101,"Cottle County, TX",0.8437
+cty48415,"Scurry County, TX",0.8435
+cty48183,"Gregg County, TX",0.8434
+cty12127,"Volusia County, FL",0.8433
+cty48499,"Wood County, TX",0.8433
+cty17139,"Moultrie County, IL",0.8432
+cty16039,"Elmore County, ID",0.8431
+cty50025,"Windham County, VT",0.8431
+cty48203,"Harrison County, TX",0.8428
+cty16027,"Canyon County, ID",0.8426
+cty12057,"Hillsborough County, FL",0.8425
+cty12099,"Palm Beach County, FL",0.8425
+cty20007,"Barber County, KS",0.8425
+cty05091,"Miller County, AR",0.8423
+cty13159,"Jasper County, GA",0.8423
+cty40057,"Harmon County, OK",0.8422
+cty13097,"Douglas County, GA",0.8421
+cty16079,"Shoshone County, ID",0.842
+cty48241,"Jasper County, TX",0.8418
+cty48493,"Wilson County, TX",0.8418
+cty17151,"Pope County, IL",0.8418
+cty08121,"Washington County, CO",0.8416
+cty06029,"Kern County, CA",0.8415
+cty48483,"Wheeler County, TX",0.8413
+cty37073,"Gates County, NC",0.8413
+cty31163,"Sherman County, NE",0.8412
+cty13047,"Catoosa County, GA",0.8411
+cty48353,"Nolan County, TX",0.8411
+cty49015,"Emery County, UT",0.8411
+cty48181,"Grayson County, TX",0.8409
+cty48451,"Tom Green County, TX",0.8409
+cty49047,"Uintah County, UT",0.8408
+cty30061,"Mineral County, MT",0.8407
+cty13151,"Henry County, GA",0.8405
+cty16053,"Jerome County, ID",0.8405
+cty05139,"Union County, AR",0.8404
+cty48385,"Real County, TX",0.8403
+cty16035,"Clearwater County, ID",0.84
+cty54085,"Ritchie County, WV",0.84
+cty12033,"Escambia County, FL",0.8399
+cty48213,"Henderson County, TX",0.8392
+cty48265,"Kerr County, TX",0.8392
+cty48459,"Upshur County, TX",0.8388
+cty18095,"Madison County, IN",0.8383
+cty48457,"Tyler County, TX",0.8383
+cty12095,"Orange County, FL",0.8382
+cty13291,"Union County, GA",0.8382
+cty13121,"Fulton County, GA",0.838
+cty48219,"Hockley County, TX",0.838
+cty12005,"Bay County, FL",0.8379
+cty13289,"Twiggs County, GA",0.8377
+cty20129,"Morton County, KS",0.8377
+cty54037,"Jefferson County, WV",0.8374
+cty49013,"Duchesne County, UT",0.8373
+cty13207,"Monroe County, GA",0.8372
+cty08123,"Weld County, CO",0.837
+cty56007,"Carbon County, WY",0.837
+cty48207,"Haskell County, TX",0.8368
+cty30099,"Teton County, MT",0.8368
+cty48403,"Sabine County, TX",0.8367
+cty05111,"Poinsett County, AR",0.8366
+cty48141,"El Paso County, TX",0.8366
+cty13085,"Dawson County, GA",0.8364
+cty48161,"Freestone County, TX",0.8361
+cty05073,"Lafayette County, AR",0.8359
+cty12086,"Miami-Dade County, FL",0.8359
+cty13111,"Fannin County, GA",0.8359
+cty12015,"Charlotte County, FL",0.8357
+cty02070,"Dillingham Census Area, AK",0.8357
+cty53059,"Skamania County, WA",0.8355
+cty48253,"Jones County, TX",0.8354
+cty56003,"Big Horn County, WY",0.8351
+cty48275,"Knox County, TX",0.8351
+cty13209,"Montgomery County, GA",0.8349
+cty48335,"Mitchell County, TX",0.8346
+cty56031,"Platte County, WY",0.8346
+cty13089,"DeKalb County, GA",0.8345
+cty48097,"Cooke County, TX",0.8343
+cty18177,"Wayne County, IN",0.8342
+cty54043,"Lincoln County, WV",0.8341
+cty48495,"Winkler County, TX",0.834
+cty48347,"Nacogdoches County, TX",0.8337
+cty06115,"Yuba County, CA",0.8336
+cty53045,"Mason County, WA",0.8336
+cty18025,"Crawford County, IN",0.8335
+cty54089,"Summers County, WV",0.8335
+cty72127,"San Juan Municipio, PR",0.8335
+cty06107,"Tulare County, CA",0.8334
+cty55019,"Clark County, WI",0.8334
+cty12097,"Osceola County, FL",0.8333
+cty12101,"Pasco County, FL",0.8333
+cty17175,"Stark County, IL",0.8331
+cty12121,"Suwannee County, FL",0.833
+cty48401,"Rusk County, TX",0.8329
+cty05041,"Desha County, AR",0.8328
+cty18041,"Fayette County, IN",0.8326
+cty48481,"Wharton County, TX",0.8326
+cty48175,"Goliad County, TX",0.8326
+cty05149,"Yell County, AR",0.8323
+cty08087,"Morgan County, CO",0.8322
+cty12007,"Bradford County, FL",0.8322
+cty06019,"Fresno County, CA",0.8321
+cty13051,"Chatham County, GA",0.8321
+cty49025,"Kane County, UT",0.832
+cty08101,"Pueblo County, CO",0.8317
+cty20119,"Meade County, KS",0.8317
+cty48437,"Swisher County, TX",0.8314
+cty48487,"Wilbarger County, TX",0.8314
+cty38027,"Eddy County, ND",0.8314
+cty42113,"Sullivan County, PA",0.8312
+cty13109,"Evans County, GA",0.8307
+cty02180,"Nome Census Area, AK",0.8307
+cty20179,"Sheridan County, KS",0.8306
+cty18097,"Marion County, IN",0.8303
+cty18175,"Washington County, IN",0.8303
+cty50009,"Essex County, VT",0.8302
+cty48257,"Kaufman County, TX",0.8299
+cty20199,"Wallace County, KS",0.8299
+cty31103,"Keya Paha County, NE",0.8297
+cty20075,"Hamilton County, KS",0.8296
+cty48395,"Robertson County, TX",0.8293
+cty38103,"Wells County, ND",0.8293
+cty48231,"Hunt County, TX",0.8289
+cty48305,"Lynn County, TX",0.8289
+cty05095,"Monroe County, AR",0.8288
+cty48189,"Hale County, TX",0.8288
+cty13285,"Troup County, GA",0.8286
+cty05097,"Montgomery County, AR",0.8285
+cty48245,"Jefferson County, TX",0.8285
+cty31123,"Morrill County, NE",0.8285
+cty48169,"Garza County, TX",0.8278
+cty48273,"Kleberg County, TX",0.8278
+cty53047,"Okanogan County, WA",0.8277
+cty30015,"Chouteau County, MT",0.8277
+cty48337,"Montague County, TX",0.8276
+cty48145,"Falls County, TX",0.8274
+cty48073,"Cherokee County, TX",0.8272
+cty13223,"Paulding County, GA",0.8271
+cty13293,"Upson County, GA",0.827
+cty53003,"Asotin County, WA",0.827
+cty48309,"McLennan County, TX",0.8269
+cty02290,"Yukon-Koyukuk Census Area, AK",0.8269
+cty48315,"Marion County, TX",0.8267
+cty48399,"Runnels County, TX",0.8266
+cty05105,"Perry County, AR",0.8265
+cty54063,"Monroe County, WV",0.8265
+cty48329,"Midland County, TX",0.8259
+cty05087,"Madison County, AR",0.8257
+cty13019,"Berrien County, GA",0.8257
+cty46077,"Kingsbury County, SD",0.8256
+cty08105,"Rio Grande County, CO",0.8255
+cty13175,"Laurens County, GA",0.8253
+cty20097,"Kiowa County, KS",0.8252
+cty40003,"Alfalfa County, OK",0.8252
+cty48227,"Howard County, TX",0.8251
+cty13091,"Dodge County, GA",0.825
+cty12061,"Indian River County, FL",0.8249
+cty48387,"Red River County, TX",0.8249
+cty05057,"Hempstead County, AR",0.8247
+cty05107,"Phillips County, AR",0.8247
+cty16061,"Lewis County, ID",0.8245
+cty48429,"Stephens County, TX",0.8242
+cty48341,"Moore County, TX",0.8241
+cty22107,"Tensas Parish, LA",0.8241
+cty13101,"Echols County, GA",0.8241
+cty48151,"Fisher County, TX",0.8238
+cty47037,"Davidson County, TN",0.8237
+cty48291,"Liberty County, TX",0.8237
+cty48093,"Comanche County, TX",0.8233
+cty06031,"Kings County, CA",0.8232
+cty13161,"Jeff Davis County, GA",0.8232
+cty48115,"Dawson County, TX",0.8232
+cty51840,"Winchester city, VA",0.8232
+cty48255,"Karnes County, TX",0.8231
+cty08001,"Adams County, CO",0.8229
+cty12083,"Marion County, FL",0.8228
+cty16003,"Adams County, ID",0.8227
+cty48123,"DeWitt County, TX",0.8224
+cty18085,"Kosciusko County, IN",0.822
+cty48201,"Harris County, TX",0.8217
+cty13317,"Wilkes County, GA",0.8212
+cty40043,"Dewey County, OK",0.8212
+cty06025,"Imperial County, CA",0.821
+cty48103,"Crane County, TX",0.821
+cty08019,"Clear Creek County, CO",0.8208
+cty12043,"Glades County, FL",0.8207
+cty13215,"Muscogee County, GA",0.8207
+cty08099,"Prowers County, CO",0.8201
+cty16009,"Benewah County, ID",0.82
+cty51800,"Suffolk city, VA",0.8198
+cty48287,"Lee County, TX",0.8195
+cty48113,"Dallas County, TX",0.8194
+cty38065,"Oliver County, ND",0.8194
+cty48117,"Deaf Smith County, TX",0.8191
+cty46119,"Sully County, SD",0.8191
+cty13059,"Clarke County, GA",0.819
+cty48445,"Terry County, TX",0.8185
+cty48373,"Polk County, TX",0.8183
+cty48405,"San Augustine County, TX",0.8183
+cty17041,"Douglas County, IL",0.8182
+cty13005,"Bacon County, GA",0.8181
+cty20009,"Barton County, KS",0.8181
+cty48247,"Jim Hogg County, TX",0.818
+cty48045,"Briscoe County, TX",0.818
+cty06039,"Madera County, CA",0.8179
+cty12031,"Duval County, FL",0.8178
+cty13069,"Coffee County, GA",0.8176
+cty11001,"District of Columbia, DC",0.8175
+cty12069,"Lake County, FL",0.8172
+cty29129,"Mercer County, MO",0.817
+cty53077,"Yakima County, WA",0.8168
+cty13257,"Stephens County, GA",0.8166
+cty53001,"Adams County, WA",0.8166
+cty18171,"Warren County, IN",0.8165
+cty06053,"Monterey County, CA",0.8162
+cty13105,"Elbert County, GA",0.8162
+cty05093,"Mississippi County, AR",0.8161
+cty13115,"Floyd County, GA",0.8161
+cty48349,"Navarro County, TX",0.8158
+cty37095,"Hyde County, NC",0.8157
+cty48409,"San Patricio County, TX",0.8156
+cty08007,"Archuleta County, CO",0.8154
+cty47007,"Bledsoe County, TN",0.8152
+cty51740,"Portsmouth city, VA",0.8152
+cty08055,"Huerfano County, CO",0.8149
+cty12055,"Highlands County, FL",0.8148
+cty12107,"Putnam County, FL",0.8148
+cty13077,"Coweta County, GA",0.8147
+cty48321,"Matagorda County, TX",0.8146
+cty13275,"Thomas County, GA",0.8144
+cty48185,"Grimes County, TX",0.8144
+cty13261,"Sumter County, GA",0.8141
+cty05133,"Sevier County, AR",0.8137
+cty05037,"Cross County, AR",0.8136
+cty48011,"Armstrong County, TX",0.8135
+cty10001,"Kent County, DE",0.8129
+cty18149,"Starke County, IN",0.8126
+cty05061,"Howard County, AR",0.8125
+cty46105,"Perkins County, SD",0.8124
+cty13049,"Charlton County, GA",0.8122
+cty13129,"Gordon County, GA",0.8122
+cty18101,"Martin County, IN",0.8121
+cty51770,"Roanoke city, VA",0.8121
+cty12081,"Manatee County, FL",0.812
+cty56019,"Johnson County, WY",0.8119
+cty48467,"Van Zandt County, TX",0.8118
+cty13087,"Decatur County, GA",0.8116
+cty13217,"Newton County, GA",0.8115
+cty13231,"Pike County, GA",0.8103
+cty05071,"Johnson County, AR",0.8098
+cty12111,"St. Lucie County, FL",0.8094
+cty13267,"Tattnall County, GA",0.8094
+cty08109,"Saguache County, CO",0.8094
+cty48355,"Nueces County, TX",0.8081
+cty48135,"Ector County, TX",0.8079
+cty51710,"Norfolk city, VA",0.8078
+cty12133,"Washington County, FL",0.8077
+cty13033,"Burke County, GA",0.8075
+cty13311,"White County, GA",0.8073
+cty12105,"Polk County, FL",0.8068
+cty13063,"Clayton County, GA",0.8068
+cty18113,"Noble County, IN",0.8062
+cty12123,"Taylor County, FL",0.8061
+cty13035,"Butts County, GA",0.8061
+cty13283,"Treutlen County, GA",0.8061
+cty12131,"Walton County, FL",0.8057
+cty38085,"Sioux County, ND",0.8052
+cty13127,"Glynn County, GA",0.8048
+cty48419,"Shelby County, TX",0.8047
+cty13165,"Jenkins County, GA",0.8044
+cty18143,"Scott County, IN",0.8042
+cty20187,"Stanton County, KS",0.8042
+cty13181,"Lincoln County, GA",0.8041
+cty13107,"Emanuel County, GA",0.804
+cty05123,"St. Francis County, AR",0.8037
+cty13139,"Hall County, GA",0.8037
+cty47015,"Cannon County, TN",0.8036
+cty05035,"Crittenden County, AR",0.8034
+cty13001,"Appling County, GA",0.8034
+cty12027,"DeSoto County, FL",0.803
+cty48343,"Morris County, TX",0.803
+cty48249,"Jim Wells County, TX",0.8024
+cty12047,"Hamilton County, FL",0.8023
+cty48449,"Titus County, TX",0.8021
+cty13297,"Walton County, GA",0.8018
+cty13017,"Ben Hill County, GA",0.8017
+cty48217,"Hill County, TX",0.8017
+cty48133,"Eastland County, TX",0.8015
+cty48131,"Duval County, TX",0.8008
+cty13295,"Walker County, GA",0.8007
+cty13171,"Lamar County, GA",0.8006
+cty12077,"Liberty County, FL",0.8005
+cty13163,"Jefferson County, GA",0.8003
+cty47013,"Campbell County, TN",0.8001
+cty48177,"Gonzales County, TX",0.7998
+cty05079,"Lincoln County, AR",0.7996
+cty08031,"Denver County, CO",0.7996
+cty02185,"North Slope Borough, AK",0.7989
+cty48455,"Trinity County, TX",0.7986
+cty20047,"Edwards County, KS",0.7984
+cty13095,"Dougherty County, GA",0.7981
+cty48127,"Dimmit County, TX",0.7981
+cty48279,"Lamb County, TX",0.7978
+cty13125,"Glascock County, GA",0.7975
+cty48237,"Jack County, TX",0.7972
+cty46031,"Corson County, SD",0.7971
+cty48173,"Glasscock County, TX",0.7963
+cty13185,"Lowndes County, GA",0.7962
+cty16087,"Washington County, ID",0.7961
+cty46117,"Stanley County, SD",0.796
+cty13083,"Dade County, GA",0.7954
+cty13055,"Chattooga County, GA",0.7953
+cty13075,"Cook County, GA",0.7952
+cty48461,"Upton County, TX",0.7951
+cty31007,"Banner County, NE",0.795
+cty18039,"Elkhart County, IN",0.7947
+cty31115,"Loup County, NE",0.7947
+cty13281,"Towns County, GA",0.7945
+cty13305,"Wayne County, GA",0.7942
+cty13021,"Bibb County, GA",0.7935
+cty13187,"Lumpkin County, GA",0.7932
+cty12079,"Madison County, FL",0.7924
+cty48407,"San Jacinto County, TX",0.792
+cty48369,"Parmer County, TX",0.7919
+cty38005,"Benson County, ND",0.7919
+cty13023,"Bleckley County, GA",0.7918
+cty12039,"Gadsden County, FL",0.7914
+cty48375,"Potter County, TX",0.7914
+cty13221,"Oglethorpe County, GA",0.7913
+cty18155,"Switzerland County, IN",0.7913
+cty48267,"Kimble County, TX",0.7912
+cty48111,"Dallam County, TX",0.7907
+cty53021,"Franklin County, WA",0.7907
+cty47005,"Benton County, TN",0.7906
+cty48125,"Dickens County, TX",0.7902
+cty13015,"Bartow County, GA",0.7901
+cty02261,"Valdez-Cordova Census Area, AK",0.7899
+cty13037,"Calhoun County, GA",0.7898
+cty13013,"Barrow County, GA",0.7896
+cty13093,"Dooly County, GA",0.7893
+cty46121,"Todd County, SD",0.7889
+cty13195,"Madison County, GA",0.7885
+cty13071,"Colquitt County, GA",0.7882
+cty12023,"Columbia County, FL",0.788
+cty40053,"Grant County, OK",0.7876
+cty48391,"Refugio County, TX",0.7872
+cty13321,"Worth County, GA",0.7871
+cty46137,"Ziebach County, SD",0.7866
+cty13011,"Banks County, GA",0.7865
+cty13081,"Crisp County, GA",0.7864
+cty13189,"McDuffie County, GA",0.7861
+cty48363,"Palo Pinto County, TX",0.7859
+cty13199,"Meriwether County, GA",0.785
+cty13299,"Ware County, GA",0.7843
+cty48215,"Hidalgo County, TX",0.7842
+cty02240,"Southeast Fairbanks Census Area, AK",0.7842
+cty30007,"Broadwater County, MT",0.784
+cty13277,"Tift County, GA",0.7838
+cty48479,"Webb County, TX",0.7837
+cty13227,"Pickens County, GA",0.7835
+cty51760,"Richmond city, VA",0.7833
+cty12029,"Dixie County, FL",0.783
+cty13211,"Morgan County, GA",0.783
+cty13313,"Whitfield County, GA",0.7826
+cty48079,"Cochran County, TX",0.7826
+cty13045,"Carroll County, GA",0.7824
+cty48465,"Val Verde County, TX",0.7822
+cty13229,"Pierce County, GA",0.7812
+cty13245,"Richmond County, GA",0.7809
+cty12075,"Levy County, FL",0.7796
+cty13007,"Baker County, GA",0.7787
+cty13157,"Jackson County, GA",0.7786
+cty53019,"Ferry County, WA",0.778
+cty05147,"Woodruff County, AR",0.776
+cty13119,"Franklin County, GA",0.7757
+cty13143,"Haralson County, GA",0.7754
+cty12049,"Hardee County, FL",0.7751
+cty13287,"Turner County, GA",0.7739
+cty48463,"Uvalde County, TX",0.7739
+cty13233,"Polk County, GA",0.773
+cty13319,"Wilkinson County, GA",0.7728
+cty12037,"Franklin County, FL",0.7727
+cty13191,"McIntosh County, GA",0.7726
+cty13307,"Webster County, GA",0.7723
+cty13237,"Putnam County, GA",0.7719
+cty08065,"Lake County, CO",0.7714
+cty13309,"Wheeler County, GA",0.771
+cty02158,"Kusilvak Census Area, AK",0.7709
+cty35019,"Guadalupe County, NM",0.7706
+cty13009,"Baldwin County, GA",0.7703
+cty48489,"Willacy County, TX",0.7703
+cty37075,"Graham County, NC",0.7694
+cty35003,"Catron County, NM",0.7682
+cty13173,"Lanier County, GA",0.7669
+cty47003,"Bedford County, TN",0.7667
+cty12003,"Baker County, FL",0.7664
+cty08091,"Ouray County, CO",0.7663
+cty02164,"Lake and Peninsula Borough, AK",0.7641
+cty48109,"Culberson County, TX",0.7639
+cty13099,"Early County, GA",0.763
+cty13155,"Irwin County, GA",0.7626
+cty12051,"Hendry County, FL",0.7625
+cty13167,"Johnson County, GA",0.7617
+cty47083,"Houston County, TN",0.7617
+cty13131,"Grady County, GA",0.7614
+cty21201,"Robertson County, KY",0.7614
+cty13123,"Gilmer County, GA",0.7612
+cty32029,"Storey County, NV",0.761
+cty12119,"Sumter County, FL",0.7597
+cty13225,"Peach County, GA",0.759
+cty48389,"Reeves County, TX",0.7583
+cty51730,"Petersburg city, VA",0.7583
+cty46075,"Jones County, SD",0.7583
+cty48319,"Mason County, TX",0.7582
+cty48165,"Gaines County, TX",0.7581
+cty46069,"Hyde County, SD",0.7581
+cty47121,"Meigs County, TN",0.7577
+cty20093,"Kearny County, KS",0.7552
+cty18027,"Daviess County, IN",0.7542
+cty48153,"Floyd County, TX",0.754
+cty48351,"Newton County, TX",0.7539
+cty13205,"Mitchell County, GA",0.7534
+cty51685,"Manassas Park city, VA",0.753
+cty13027,"Brooks County, GA",0.7509
+cty13253,"Seminole County, GA",0.7505
+cty13273,"Terrell County, GA",0.7505
+cty46085,"Lyman County, SD",0.7505
+cty13079,"Crawford County, GA",0.7501
+cty20025,"Clark County, KS",0.7482
+cty13269,"Taylor County, GA",0.7479
+cty13043,"Candler County, GA",0.7472
+cty13303,"Washington County, GA",0.745
+cty13241,"Rabun County, GA",0.7445
+cty30039,"Granite County, MT",0.744
+cty48323,"Maverick County, TX",0.7427
+cty13025,"Brantley County, GA",0.7419
+cty13141,"Hancock County, GA",0.7407
+cty13193,"Macon County, GA",0.7401
+cty13263,"Talbot County, GA",0.7388
+cty13255,"Spalding County, GA",0.7378
+cty48163,"Frio County, TX",0.7373
+cty13149,"Heard County, GA",0.7372
+cty13183,"Long County, GA",0.7347
+cty12065,"Jefferson County, FL",0.7342
+cty48507,"Zavala County, TX",0.7329
+cty13235,"Pulaski County, GA",0.7319
+cty13003,"Atkinson County, GA",0.7315
+cty13197,"Marion County, GA",0.7298
+cty13213,"Murray County, GA",0.7294
+cty28055,"Issaquena County, MS",0.7289
+cty48229,"Hudspeth County, TX",0.7285
+cty48427,"Starr County, TX",0.7272
+cty13271,"Telfair County, GA",0.7264
+cty12093,"Okeechobee County, FL",0.724
+cty46102,"Oglala Lakota County, SD",0.7236
+cty13065,"Clinch County, GA",0.7233
+cty48283,"La Salle County, TX",0.7175
+cty13243,"Randolph County, GA",0.7098
+cty22035,"East Carroll Parish, LA",0.7097
+cty48413,"Schleicher County, TX",0.709
+cty20069,"Gray County, KS",0.7087
+cty22025,"Catahoula Parish, LA",0.7061
+cty13061,"Clay County, GA",0.7021
+cty13133,"Greene County, GA",0.6955
+cty13259,"Stewart County, GA",0.6927
+cty13239,"Quitman County, GA",0.6859
+cty28119,"Quitman County, MS",0.6845
+cty28135,"Tallahatchie County, MS",0.6795
+cty13249,"Schley County, GA",0.6732
+cty46017,"Buffalo County, SD",0.6718
+cty13301,"Warren County, GA",0.6543
+cty20081,"Haskell County, KS",0.643
+cty13265,"Taliaferro County, GA",0.6421
+cty28125,"Sharkey County, MS",0.6186
+cty46095,"Mellette County, SD",0.6183
+cty48377,"Presidio County, TX",0.5996
+cty39075,"Holmes County, OH",0.5389
+cty18087,"LaGrange County, IN",0.5306
+cty72003,"Aguada Municipio, PR",
+cty72021,"Bayamon Municipio, PR",
+cty48269,"King County, TX",
+cty30079,"Prairie County, MT",
+cty72025,"Caguas Municipio, PR",
+cty49009,"Daggett County, UT",
+cty72133,"Santa Isabel Municipio, PR",
+cty72035,"Cayey Municipio, PR",
+cty72054,"Florida Municipio, PR",
+cty72087,"Loiza Municipio, PR",
+cty72011,"Anasco Municipio, PR",
+cty08057,"Jackson County, CO",
+cty72099,"Moca Municipio, PR",
+cty72135,"Toa Alta Municipio, PR",
+cty72063,"Gurabo Municipio, PR",
+cty31075,"Grant County, NE",
+cty30019,"Daniels County, MT",
+cty72081,"Lares Municipio, PR",
+cty72001,"Adjuntas Municipio, PR",
+cty72075,"Juana Diaz Municipio, PR",
+cty72015,"Arroyo Municipio, PR",
+cty31009,"Blaine County, NE",
+cty72095,"Maunabo Municipio, PR",
+cty72089,"Luquillo Municipio, PR",
+cty72147,"Vieques Municipio, PR",
+cty02282,"Yakutat City and Borough, AK",
+cty48431,"Sterling County, TX",
+cty72079,"Lajas Municipio, PR",
+cty72103,"Naguabo Municipio, PR",
+cty16025,"Camas County, ID",
+cty72131,"San Sebastian Municipio, PR",
+cty30109,"Wibaux County, MT",
+cty72077,"Juncos Municipio, PR",
+cty72137,"Toa Baja Municipio, PR",
+cty72007,"Aguas Buenas Municipio, PR",
+cty48155,"Foard County, TX",
+cty72055,"Guanica Municipio, PR",
+cty30103,"Treasure County, MT",
+cty72113,"Ponce Municipio, PR",
+cty72139,"Trujillo Alto Municipio, PR",
+cty72125,"San German Municipio, PR",
+cty72083,"Las Marias Municipio, PR",
+cty72029,"Canovanas Municipio, PR",
+cty35021,"Harding County, NM",
+cty72117,"Rincon Municipio, PR",
+cty30033,"Garfield County, MT",
+cty08033,"Dolores County, CO",
+cty72141,"Utuado Municipio, PR",
+cty72109,"Patillas Municipio, PR",
+cty72005,"Aguadilla Municipio, PR",
+cty02230,"Skagway Municipality, AK",
+cty31091,"Hooker County, NE",
+cty72115,"Quebradillas Municipio, PR",
+cty72041,"Cidra Municipio, PR",
+cty72059,"Guayanilla Municipio, PR",
+cty31117,"McPherson County, NE",
+cty72071,"Isabela Municipio, PR",
+cty72149,"Villalba Municipio, PR",
+cty02060,"Bristol Bay Borough, AK",
+cty72039,"Ciales Municipio, PR",
+cty72065,"Hatillo Municipio, PR",
+cty72037,"Ceiba Municipio, PR",
+cty72017,"Barceloneta Municipio, PR",
+cty15005,"Kalawao County, HI",
+cty30069,"Petroleum County, MT",
+cty72091,"Manati Municipio, PR",
+cty72129,"San Lorenzo Municipio, PR",
+cty72151,"Yabucoa Municipio, PR",
+cty30051,"Liberty County, MT",
+cty72119,"Rio Grande Municipio, PR",
+cty48301,"Loving County, TX",
+cty30107,"Wheatland County, MT",
+cty72009,"Aibonito Municipio, PR",
+cty08079,"Mineral County, CO",
+cty72023,"Cabo Rojo Municipio, PR",
+cty72013,"Arecibo Municipio, PR",
+cty72105,"Naranjito Municipio, PR",
+cty72057,"Guayama Municipio, PR",
+cty72153,"Yauco Municipio, PR",
+cty72061,"Guaynabo Municipio, PR",
+cty31171,"Thomas County, NE",
+cty30037,"Golden Valley County, MT",
+cty48235,"Irion County, TX",
+cty31005,"Arthur County, NE",
+cty72073,"Jayuya Municipio, PR",
+cty32009,"Esmeralda County, NV",
+cty32011,"Eureka County, NV",
+cty72145,"Vega Baja Municipio, PR",
+cty72111,"Penuelas Municipio, PR",
+cty02100,"Haines Borough, AK",
+cty72043,"Coamo Municipio, PR",
+cty08111,"San Juan County, CO",
+cty72085,"Las Piedras Municipio, PR",
+cty72097,"Mayaguez Municipio, PR",
+cty72123,"Salinas Municipio, PR",
+cty72051,"Dorado Municipio, PR",
+cty72107,"Orocovis Municipio, PR",
+cty48443,"Terrell County, TX",
+cty72067,"Hormigueros Municipio, PR",
+cty72143,"Vega Alta Municipio, PR",
+cty48137,"Edwards County, TX",
+cty72069,"Humacao Municipio, PR",
+cty48271,"Kinney County, TX",
+cty48263,"Kent County, TX",
+cty72027,"Camuy Municipio, PR",
+cty41069,"Wheeler County, OR",
+cty72049,"Culebra Municipio, PR",
+cty72053,"Fajardo Municipio, PR",
+cty08053,"Hinsdale County, CO",
+cty72019,"Barranquitas Municipio, PR",
+cty72033,"Catano Municipio, PR",
+cty72121,"Sabana Grande Municipio, PR",
+cty48311,"McMullen County, TX",
+cty48261,"Kenedy County, TX",
+cty72031,"Carolina Municipio, PR",
+cty72093,"Maricao Municipio, PR",
+cty72045,"Comerio Municipio, PR",
+cty48345,"Motley County, TX",
+cty30011,"Carter County, MT",
+cty72047,"Corozal Municipio, PR",
+cty48105,"Crockett County, TX",
+cty72101,"Morovis Municipio, PR",
