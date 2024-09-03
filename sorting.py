@@ -14,6 +14,6 @@ df2 = pd.read_csv(file2)
 df1 = df1.sort_values(by='cty')
 df2 = df2.sort_values(by='cty')
 
-# sort the actual csv file by the column cty
-df1.to_csv('CaseStudy\csv\jail.csv', index=False)
-df2.to_csv('CaseStudy\csv\hs.csv', index=False)
+#median
+median1 = df1['hsrate'].median()
+print("Median of cty in first file: ", median1)
