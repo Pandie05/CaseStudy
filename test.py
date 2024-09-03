@@ -3,8 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the CSV files
-file1 = 'csv\jail.csv'
-file2 = 'csv\hs.csv'
+file1 = 'CaseStudy\csv\jail.csv'
+file2 = 'CaseStudy\csv\hs.csv'
 
 # Read the CSV files into pandas DataFrames
 df1 = pd.read_csv(file1)
