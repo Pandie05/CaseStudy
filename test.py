@@ -3,8 +3,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the CSV files
-file1 = 'CaseStudy\csv\jail.csv'
-file2 = 'CaseStudy\csv\hs.csv'
+file1 = 'csv\jail.csv'
+file2 = 'csv\hs.csv'
+
+#file1 = 'CaseStudy\csv\jail.csv'
+#file2 = 'CaseStudy\csv\hs.csv'
 
 # Read the CSV files into pandas DataFrames
 df1 = pd.read_csv(file1)
@@ -23,7 +26,7 @@ plt.title('Data from First File')
 plt.xlabel('Index')
 plt.ylabel('Values')
 plt.legend(loc='best')
-plt.show()
+
 
 # Plotting the data from the second file as a bar graph
 df2.hist( figsize=(10, 6),bins=50)
