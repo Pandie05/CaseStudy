@@ -92,7 +92,6 @@ cty02220,"Sitka City and Borough, AK",0.017
 cty02230,"Skagway Municipality, AK",0.0105
 cty02240,"Southeast Fairbanks Census Area, AK",0.0
 cty02261,"Valdez-Cordova Census Area, AK",0.0164
-cty02270,,
 cty02275,"Wrangell City and Borough, AK",0.0209
 cty02282,"Yakutat City and Borough, AK",0.004
 cty02290,"Yukon-Koyukuk Census Area, AK",0.0184
@@ -319,7 +318,6 @@ cty09015,"Windham County, CT",0.0121
 cty10001,"Kent County, DE",0.0227
 cty10003,"New Castle County, DE",0.0191
 cty10005,"Sussex County, DE",0.0226
-cty11001,"District of Columbia, DC",0.0356
 cty12001,"Alachua County, FL",0.0232
 cty12003,"Baker County, FL",0.0168
 cty12005,"Bay County, FL",0.0261
@@ -2418,7 +2416,6 @@ cty46105,"Perkins County, SD",0.0018
 cty46107,"Potter County, SD",0.0074
 cty46109,"Roberts County, SD",0.0193
 cty46111,"Sanborn County, SD",0.0
-cty46113,,
 cty46115,"Spink County, SD",0.007
 cty46117,"Stanley County, SD",0.0086
 cty46119,"Sully County, SD",0.0
@@ -2917,7 +2914,6 @@ cty51195,"Wise County, VA",0.0193
 cty51197,"Wythe County, VA",0.0184
 cty51199,"York County, VA",0.0097
 cty51510,"Alexandria city, VA",0.0139
-cty51515,,
 cty51520,"Bristol city, VA",0.02
 cty51530,"Buena Vista city, VA",0.0169
 cty51540,"Charlottesville city, VA",0.0418
@@ -3144,81 +3140,4 @@ cty56039,"Teton County, WY",0.0054
 cty56041,"Uinta County, WY",0.0095
 cty56043,"Washakie County, WY",0.0081
 cty56045,"Weston County, WY",0.0076
-cty72001,"Adjuntas Municipio, PR",
-cty72003,"Aguada Municipio, PR",0.0812
-cty72005,"Aguadilla Municipio, PR",0.0
-cty72007,"Aguas Buenas Municipio, PR",0.0
-cty72009,"Aibonito Municipio, PR",0.0
-cty72011,"Anasco Municipio, PR",0.0
-cty72013,"Arecibo Municipio, PR",0.0289
-cty72015,"Arroyo Municipio, PR",
-cty72017,"Barceloneta Municipio, PR",
-cty72019,"Barranquitas Municipio, PR",
-cty72021,"Bayamon Municipio, PR",0.0
-cty72023,"Cabo Rojo Municipio, PR",0.0
-cty72025,"Caguas Municipio, PR",0.0027
-cty72027,"Camuy Municipio, PR",0.0279
-cty72029,"Canovanas Municipio, PR",
-cty72031,"Carolina Municipio, PR",0.0039
-cty72033,"Catano Municipio, PR",
-cty72035,"Cayey Municipio, PR",
-cty72037,"Ceiba Municipio, PR",0.0
-cty72039,"Ciales Municipio, PR",
-cty72041,"Cidra Municipio, PR",0.0006
-cty72043,"Coamo Municipio, PR",0.0038
-cty72045,"Comerio Municipio, PR",
-cty72047,"Corozal Municipio, PR",0.0072
-cty72049,"Culebra Municipio, PR",
-cty72051,"Dorado Municipio, PR",0.0
-cty72053,"Fajardo Municipio, PR",0.0004
-cty72054,"Florida Municipio, PR",
-cty72055,"Guanica Municipio, PR",
-cty72057,"Guayama Municipio, PR",0.0264
-cty72059,"Guayanilla Municipio, PR",
-cty72061,"Guaynabo Municipio, PR",0.0
-cty72063,"Gurabo Municipio, PR",0.0
-cty72065,"Hatillo Municipio, PR",0.1129
-cty72067,"Hormigueros Municipio, PR",
-cty72069,"Humacao Municipio, PR",0.0
-cty72071,"Isabela Municipio, PR",0.0165
-cty72073,"Jayuya Municipio, PR",
-cty72075,"Juana Diaz Municipio, PR",0.0337
-cty72077,"Juncos Municipio, PR",0.0289
-cty72079,"Lajas Municipio, PR",
-cty72081,"Lares Municipio, PR",0.0157
-cty72083,"Las Marias Municipio, PR",
-cty72085,"Las Piedras Municipio, PR",0.0
-cty72087,"Loiza Municipio, PR",
-cty72089,"Luquillo Municipio, PR",0.0
-cty72091,"Manati Municipio, PR",
-cty72093,"Maricao Municipio, PR",
-cty72095,"Maunabo Municipio, PR",
-cty72097,"Mayaguez Municipio, PR",0.0292
-cty72099,"Moca Municipio, PR",0.0
-cty72101,"Morovis Municipio, PR",0.0918
-cty72103,"Naguabo Municipio, PR",0.0013
-cty72105,"Naranjito Municipio, PR",
-cty72107,"Orocovis Municipio, PR",0.0171
-cty72109,"Patillas Municipio, PR",
-cty72111,"Penuelas Municipio, PR",0.0555
-cty72113,"Ponce Municipio, PR",0.0052
-cty72115,"Quebradillas Municipio, PR",
-cty72117,"Rincon Municipio, PR",
-cty72119,"Rio Grande Municipio, PR",0.0
-cty72121,"Sabana Grande Municipio, PR",
-cty72123,"Salinas Municipio, PR",0.0
-cty72125,"San German Municipio, PR",
-cty72127,"San Juan Municipio, PR",0.0067
-cty72129,"San Lorenzo Municipio, PR",0.0008
-cty72131,"San Sebastian Municipio, PR",0.0011
-cty72133,"Santa Isabel Municipio, PR",0.0127
-cty72135,"Toa Alta Municipio, PR",0.0068
-cty72137,"Toa Baja Municipio, PR",0.0
-cty72139,"Trujillo Alto Municipio, PR",0.0067
-cty72141,"Utuado Municipio, PR",0.0316
-cty72143,"Vega Alta Municipio, PR",
-cty72145,"Vega Baja Municipio, PR",
-cty72147,"Vieques Municipio, PR",
-cty72149,"Villalba Municipio, PR",0.0
-cty72151,"Yabucoa Municipio, PR",0.0
-cty72153,"Yauco Municipio, PR",0.0232
+Mean,1.3053014354066985

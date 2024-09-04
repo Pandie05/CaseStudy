@@ -92,7 +92,6 @@ cty02220,"Sitka City and Borough, AK",0.9415
 cty02230,"Skagway Municipality, AK",
 cty02240,"Southeast Fairbanks Census Area, AK",0.7842
 cty02261,"Valdez-Cordova Census Area, AK",0.7899
-cty02270,,
 cty02275,"Wrangell City and Borough, AK",0.9899
 cty02282,"Yakutat City and Borough, AK",
 cty02290,"Yukon-Koyukuk Census Area, AK",0.8269
@@ -319,7 +318,6 @@ cty09015,"Windham County, CT",0.8792
 cty10001,"Kent County, DE",0.8129
 cty10003,"New Castle County, DE",0.8776
 cty10005,"Sussex County, DE",0.8517
-cty11001,"District of Columbia, DC",0.8175
 cty12001,"Alachua County, FL",0.8714
 cty12003,"Baker County, FL",0.7664
 cty12005,"Bay County, FL",0.8379
@@ -2418,7 +2416,6 @@ cty46105,"Perkins County, SD",0.8124
 cty46107,"Potter County, SD",0.8622
 cty46109,"Roberts County, SD",0.858
 cty46111,"Sanborn County, SD",0.8766
-cty46113,,
 cty46115,"Spink County, SD",0.895
 cty46117,"Stanley County, SD",0.796
 cty46119,"Sully County, SD",0.8191
@@ -2917,7 +2914,6 @@ cty51195,"Wise County, VA",0.8895
 cty51197,"Wythe County, VA",0.8963
 cty51199,"York County, VA",0.9214
 cty51510,"Alexandria city, VA",0.868
-cty51515,,
 cty51520,"Bristol city, VA",0.9088
 cty51530,"Buena Vista city, VA",0.8998
 cty51540,"Charlottesville city, VA",0.8443
@@ -3144,81 +3140,3 @@ cty56039,"Teton County, WY",0.8757
 cty56041,"Uinta County, WY",0.8623
 cty56043,"Washakie County, WY",0.8524
 cty56045,"Weston County, WY",0.8854
-cty72001,"Adjuntas Municipio, PR",
-cty72003,"Aguada Municipio, PR",
-cty72005,"Aguadilla Municipio, PR",
-cty72007,"Aguas Buenas Municipio, PR",
-cty72009,"Aibonito Municipio, PR",
-cty72011,"Anasco Municipio, PR",
-cty72013,"Arecibo Municipio, PR",
-cty72015,"Arroyo Municipio, PR",
-cty72017,"Barceloneta Municipio, PR",
-cty72019,"Barranquitas Municipio, PR",
-cty72021,"Bayamon Municipio, PR",
-cty72023,"Cabo Rojo Municipio, PR",
-cty72025,"Caguas Municipio, PR",
-cty72027,"Camuy Municipio, PR",
-cty72029,"Canovanas Municipio, PR",
-cty72031,"Carolina Municipio, PR",
-cty72033,"Catano Municipio, PR",
-cty72035,"Cayey Municipio, PR",
-cty72037,"Ceiba Municipio, PR",
-cty72039,"Ciales Municipio, PR",
-cty72041,"Cidra Municipio, PR",
-cty72043,"Coamo Municipio, PR",
-cty72045,"Comerio Municipio, PR",
-cty72047,"Corozal Municipio, PR",
-cty72049,"Culebra Municipio, PR",
-cty72051,"Dorado Municipio, PR",
-cty72053,"Fajardo Municipio, PR",
-cty72054,"Florida Municipio, PR",
-cty72055,"Guanica Municipio, PR",
-cty72057,"Guayama Municipio, PR",
-cty72059,"Guayanilla Municipio, PR",
-cty72061,"Guaynabo Municipio, PR",
-cty72063,"Gurabo Municipio, PR",
-cty72065,"Hatillo Municipio, PR",
-cty72067,"Hormigueros Municipio, PR",
-cty72069,"Humacao Municipio, PR",
-cty72071,"Isabela Municipio, PR",
-cty72073,"Jayuya Municipio, PR",
-cty72075,"Juana Diaz Municipio, PR",
-cty72077,"Juncos Municipio, PR",
-cty72079,"Lajas Municipio, PR",
-cty72081,"Lares Municipio, PR",
-cty72083,"Las Marias Municipio, PR",
-cty72085,"Las Piedras Municipio, PR",
-cty72087,"Loiza Municipio, PR",
-cty72089,"Luquillo Municipio, PR",
-cty72091,"Manati Municipio, PR",
-cty72093,"Maricao Municipio, PR",
-cty72095,"Maunabo Municipio, PR",
-cty72097,"Mayaguez Municipio, PR",
-cty72099,"Moca Municipio, PR",
-cty72101,"Morovis Municipio, PR",
-cty72103,"Naguabo Municipio, PR",
-cty72105,"Naranjito Municipio, PR",
-cty72107,"Orocovis Municipio, PR",
-cty72109,"Patillas Municipio, PR",
-cty72111,"Penuelas Municipio, PR",
-cty72113,"Ponce Municipio, PR",
-cty72115,"Quebradillas Municipio, PR",
-cty72117,"Rincon Municipio, PR",
-cty72119,"Rio Grande Municipio, PR",
-cty72121,"Sabana Grande Municipio, PR",
-cty72123,"Salinas Municipio, PR",
-cty72125,"San German Municipio, PR",
-cty72127,"San Juan Municipio, PR",0.8335
-cty72129,"San Lorenzo Municipio, PR",
-cty72131,"San Sebastian Municipio, PR",
-cty72133,"Santa Isabel Municipio, PR",
-cty72135,"Toa Alta Municipio, PR",
-cty72137,"Toa Baja Municipio, PR",
-cty72139,"Trujillo Alto Municipio, PR",
-cty72141,"Utuado Municipio, PR",
-cty72143,"Vega Alta Municipio, PR",
-cty72145,"Vega Baja Municipio, PR",
-cty72147,"Vieques Municipio, PR",
-cty72149,"Villalba Municipio, PR",
-cty72151,"Yabucoa Municipio, PR",
-cty72153,"Yauco Municipio, PR",
