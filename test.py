@@ -22,7 +22,7 @@ print(df2.head())
 
 # Plotting the data from the first file as a bar graph
 df1.hist(figsize=(10, 6),bins=50)
-plt.title('Data from First File')
+plt.title('Incarceration Rate')
 plt.xlabel('Index')
 plt.ylabel('Values')
 plt.legend(loc='best')
@@ -30,7 +30,7 @@ plt.legend(loc='best')
 
 # Plotting the data from the second file as a bar graph
 df2.hist( figsize=(10, 6),bins=50)
-plt.title('Data from Second File')
+plt.title('HS Graduation Rate')
 plt.xlabel('Index')
 plt.ylabel('Values')
 plt.legend(loc='best')
