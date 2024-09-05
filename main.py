@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -83,8 +82,8 @@ for key in jail_means:
 for key in jail_means:
     jail_means[key] = round(jail_means[key], 3)
 
-for key in jail_means:
-    print(key, ":", jail_means[key])
+#for key in jail_means:
+    #print(key, ":", jail_means[key])
 
 # Create a new DataFrame from the dictionary
 ndf1 = pd.DataFrame(list(jail_means.items()), columns=['State', 'Mean'])
@@ -152,24 +151,27 @@ for key in hs_means:
 for key in hs_means:
     hs_means[key] = round(hs_means[key], 3)
 
-for key in hs_means:
-    print(key, ":", hs_means[key])
+#for key in hs_means:
+    #print(key, ":", hs_means[key])
 
 # Create a new DataFrame from the dictionary
 ndf2 = pd.DataFrame(list(hs_means.items()), columns=['State', 'Mean'])
 
 #------------------------------------------------------------PLOTTING------------------------------------------------------------
 
-# Merge the two DataFrames on the 'State' column
-merged_df = pd.merge(ndf1, ndf2, on='State')
+# Create a figure with two subplots
+fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(10, 6))
 
-# Set the 'State' column as the index
-merged_df.set_index('State', inplace=True)
+# Plot the data from ndf1 on the first subplot
+ax1.bar(ndf1['State'], ndf1['Mean'])
+ax1.set_title('Jail Means')
 
-# Plot the bar graph
-merged_df.plot(kind='bar', figsize=(12, 6))
-plt.xlabel('State')
-plt.ylabel('Mean Rate')
-plt.title('Mean Jail and HS Rates by State')
-plt.legend(['Jail Rate', 'HS Rate'])
+# Plot the data from ndf2 on the second subplot
+ax2.bar(ndf2['State'], ndf2['Mean'])
+ax2.set_title('HS Means')
+
+# Adjust the size of the subplots to make them appear the same size
+plt.subplots_adjust(hspace=0.5)
+
+# Display the plot
 plt.show()
